@@ -1,4 +1,4 @@
-library flutter_icons;
+library;
 
 export 'src/ionicons.dart';
 export 'src/ant_design.dart';

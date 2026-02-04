@@ -29,10 +29,10 @@ class IconToggle extends StatefulWidget {
   final Duration duration;
   final Duration? reverseDuration;
   @override
-  _IconToggleState createState() => _IconToggleState();
+  IconToggleState createState() => IconToggleState();
 }
 
-class _IconToggleState extends State<IconToggle>
+class IconToggleState extends State<IconToggle>
     with SingleTickerProviderStateMixin {
   late AnimationController _controller;
   late Animation<double> _position;
@@ -140,10 +140,14 @@ class _IconPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
     final Paint paint = Paint()
-      ..color = Color.lerp(inactiveColor, activeColor, _value)!
-          .withOpacity(math.min(_value, 0.15))
+      ..color = Color.lerp(
+        inactiveColor,
+        activeColor,
+        _value,
+      )!.withValues(alpha: math.min(_value, 0.15))
       ..style = PaintingStyle.fill
       ..strokeWidth = 2.0;
+
     canvas.drawCircle(
         Offset(size.width / 2, size.height / 2), 20 * _value, paint);
   }
