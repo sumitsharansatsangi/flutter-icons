@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'flutter_icon_data.dart';
 
 /// all Icons under MaterialCommunityIcons
 ///
@@ -8,7485 +7,7485 @@ class MaterialCommunityIcons {
   MaterialCommunityIcons._();
 
   static const IconData ab_testing =
-      FlutterIconData.materialCommunityIcons(983068);
+      IconData(983068, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData access_point =
-      FlutterIconData.materialCommunityIcons(61442);
+      IconData(61442, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData access_point_network =
-      FlutterIconData.materialCommunityIcons(61443);
+      IconData(61443, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData access_point_network_off =
-      FlutterIconData.materialCommunityIcons(64445);
-  static const IconData account = FlutterIconData.materialCommunityIcons(61444);
+      IconData(64445, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData account = IconData(61444, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_alert =
-      FlutterIconData.materialCommunityIcons(61445);
+      IconData(61445, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_alert_outline =
-      FlutterIconData.materialCommunityIcons(64300);
+      IconData(64300, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_arrow_left =
-      FlutterIconData.materialCommunityIcons(64301);
+      IconData(64301, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_arrow_left_outline =
-      FlutterIconData.materialCommunityIcons(64302);
+      IconData(64302, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_arrow_right =
-      FlutterIconData.materialCommunityIcons(64303);
+      IconData(64303, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_arrow_right_outline =
-      FlutterIconData.materialCommunityIcons(64304);
+      IconData(64304, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_badge =
-      FlutterIconData.materialCommunityIcons(64899);
+      IconData(64899, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_badge_alert =
-      FlutterIconData.materialCommunityIcons(64900);
+      IconData(64900, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_badge_alert_outline =
-      FlutterIconData.materialCommunityIcons(64901);
+      IconData(64901, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_badge_horizontal =
-      FlutterIconData.materialCommunityIcons(65008);
+      IconData(65008, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_badge_horizontal_outline =
-      FlutterIconData.materialCommunityIcons(65009);
+      IconData(65009, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_badge_outline =
-      FlutterIconData.materialCommunityIcons(64902);
+      IconData(64902, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_box =
-      FlutterIconData.materialCommunityIcons(61446);
+      IconData(61446, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_box_multiple =
-      FlutterIconData.materialCommunityIcons(63795);
+      IconData(63795, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_box_outline =
-      FlutterIconData.materialCommunityIcons(61447);
+      IconData(61447, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_card_details =
-      FlutterIconData.materialCommunityIcons(62930);
+      IconData(62930, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_card_details_outline =
-      FlutterIconData.materialCommunityIcons(64903);
+      IconData(64903, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_check =
-      FlutterIconData.materialCommunityIcons(61448);
+      IconData(61448, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_check_outline =
-      FlutterIconData.materialCommunityIcons(64446);
+      IconData(64446, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_child =
-      FlutterIconData.materialCommunityIcons(64136);
+      IconData(64136, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_child_circle =
-      FlutterIconData.materialCommunityIcons(64137);
+      IconData(64137, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_circle =
-      FlutterIconData.materialCommunityIcons(61449);
+      IconData(61449, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_circle_outline =
-      FlutterIconData.materialCommunityIcons(64305);
+      IconData(64305, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_clock =
-      FlutterIconData.materialCommunityIcons(64306);
+      IconData(64306, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_clock_outline =
-      FlutterIconData.materialCommunityIcons(64307);
+      IconData(64307, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_convert =
-      FlutterIconData.materialCommunityIcons(61450);
+      IconData(61450, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_details =
-      FlutterIconData.materialCommunityIcons(63025);
+      IconData(63025, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_edit =
-      FlutterIconData.materialCommunityIcons(63163);
+      IconData(63163, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_edit_outline =
-      FlutterIconData.materialCommunityIcons(983069);
+      IconData(983069, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_group =
-      FlutterIconData.materialCommunityIcons(63560);
+      IconData(63560, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_group_outline =
-      FlutterIconData.materialCommunityIcons(64308);
+      IconData(64308, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_heart =
-      FlutterIconData.materialCommunityIcons(63640);
+      IconData(63640, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_heart_outline =
-      FlutterIconData.materialCommunityIcons(64447);
+      IconData(64447, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_key =
-      FlutterIconData.materialCommunityIcons(61451);
+      IconData(61451, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_key_outline =
-      FlutterIconData.materialCommunityIcons(64448);
+      IconData(64448, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_minus =
-      FlutterIconData.materialCommunityIcons(61453);
+      IconData(61453, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_minus_outline =
-      FlutterIconData.materialCommunityIcons(64235);
+      IconData(64235, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_multiple =
-      FlutterIconData.materialCommunityIcons(61454);
+      IconData(61454, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_multiple_check =
-      FlutterIconData.materialCommunityIcons(63684);
+      IconData(63684, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_multiple_minus =
-      FlutterIconData.materialCommunityIcons(62931);
+      IconData(62931, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_multiple_minus_outline =
-      FlutterIconData.materialCommunityIcons(64449);
+      IconData(64449, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_multiple_outline =
-      FlutterIconData.materialCommunityIcons(61455);
+      IconData(61455, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_multiple_plus =
-      FlutterIconData.materialCommunityIcons(61456);
+      IconData(61456, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_multiple_plus_outline =
-      FlutterIconData.materialCommunityIcons(63487);
+      IconData(63487, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_network =
-      FlutterIconData.materialCommunityIcons(61457);
+      IconData(61457, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_network_outline =
-      FlutterIconData.materialCommunityIcons(64450);
+      IconData(64450, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_off =
-      FlutterIconData.materialCommunityIcons(61458);
+      IconData(61458, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_off_outline =
-      FlutterIconData.materialCommunityIcons(64451);
+      IconData(64451, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_outline =
-      FlutterIconData.materialCommunityIcons(61459);
+      IconData(61459, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_plus =
-      FlutterIconData.materialCommunityIcons(61460);
+      IconData(61460, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_plus_outline =
-      FlutterIconData.materialCommunityIcons(63488);
+      IconData(63488, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_question =
-      FlutterIconData.materialCommunityIcons(64309);
+      IconData(64309, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_question_outline =
-      FlutterIconData.materialCommunityIcons(64310);
+      IconData(64310, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_remove =
-      FlutterIconData.materialCommunityIcons(61461);
+      IconData(61461, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_remove_outline =
-      FlutterIconData.materialCommunityIcons(64236);
+      IconData(64236, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_search =
-      FlutterIconData.materialCommunityIcons(61462);
+      IconData(61462, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_search_outline =
-      FlutterIconData.materialCommunityIcons(63796);
+      IconData(63796, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_settings =
-      FlutterIconData.materialCommunityIcons(63024);
+      IconData(63024, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_star =
-      FlutterIconData.materialCommunityIcons(61463);
+      IconData(61463, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_star_outline =
-      FlutterIconData.materialCommunityIcons(64452);
+      IconData(64452, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_supervisor =
-      FlutterIconData.materialCommunityIcons(64138);
+      IconData(64138, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_supervisor_circle =
-      FlutterIconData.materialCommunityIcons(64139);
+      IconData(64139, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_switch =
-      FlutterIconData.materialCommunityIcons(61465);
+      IconData(61465, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData account_tie =
-      FlutterIconData.materialCommunityIcons(64703);
+      IconData(64703, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData accusoft =
-      FlutterIconData.materialCommunityIcons(63561);
+      IconData(63561, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData adchoices =
-      FlutterIconData.materialCommunityIcons(64798);
-  static const IconData adjust = FlutterIconData.materialCommunityIcons(61466);
-  static const IconData adobe = FlutterIconData.materialCommunityIcons(63797);
+      IconData(64798, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData adjust = IconData(61466, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData adobe = IconData(63797, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData adobe_acrobat =
-      FlutterIconData.materialCommunityIcons(65469);
+      IconData(65469, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData air_conditioner =
-      FlutterIconData.materialCommunityIcons(61467);
+      IconData(61467, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData air_filter =
-      FlutterIconData.materialCommunityIcons(64799);
+      IconData(64799, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData air_horn =
-      FlutterIconData.materialCommunityIcons(64904);
+      IconData(64904, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData air_purifier =
-      FlutterIconData.materialCommunityIcons(64800);
-  static const IconData airbag = FlutterIconData.materialCommunityIcons(64453);
+      IconData(64800, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData airbag = IconData(64453, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData airballoon =
-      FlutterIconData.materialCommunityIcons(61468);
+      IconData(61468, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData airplane =
-      FlutterIconData.materialCommunityIcons(61469);
+      IconData(61469, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData airplane_landing =
-      FlutterIconData.materialCommunityIcons(62932);
+      IconData(62932, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData airplane_off =
-      FlutterIconData.materialCommunityIcons(61470);
+      IconData(61470, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData airplane_takeoff =
-      FlutterIconData.materialCommunityIcons(62933);
-  static const IconData airplay = FlutterIconData.materialCommunityIcons(61471);
-  static const IconData airport = FlutterIconData.materialCommunityIcons(63562);
-  static const IconData alarm = FlutterIconData.materialCommunityIcons(61472);
+      IconData(62933, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData airplay = IconData(61471, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData airport = IconData(63562, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alarm = IconData(61472, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_bell =
-      FlutterIconData.materialCommunityIcons(63373);
+      IconData(63373, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_check =
-      FlutterIconData.materialCommunityIcons(61473);
+      IconData(61473, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_light =
-      FlutterIconData.materialCommunityIcons(63374);
+      IconData(63374, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_light_outline =
-      FlutterIconData.materialCommunityIcons(64454);
+      IconData(64454, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_multiple =
-      FlutterIconData.materialCommunityIcons(61474);
+      IconData(61474, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_note =
-      FlutterIconData.materialCommunityIcons(65166);
+      IconData(65166, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_note_off =
-      FlutterIconData.materialCommunityIcons(65167);
+      IconData(65167, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_off =
-      FlutterIconData.materialCommunityIcons(61475);
+      IconData(61475, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_plus =
-      FlutterIconData.materialCommunityIcons(61476);
+      IconData(61476, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alarm_snooze =
-      FlutterIconData.materialCommunityIcons(63117);
-  static const IconData album = FlutterIconData.materialCommunityIcons(61477);
-  static const IconData alert = FlutterIconData.materialCommunityIcons(61478);
+      IconData(63117, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData album = IconData(61477, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alert = IconData(61478, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_box =
-      FlutterIconData.materialCommunityIcons(61479);
+      IconData(61479, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_box_outline =
-      FlutterIconData.materialCommunityIcons(64704);
+      IconData(64704, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_circle =
-      FlutterIconData.materialCommunityIcons(61480);
+      IconData(61480, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_circle_outline =
-      FlutterIconData.materialCommunityIcons(62934);
+      IconData(62934, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_decagram =
-      FlutterIconData.materialCommunityIcons(63164);
+      IconData(63164, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_decagram_outline =
-      FlutterIconData.materialCommunityIcons(64705);
+      IconData(64705, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_octagon =
-      FlutterIconData.materialCommunityIcons(61481);
+      IconData(61481, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_octagon_outline =
-      FlutterIconData.materialCommunityIcons(64706);
+      IconData(64706, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_octagram =
-      FlutterIconData.materialCommunityIcons(63334);
+      IconData(63334, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_octagram_outline =
-      FlutterIconData.materialCommunityIcons(64707);
+      IconData(64707, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alert_outline =
-      FlutterIconData.materialCommunityIcons(61482);
-  static const IconData alien = FlutterIconData.materialCommunityIcons(63641);
+      IconData(61482, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alien = IconData(63641, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData all_inclusive =
-      FlutterIconData.materialCommunityIcons(63165);
-  static const IconData alpha = FlutterIconData.materialCommunityIcons(61483);
-  static const IconData alpha_a = FlutterIconData.materialCommunityIcons(65);
+      IconData(63165, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha = IconData(61483, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_a = IconData(65, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_a_box =
-      FlutterIconData.materialCommunityIcons(64237);
+      IconData(64237, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_a_box_outline =
-      FlutterIconData.materialCommunityIcons(64455);
+      IconData(64455, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_a_circle =
-      FlutterIconData.materialCommunityIcons(64456);
+      IconData(64456, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_a_circle_outline =
-      FlutterIconData.materialCommunityIcons(64457);
-  static const IconData alpha_b = FlutterIconData.materialCommunityIcons(66);
+      IconData(64457, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_b = IconData(66, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_b_box =
-      FlutterIconData.materialCommunityIcons(64238);
+      IconData(64238, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_b_box_outline =
-      FlutterIconData.materialCommunityIcons(64458);
+      IconData(64458, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_b_circle =
-      FlutterIconData.materialCommunityIcons(64459);
+      IconData(64459, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_b_circle_outline =
-      FlutterIconData.materialCommunityIcons(64460);
-  static const IconData alpha_c = FlutterIconData.materialCommunityIcons(67);
+      IconData(64460, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_c = IconData(67, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_c_box =
-      FlutterIconData.materialCommunityIcons(64239);
+      IconData(64239, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_c_box_outline =
-      FlutterIconData.materialCommunityIcons(64461);
+      IconData(64461, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_c_circle =
-      FlutterIconData.materialCommunityIcons(64462);
+      IconData(64462, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_c_circle_outline =
-      FlutterIconData.materialCommunityIcons(64463);
-  static const IconData alpha_d = FlutterIconData.materialCommunityIcons(68);
+      IconData(64463, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_d = IconData(68, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_d_box =
-      FlutterIconData.materialCommunityIcons(64240);
+      IconData(64240, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_d_box_outline =
-      FlutterIconData.materialCommunityIcons(64464);
+      IconData(64464, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_d_circle =
-      FlutterIconData.materialCommunityIcons(64465);
+      IconData(64465, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_d_circle_outline =
-      FlutterIconData.materialCommunityIcons(64466);
-  static const IconData alpha_e = FlutterIconData.materialCommunityIcons(69);
+      IconData(64466, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_e = IconData(69, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_e_box =
-      FlutterIconData.materialCommunityIcons(64241);
+      IconData(64241, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_e_box_outline =
-      FlutterIconData.materialCommunityIcons(64467);
+      IconData(64467, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_e_circle =
-      FlutterIconData.materialCommunityIcons(64468);
+      IconData(64468, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_e_circle_outline =
-      FlutterIconData.materialCommunityIcons(64469);
-  static const IconData alpha_f = FlutterIconData.materialCommunityIcons(70);
+      IconData(64469, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_f = IconData(70, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_f_box =
-      FlutterIconData.materialCommunityIcons(64242);
+      IconData(64242, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_f_box_outline =
-      FlutterIconData.materialCommunityIcons(64470);
+      IconData(64470, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_f_circle =
-      FlutterIconData.materialCommunityIcons(64471);
+      IconData(64471, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_f_circle_outline =
-      FlutterIconData.materialCommunityIcons(64472);
-  static const IconData alpha_g = FlutterIconData.materialCommunityIcons(71);
+      IconData(64472, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_g = IconData(71, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_g_box =
-      FlutterIconData.materialCommunityIcons(64243);
+      IconData(64243, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_g_box_outline =
-      FlutterIconData.materialCommunityIcons(64473);
+      IconData(64473, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_g_circle =
-      FlutterIconData.materialCommunityIcons(64474);
+      IconData(64474, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_g_circle_outline =
-      FlutterIconData.materialCommunityIcons(64475);
-  static const IconData alpha_h = FlutterIconData.materialCommunityIcons(72);
+      IconData(64475, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_h = IconData(72, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_h_box =
-      FlutterIconData.materialCommunityIcons(64244);
+      IconData(64244, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_h_box_outline =
-      FlutterIconData.materialCommunityIcons(64476);
+      IconData(64476, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_h_circle =
-      FlutterIconData.materialCommunityIcons(64477);
+      IconData(64477, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_h_circle_outline =
-      FlutterIconData.materialCommunityIcons(64478);
-  static const IconData alpha_i = FlutterIconData.materialCommunityIcons(73);
+      IconData(64478, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_i = IconData(73, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_i_box =
-      FlutterIconData.materialCommunityIcons(64245);
+      IconData(64245, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_i_box_outline =
-      FlutterIconData.materialCommunityIcons(64479);
+      IconData(64479, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_i_circle =
-      FlutterIconData.materialCommunityIcons(64480);
+      IconData(64480, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_i_circle_outline =
-      FlutterIconData.materialCommunityIcons(64481);
-  static const IconData alpha_j = FlutterIconData.materialCommunityIcons(74);
+      IconData(64481, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_j = IconData(74, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_j_box =
-      FlutterIconData.materialCommunityIcons(64246);
+      IconData(64246, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_j_box_outline =
-      FlutterIconData.materialCommunityIcons(64482);
+      IconData(64482, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_j_circle =
-      FlutterIconData.materialCommunityIcons(64483);
+      IconData(64483, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_j_circle_outline =
-      FlutterIconData.materialCommunityIcons(64484);
-  static const IconData alpha_k = FlutterIconData.materialCommunityIcons(75);
+      IconData(64484, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_k = IconData(75, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_k_box =
-      FlutterIconData.materialCommunityIcons(64247);
+      IconData(64247, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_k_box_outline =
-      FlutterIconData.materialCommunityIcons(64485);
+      IconData(64485, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_k_circle =
-      FlutterIconData.materialCommunityIcons(64486);
+      IconData(64486, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_k_circle_outline =
-      FlutterIconData.materialCommunityIcons(64487);
-  static const IconData alpha_l = FlutterIconData.materialCommunityIcons(76);
+      IconData(64487, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_l = IconData(76, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_l_box =
-      FlutterIconData.materialCommunityIcons(64248);
+      IconData(64248, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_l_box_outline =
-      FlutterIconData.materialCommunityIcons(64488);
+      IconData(64488, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_l_circle =
-      FlutterIconData.materialCommunityIcons(64489);
+      IconData(64489, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_l_circle_outline =
-      FlutterIconData.materialCommunityIcons(64490);
-  static const IconData alpha_m = FlutterIconData.materialCommunityIcons(77);
+      IconData(64490, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_m = IconData(77, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_m_box =
-      FlutterIconData.materialCommunityIcons(64249);
+      IconData(64249, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_m_box_outline =
-      FlutterIconData.materialCommunityIcons(64491);
+      IconData(64491, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_m_circle =
-      FlutterIconData.materialCommunityIcons(64492);
+      IconData(64492, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_m_circle_outline =
-      FlutterIconData.materialCommunityIcons(64493);
-  static const IconData alpha_n = FlutterIconData.materialCommunityIcons(78);
+      IconData(64493, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_n = IconData(78, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_n_box =
-      FlutterIconData.materialCommunityIcons(64250);
+      IconData(64250, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_n_box_outline =
-      FlutterIconData.materialCommunityIcons(64494);
+      IconData(64494, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_n_circle =
-      FlutterIconData.materialCommunityIcons(64495);
+      IconData(64495, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_n_circle_outline =
-      FlutterIconData.materialCommunityIcons(64496);
-  static const IconData alpha_o = FlutterIconData.materialCommunityIcons(79);
+      IconData(64496, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_o = IconData(79, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_o_box =
-      FlutterIconData.materialCommunityIcons(64251);
+      IconData(64251, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_o_box_outline =
-      FlutterIconData.materialCommunityIcons(64497);
+      IconData(64497, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_o_circle =
-      FlutterIconData.materialCommunityIcons(64498);
+      IconData(64498, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_o_circle_outline =
-      FlutterIconData.materialCommunityIcons(64499);
-  static const IconData alpha_p = FlutterIconData.materialCommunityIcons(80);
+      IconData(64499, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_p = IconData(80, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_p_box =
-      FlutterIconData.materialCommunityIcons(64252);
+      IconData(64252, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_p_box_outline =
-      FlutterIconData.materialCommunityIcons(64500);
+      IconData(64500, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_p_circle =
-      FlutterIconData.materialCommunityIcons(64501);
+      IconData(64501, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_p_circle_outline =
-      FlutterIconData.materialCommunityIcons(64502);
-  static const IconData alpha_q = FlutterIconData.materialCommunityIcons(81);
+      IconData(64502, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_q = IconData(81, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_q_box =
-      FlutterIconData.materialCommunityIcons(64253);
+      IconData(64253, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_q_box_outline =
-      FlutterIconData.materialCommunityIcons(64503);
+      IconData(64503, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_q_circle =
-      FlutterIconData.materialCommunityIcons(64504);
+      IconData(64504, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_q_circle_outline =
-      FlutterIconData.materialCommunityIcons(64505);
-  static const IconData alpha_r = FlutterIconData.materialCommunityIcons(82);
+      IconData(64505, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_r = IconData(82, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_r_box =
-      FlutterIconData.materialCommunityIcons(64254);
+      IconData(64254, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_r_box_outline =
-      FlutterIconData.materialCommunityIcons(64506);
+      IconData(64506, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_r_circle =
-      FlutterIconData.materialCommunityIcons(64507);
+      IconData(64507, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_r_circle_outline =
-      FlutterIconData.materialCommunityIcons(64508);
-  static const IconData alpha_s = FlutterIconData.materialCommunityIcons(83);
+      IconData(64508, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_s = IconData(83, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_s_box =
-      FlutterIconData.materialCommunityIcons(64255);
+      IconData(64255, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_s_box_outline =
-      FlutterIconData.materialCommunityIcons(64509);
+      IconData(64509, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_s_circle =
-      FlutterIconData.materialCommunityIcons(64510);
+      IconData(64510, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_s_circle_outline =
-      FlutterIconData.materialCommunityIcons(64511);
-  static const IconData alpha_t = FlutterIconData.materialCommunityIcons(84);
+      IconData(64511, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_t = IconData(84, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_t_box =
-      FlutterIconData.materialCommunityIcons(64256);
+      IconData(64256, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_t_box_outline =
-      FlutterIconData.materialCommunityIcons(64512);
+      IconData(64512, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_t_circle =
-      FlutterIconData.materialCommunityIcons(64513);
+      IconData(64513, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_t_circle_outline =
-      FlutterIconData.materialCommunityIcons(64514);
-  static const IconData alpha_u = FlutterIconData.materialCommunityIcons(85);
+      IconData(64514, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_u = IconData(85, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_u_box =
-      FlutterIconData.materialCommunityIcons(64257);
+      IconData(64257, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_u_box_outline =
-      FlutterIconData.materialCommunityIcons(64515);
+      IconData(64515, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_u_circle =
-      FlutterIconData.materialCommunityIcons(64516);
+      IconData(64516, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_u_circle_outline =
-      FlutterIconData.materialCommunityIcons(64517);
-  static const IconData alpha_v = FlutterIconData.materialCommunityIcons(86);
+      IconData(64517, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_v = IconData(86, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_v_box =
-      FlutterIconData.materialCommunityIcons(64258);
+      IconData(64258, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_v_box_outline =
-      FlutterIconData.materialCommunityIcons(64518);
+      IconData(64518, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_v_circle =
-      FlutterIconData.materialCommunityIcons(64519);
+      IconData(64519, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_v_circle_outline =
-      FlutterIconData.materialCommunityIcons(64520);
-  static const IconData alpha_w = FlutterIconData.materialCommunityIcons(87);
+      IconData(64520, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_w = IconData(87, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_w_box =
-      FlutterIconData.materialCommunityIcons(64259);
+      IconData(64259, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_w_box_outline =
-      FlutterIconData.materialCommunityIcons(64521);
+      IconData(64521, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_w_circle =
-      FlutterIconData.materialCommunityIcons(64522);
+      IconData(64522, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_w_circle_outline =
-      FlutterIconData.materialCommunityIcons(64523);
-  static const IconData alpha_x = FlutterIconData.materialCommunityIcons(88);
+      IconData(64523, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_x = IconData(88, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_x_box =
-      FlutterIconData.materialCommunityIcons(64260);
+      IconData(64260, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_x_box_outline =
-      FlutterIconData.materialCommunityIcons(64524);
+      IconData(64524, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_x_circle =
-      FlutterIconData.materialCommunityIcons(64525);
+      IconData(64525, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_x_circle_outline =
-      FlutterIconData.materialCommunityIcons(64526);
-  static const IconData alpha_y = FlutterIconData.materialCommunityIcons(89);
+      IconData(64526, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_y = IconData(89, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_y_box =
-      FlutterIconData.materialCommunityIcons(64261);
+      IconData(64261, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_y_box_outline =
-      FlutterIconData.materialCommunityIcons(64527);
+      IconData(64527, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_y_circle =
-      FlutterIconData.materialCommunityIcons(64528);
+      IconData(64528, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_y_circle_outline =
-      FlutterIconData.materialCommunityIcons(64529);
-  static const IconData alpha_z = FlutterIconData.materialCommunityIcons(90);
+      IconData(64529, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData alpha_z = IconData(90, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_z_box =
-      FlutterIconData.materialCommunityIcons(64262);
+      IconData(64262, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_z_box_outline =
-      FlutterIconData.materialCommunityIcons(64530);
+      IconData(64530, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_z_circle =
-      FlutterIconData.materialCommunityIcons(64531);
+      IconData(64531, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alpha_z_circle_outline =
-      FlutterIconData.materialCommunityIcons(64532);
+      IconData(64532, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData alphabetical =
-      FlutterIconData.materialCommunityIcons(61484);
+      IconData(61484, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData altimeter =
-      FlutterIconData.materialCommunityIcons(62935);
-  static const IconData amazon = FlutterIconData.materialCommunityIcons(61485);
+      IconData(62935, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData amazon = IconData(61485, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData amazon_alexa =
-      FlutterIconData.materialCommunityIcons(63685);
+      IconData(63685, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData amazon_drive =
-      FlutterIconData.materialCommunityIcons(61486);
+      IconData(61486, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ambulance =
-      FlutterIconData.materialCommunityIcons(61487);
+      IconData(61487, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ammunition =
-      FlutterIconData.materialCommunityIcons(64708);
+      IconData(64708, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ampersand =
-      FlutterIconData.materialCommunityIcons(64140);
+      IconData(64140, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData amplifier =
-      FlutterIconData.materialCommunityIcons(61488);
-  static const IconData anchor = FlutterIconData.materialCommunityIcons(61489);
-  static const IconData android = FlutterIconData.materialCommunityIcons(61490);
+      IconData(61488, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData anchor = IconData(61489, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData android = IconData(61490, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData android_auto =
-      FlutterIconData.materialCommunityIcons(64141);
+      IconData(64141, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData android_debug_bridge =
-      FlutterIconData.materialCommunityIcons(61491);
+      IconData(61491, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData android_head =
-      FlutterIconData.materialCommunityIcons(63375);
+      IconData(63375, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData android_messages =
-      FlutterIconData.materialCommunityIcons(64801);
+      IconData(64801, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData android_studio =
-      FlutterIconData.materialCommunityIcons(61492);
+      IconData(61492, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData angle_acute =
-      FlutterIconData.materialCommunityIcons(63798);
+      IconData(63798, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData angle_obtuse =
-      FlutterIconData.materialCommunityIcons(63799);
+      IconData(63799, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData angle_right =
-      FlutterIconData.materialCommunityIcons(63800);
-  static const IconData angular = FlutterIconData.materialCommunityIcons(63153);
+      IconData(63800, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData angular = IconData(63153, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData angularjs =
-      FlutterIconData.materialCommunityIcons(63166);
+      IconData(63166, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData animation =
-      FlutterIconData.materialCommunityIcons(62936);
+      IconData(62936, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData animation_outline =
-      FlutterIconData.materialCommunityIcons(64142);
+      IconData(64142, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData animation_play =
-      FlutterIconData.materialCommunityIcons(63801);
+      IconData(63801, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData animation_play_outline =
-      FlutterIconData.materialCommunityIcons(64143);
-  static const IconData anvil = FlutterIconData.materialCommunityIcons(63642);
-  static const IconData apple = FlutterIconData.materialCommunityIcons(61493);
+      IconData(64143, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData anvil = IconData(63642, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData apple = IconData(61493, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_finder =
-      FlutterIconData.materialCommunityIcons(61494);
+      IconData(61494, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_icloud =
-      FlutterIconData.materialCommunityIcons(61496);
+      IconData(61496, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_ios =
-      FlutterIconData.materialCommunityIcons(61495);
+      IconData(61495, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_keyboard_caps =
-      FlutterIconData.materialCommunityIcons(63026);
+      IconData(63026, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_keyboard_command =
-      FlutterIconData.materialCommunityIcons(63027);
+      IconData(63027, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_keyboard_control =
-      FlutterIconData.materialCommunityIcons(63028);
+      IconData(63028, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_keyboard_option =
-      FlutterIconData.materialCommunityIcons(63029);
+      IconData(63029, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_keyboard_shift =
-      FlutterIconData.materialCommunityIcons(63030);
+      IconData(63030, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apple_safari =
-      FlutterIconData.materialCommunityIcons(61497);
+      IconData(61497, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData application =
-      FlutterIconData.materialCommunityIcons(62996);
+      IconData(62996, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData application_export =
-      FlutterIconData.materialCommunityIcons(64905);
+      IconData(64905, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData application_import =
-      FlutterIconData.materialCommunityIcons(64906);
+      IconData(64906, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData approximately_equal =
-      FlutterIconData.materialCommunityIcons(65470);
+      IconData(65470, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData approximately_equal_box =
-      FlutterIconData.materialCommunityIcons(65471);
-  static const IconData apps = FlutterIconData.materialCommunityIcons(61499);
+      IconData(65471, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData apps = IconData(61499, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData apps_box =
-      FlutterIconData.materialCommunityIcons(64802);
-  static const IconData arch = FlutterIconData.materialCommunityIcons(63686);
-  static const IconData archive = FlutterIconData.materialCommunityIcons(61500);
+      IconData(64802, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData arch = IconData(63686, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData archive = IconData(61500, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrange_bring_forward =
-      FlutterIconData.materialCommunityIcons(61501);
+      IconData(61501, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrange_bring_to_front =
-      FlutterIconData.materialCommunityIcons(61502);
+      IconData(61502, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrange_send_backward =
-      FlutterIconData.materialCommunityIcons(61503);
+      IconData(61503, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrange_send_to_back =
-      FlutterIconData.materialCommunityIcons(61504);
+      IconData(61504, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_all =
-      FlutterIconData.materialCommunityIcons(61505);
+      IconData(61505, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_bottom_left =
-      FlutterIconData.materialCommunityIcons(61506);
+      IconData(61506, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_bottom_left_bold_outline =
-      FlutterIconData.materialCommunityIcons(63926);
+      IconData(63926, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_bottom_left_thick =
-      FlutterIconData.materialCommunityIcons(63927);
+      IconData(63927, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_bottom_right =
-      FlutterIconData.materialCommunityIcons(61507);
+      IconData(61507, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_bottom_right_bold_outline =
-      FlutterIconData.materialCommunityIcons(63928);
+      IconData(63928, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_bottom_right_thick =
-      FlutterIconData.materialCommunityIcons(63929);
+      IconData(63929, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_collapse =
-      FlutterIconData.materialCommunityIcons(62997);
+      IconData(62997, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_collapse_all =
-      FlutterIconData.materialCommunityIcons(61508);
+      IconData(61508, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_collapse_down =
-      FlutterIconData.materialCommunityIcons(63377);
+      IconData(63377, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_collapse_horizontal =
-      FlutterIconData.materialCommunityIcons(63563);
+      IconData(63563, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_collapse_left =
-      FlutterIconData.materialCommunityIcons(63378);
+      IconData(63378, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_collapse_right =
-      FlutterIconData.materialCommunityIcons(63379);
+      IconData(63379, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_collapse_up =
-      FlutterIconData.materialCommunityIcons(63380);
+      IconData(63380, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_collapse_vertical =
-      FlutterIconData.materialCommunityIcons(63564);
+      IconData(63564, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_decision =
-      FlutterIconData.materialCommunityIcons(63930);
+      IconData(63930, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_decision_auto =
-      FlutterIconData.materialCommunityIcons(63931);
+      IconData(63931, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_decision_auto_outline =
-      FlutterIconData.materialCommunityIcons(63932);
+      IconData(63932, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_decision_outline =
-      FlutterIconData.materialCommunityIcons(63933);
+      IconData(63933, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down =
-      FlutterIconData.materialCommunityIcons(61509);
+      IconData(61509, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_bold =
-      FlutterIconData.materialCommunityIcons(63277);
+      IconData(63277, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_bold_box =
-      FlutterIconData.materialCommunityIcons(63278);
+      IconData(63278, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_bold_box_outline =
-      FlutterIconData.materialCommunityIcons(63279);
+      IconData(63279, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_bold_circle =
-      FlutterIconData.materialCommunityIcons(61511);
+      IconData(61511, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_bold_circle_outline =
-      FlutterIconData.materialCommunityIcons(61512);
+      IconData(61512, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_bold_hexagon_outline =
-      FlutterIconData.materialCommunityIcons(61513);
+      IconData(61513, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_bold_outline =
-      FlutterIconData.materialCommunityIcons(63934);
+      IconData(63934, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_box =
-      FlutterIconData.materialCommunityIcons(63167);
+      IconData(63167, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_circle =
-      FlutterIconData.materialCommunityIcons(64695);
+      IconData(64695, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_circle_outline =
-      FlutterIconData.materialCommunityIcons(64696);
+      IconData(64696, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_drop_circle =
-      FlutterIconData.materialCommunityIcons(61514);
+      IconData(61514, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_drop_circle_outline =
-      FlutterIconData.materialCommunityIcons(61515);
+      IconData(61515, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_down_thick =
-      FlutterIconData.materialCommunityIcons(61510);
+      IconData(61510, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_expand =
-      FlutterIconData.materialCommunityIcons(62998);
+      IconData(62998, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_expand_all =
-      FlutterIconData.materialCommunityIcons(61516);
+      IconData(61516, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_expand_down =
-      FlutterIconData.materialCommunityIcons(63381);
+      IconData(63381, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_expand_horizontal =
-      FlutterIconData.materialCommunityIcons(63565);
+      IconData(63565, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_expand_left =
-      FlutterIconData.materialCommunityIcons(63382);
+      IconData(63382, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_expand_right =
-      FlutterIconData.materialCommunityIcons(63383);
+      IconData(63383, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_expand_up =
-      FlutterIconData.materialCommunityIcons(63384);
+      IconData(63384, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_expand_vertical =
-      FlutterIconData.materialCommunityIcons(63566);
+      IconData(63566, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left =
-      FlutterIconData.materialCommunityIcons(61517);
+      IconData(61517, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_bold =
-      FlutterIconData.materialCommunityIcons(63280);
+      IconData(63280, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_bold_box =
-      FlutterIconData.materialCommunityIcons(63281);
+      IconData(63281, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_bold_box_outline =
-      FlutterIconData.materialCommunityIcons(63282);
+      IconData(63282, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_bold_circle =
-      FlutterIconData.materialCommunityIcons(61519);
+      IconData(61519, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_bold_circle_outline =
-      FlutterIconData.materialCommunityIcons(61520);
+      IconData(61520, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_bold_hexagon_outline =
-      FlutterIconData.materialCommunityIcons(61521);
+      IconData(61521, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_bold_outline =
-      FlutterIconData.materialCommunityIcons(63935);
+      IconData(63935, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_box =
-      FlutterIconData.materialCommunityIcons(63168);
+      IconData(63168, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_circle =
-      FlutterIconData.materialCommunityIcons(64697);
+      IconData(64697, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_circle_outline =
-      FlutterIconData.materialCommunityIcons(64698);
+      IconData(64698, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_drop_circle =
-      FlutterIconData.materialCommunityIcons(61522);
+      IconData(61522, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_drop_circle_outline =
-      FlutterIconData.materialCommunityIcons(61523);
+      IconData(61523, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_right =
-      FlutterIconData.materialCommunityIcons(65168);
+      IconData(65168, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_right_bold =
-      FlutterIconData.materialCommunityIcons(65169);
+      IconData(65169, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_right_bold_outline =
-      FlutterIconData.materialCommunityIcons(63936);
+      IconData(63936, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_left_thick =
-      FlutterIconData.materialCommunityIcons(61518);
+      IconData(61518, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right =
-      FlutterIconData.materialCommunityIcons(61524);
+      IconData(61524, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_bold =
-      FlutterIconData.materialCommunityIcons(63283);
+      IconData(63283, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_bold_box =
-      FlutterIconData.materialCommunityIcons(63284);
+      IconData(63284, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_bold_box_outline =
-      FlutterIconData.materialCommunityIcons(63285);
+      IconData(63285, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_bold_circle =
-      FlutterIconData.materialCommunityIcons(61526);
+      IconData(61526, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_bold_circle_outline =
-      FlutterIconData.materialCommunityIcons(61527);
+      IconData(61527, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_bold_hexagon_outline =
-      FlutterIconData.materialCommunityIcons(61528);
+      IconData(61528, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_bold_outline =
-      FlutterIconData.materialCommunityIcons(63937);
+      IconData(63937, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_box =
-      FlutterIconData.materialCommunityIcons(63169);
+      IconData(63169, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_circle =
-      FlutterIconData.materialCommunityIcons(64699);
+      IconData(64699, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_circle_outline =
-      FlutterIconData.materialCommunityIcons(64700);
+      IconData(64700, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_drop_circle =
-      FlutterIconData.materialCommunityIcons(61529);
+      IconData(61529, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_drop_circle_outline =
-      FlutterIconData.materialCommunityIcons(61530);
+      IconData(61530, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_right_thick =
-      FlutterIconData.materialCommunityIcons(61525);
+      IconData(61525, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_split_horizontal =
-      FlutterIconData.materialCommunityIcons(63802);
+      IconData(63802, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_split_vertical =
-      FlutterIconData.materialCommunityIcons(63803);
+      IconData(63803, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_left =
-      FlutterIconData.materialCommunityIcons(61531);
+      IconData(61531, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_left_bold_outline =
-      FlutterIconData.materialCommunityIcons(63938);
+      IconData(63938, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_left_bottom_right =
-      FlutterIconData.materialCommunityIcons(65170);
+      IconData(65170, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_left_bottom_right_bold =
-      FlutterIconData.materialCommunityIcons(65171);
+      IconData(65171, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_left_thick =
-      FlutterIconData.materialCommunityIcons(63939);
+      IconData(63939, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_right =
-      FlutterIconData.materialCommunityIcons(61532);
+      IconData(61532, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_right_bold_outline =
-      FlutterIconData.materialCommunityIcons(63940);
+      IconData(63940, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_right_bottom_left =
-      FlutterIconData.materialCommunityIcons(65172);
+      IconData(65172, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_right_bottom_left_bold =
-      FlutterIconData.materialCommunityIcons(65173);
+      IconData(65173, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_top_right_thick =
-      FlutterIconData.materialCommunityIcons(63941);
+      IconData(63941, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up =
-      FlutterIconData.materialCommunityIcons(61533);
+      IconData(61533, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_bold =
-      FlutterIconData.materialCommunityIcons(63286);
+      IconData(63286, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_bold_box =
-      FlutterIconData.materialCommunityIcons(63287);
+      IconData(63287, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_bold_box_outline =
-      FlutterIconData.materialCommunityIcons(63288);
+      IconData(63288, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_bold_circle =
-      FlutterIconData.materialCommunityIcons(61535);
+      IconData(61535, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_bold_circle_outline =
-      FlutterIconData.materialCommunityIcons(61536);
+      IconData(61536, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_bold_hexagon_outline =
-      FlutterIconData.materialCommunityIcons(61537);
+      IconData(61537, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_bold_outline =
-      FlutterIconData.materialCommunityIcons(63942);
+      IconData(63942, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_box =
-      FlutterIconData.materialCommunityIcons(63170);
+      IconData(63170, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_circle =
-      FlutterIconData.materialCommunityIcons(64701);
+      IconData(64701, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_circle_outline =
-      FlutterIconData.materialCommunityIcons(64702);
+      IconData(64702, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_down =
-      FlutterIconData.materialCommunityIcons(65174);
+      IconData(65174, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_down_bold =
-      FlutterIconData.materialCommunityIcons(65175);
+      IconData(65175, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_down_bold_outline =
-      FlutterIconData.materialCommunityIcons(63943);
+      IconData(63943, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_drop_circle =
-      FlutterIconData.materialCommunityIcons(61538);
+      IconData(61538, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_drop_circle_outline =
-      FlutterIconData.materialCommunityIcons(61539);
+      IconData(61539, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData arrow_up_thick =
-      FlutterIconData.materialCommunityIcons(61534);
-  static const IconData artist = FlutterIconData.materialCommunityIcons(63490);
+      IconData(61534, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData artist = IconData(63490, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData artist_outline =
-      FlutterIconData.materialCommunityIcons(64709);
+      IconData(64709, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData artstation =
-      FlutterIconData.materialCommunityIcons(64311);
+      IconData(64311, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData aspect_ratio =
-      FlutterIconData.materialCommunityIcons(64035);
+      IconData(64035, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData assistant =
-      FlutterIconData.materialCommunityIcons(61540);
+      IconData(61540, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData asterisk =
-      FlutterIconData.materialCommunityIcons(63171);
-  static const IconData at = FlutterIconData.materialCommunityIcons(61541);
+      IconData(63171, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData at = IconData(61541, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData atlassian =
-      FlutterIconData.materialCommunityIcons(63491);
-  static const IconData atm = FlutterIconData.materialCommunityIcons(64803);
-  static const IconData atom = FlutterIconData.materialCommunityIcons(63335);
+      IconData(63491, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData atm = IconData(64803, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData atom = IconData(63335, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData atom_variant =
-      FlutterIconData.materialCommunityIcons(65176);
+      IconData(65176, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData attachment =
-      FlutterIconData.materialCommunityIcons(61542);
+      IconData(61542, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData audio_video =
-      FlutterIconData.materialCommunityIcons(63804);
+      IconData(63804, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData audiobook =
-      FlutterIconData.materialCommunityIcons(61543);
+      IconData(61543, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData augmented_reality =
-      FlutterIconData.materialCommunityIcons(63567);
+      IconData(63567, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData auto_fix =
-      FlutterIconData.materialCommunityIcons(61544);
+      IconData(61544, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData auto_upload =
-      FlutterIconData.materialCommunityIcons(61545);
+      IconData(61545, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData autorenew =
-      FlutterIconData.materialCommunityIcons(61546);
+      IconData(61546, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData av_timer =
-      FlutterIconData.materialCommunityIcons(61547);
-  static const IconData aws = FlutterIconData.materialCommunityIcons(65010);
-  static const IconData axe = FlutterIconData.materialCommunityIcons(63687);
-  static const IconData axis = FlutterIconData.materialCommunityIcons(64804);
+      IconData(61547, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData aws = IconData(65010, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData axe = IconData(63687, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData axis = IconData(64804, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_arrow =
-      FlutterIconData.materialCommunityIcons(64805);
+      IconData(64805, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_arrow_lock =
-      FlutterIconData.materialCommunityIcons(64806);
+      IconData(64806, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_lock =
-      FlutterIconData.materialCommunityIcons(64807);
+      IconData(64807, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_x_arrow =
-      FlutterIconData.materialCommunityIcons(64808);
+      IconData(64808, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_x_arrow_lock =
-      FlutterIconData.materialCommunityIcons(64809);
+      IconData(64809, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_x_rotate_clockwise =
-      FlutterIconData.materialCommunityIcons(64810);
+      IconData(64810, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_x_rotate_counterclockwise =
-      FlutterIconData.materialCommunityIcons(64811);
+      IconData(64811, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_x_y_arrow_lock =
-      FlutterIconData.materialCommunityIcons(64812);
+      IconData(64812, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_y_arrow =
-      FlutterIconData.materialCommunityIcons(64813);
+      IconData(64813, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_y_arrow_lock =
-      FlutterIconData.materialCommunityIcons(64814);
+      IconData(64814, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_y_rotate_clockwise =
-      FlutterIconData.materialCommunityIcons(64815);
+      IconData(64815, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_y_rotate_counterclockwise =
-      FlutterIconData.materialCommunityIcons(64816);
+      IconData(64816, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_z_arrow =
-      FlutterIconData.materialCommunityIcons(64817);
+      IconData(64817, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_z_arrow_lock =
-      FlutterIconData.materialCommunityIcons(64818);
+      IconData(64818, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_z_rotate_clockwise =
-      FlutterIconData.materialCommunityIcons(64819);
+      IconData(64819, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData axis_z_rotate_counterclockwise =
-      FlutterIconData.materialCommunityIcons(64820);
-  static const IconData azure = FlutterIconData.materialCommunityIcons(63492);
-  static const IconData babel = FlutterIconData.materialCommunityIcons(64036);
-  static const IconData baby = FlutterIconData.materialCommunityIcons(61548);
+      IconData(64820, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData azure = IconData(63492, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData babel = IconData(64036, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData baby = IconData(61548, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baby_bottle =
-      FlutterIconData.materialCommunityIcons(65366);
+      IconData(65366, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baby_bottle_outline =
-      FlutterIconData.materialCommunityIcons(65367);
+      IconData(65367, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baby_carriage =
-      FlutterIconData.materialCommunityIcons(63118);
+      IconData(63118, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baby_carriage_off =
-      FlutterIconData.materialCommunityIcons(65472);
+      IconData(65472, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baby_face =
-      FlutterIconData.materialCommunityIcons(65177);
+      IconData(65177, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baby_face_outline =
-      FlutterIconData.materialCommunityIcons(65178);
+      IconData(65178, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData backburger =
-      FlutterIconData.materialCommunityIcons(61549);
+      IconData(61549, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData backspace =
-      FlutterIconData.materialCommunityIcons(61550);
+      IconData(61550, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData backspace_outline =
-      FlutterIconData.materialCommunityIcons(64312);
+      IconData(64312, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData backspace_reverse =
-      FlutterIconData.materialCommunityIcons(65179);
+      IconData(65179, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData backspace_reverse_outline =
-      FlutterIconData.materialCommunityIcons(65180);
+      IconData(65180, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData backup_restore =
-      FlutterIconData.materialCommunityIcons(61551);
+      IconData(61551, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bacteria =
-      FlutterIconData.materialCommunityIcons(65266);
+      IconData(65266, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bacteria_outline =
-      FlutterIconData.materialCommunityIcons(65267);
+      IconData(65267, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData badminton =
-      FlutterIconData.materialCommunityIcons(63568);
+      IconData(63568, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bag_carry_on =
-      FlutterIconData.materialCommunityIcons(65368);
+      IconData(65368, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bag_carry_on_check =
-      FlutterIconData.materialCommunityIcons(64833);
+      IconData(64833, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bag_carry_on_off =
-      FlutterIconData.materialCommunityIcons(65369);
+      IconData(65369, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bag_checked =
-      FlutterIconData.materialCommunityIcons(65370);
+      IconData(65370, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bag_personal =
-      FlutterIconData.materialCommunityIcons(65011);
+      IconData(65011, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bag_personal_off =
-      FlutterIconData.materialCommunityIcons(65012);
+      IconData(65012, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bag_personal_off_outline =
-      FlutterIconData.materialCommunityIcons(65013);
+      IconData(65013, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bag_personal_outline =
-      FlutterIconData.materialCommunityIcons(65014);
+      IconData(65014, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baguette =
-      FlutterIconData.materialCommunityIcons(65371);
-  static const IconData balloon = FlutterIconData.materialCommunityIcons(64037);
-  static const IconData ballot = FlutterIconData.materialCommunityIcons(63944);
+      IconData(65371, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData balloon = IconData(64037, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ballot = IconData(63944, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ballot_outline =
-      FlutterIconData.materialCommunityIcons(63945);
+      IconData(63945, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ballot_recount =
-      FlutterIconData.materialCommunityIcons(64533);
+      IconData(64533, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ballot_recount_outline =
-      FlutterIconData.materialCommunityIcons(64534);
-  static const IconData bandage = FlutterIconData.materialCommunityIcons(64907);
+      IconData(64534, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bandage = IconData(64907, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bandcamp =
-      FlutterIconData.materialCommunityIcons(63092);
-  static const IconData bank = FlutterIconData.materialCommunityIcons(61552);
+      IconData(63092, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bank = IconData(61552, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bank_minus =
-      FlutterIconData.materialCommunityIcons(64908);
+      IconData(64908, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bank_outline =
-      FlutterIconData.materialCommunityIcons(65181);
+      IconData(65181, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bank_plus =
-      FlutterIconData.materialCommunityIcons(64909);
+      IconData(64909, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bank_remove =
-      FlutterIconData.materialCommunityIcons(64910);
+      IconData(64910, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bank_transfer =
-      FlutterIconData.materialCommunityIcons(64038);
+      IconData(64038, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bank_transfer_in =
-      FlutterIconData.materialCommunityIcons(64039);
+      IconData(64039, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bank_transfer_out =
-      FlutterIconData.materialCommunityIcons(64040);
-  static const IconData barcode = FlutterIconData.materialCommunityIcons(61553);
+      IconData(64040, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData barcode = IconData(61553, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData barcode_scan =
-      FlutterIconData.materialCommunityIcons(61554);
-  static const IconData barley = FlutterIconData.materialCommunityIcons(61555);
+      IconData(61554, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData barley = IconData(61555, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData barley_off =
-      FlutterIconData.materialCommunityIcons(64313);
-  static const IconData barn = FlutterIconData.materialCommunityIcons(64314);
-  static const IconData barrel = FlutterIconData.materialCommunityIcons(61556);
+      IconData(64313, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData barn = IconData(64314, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData barrel = IconData(61556, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baseball =
-      FlutterIconData.materialCommunityIcons(63569);
+      IconData(63569, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData baseball_bat =
-      FlutterIconData.materialCommunityIcons(63570);
+      IconData(63570, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData basecamp =
-      FlutterIconData.materialCommunityIcons(61557);
-  static const IconData basket = FlutterIconData.materialCommunityIcons(61558);
+      IconData(61557, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData basket = IconData(61558, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData basket_fill =
-      FlutterIconData.materialCommunityIcons(61559);
+      IconData(61559, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData basket_unfill =
-      FlutterIconData.materialCommunityIcons(61560);
+      IconData(61560, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData basketball =
-      FlutterIconData.materialCommunityIcons(63493);
+      IconData(63493, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData basketball_hoop =
-      FlutterIconData.materialCommunityIcons(64535);
+      IconData(64535, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData basketball_hoop_outline =
-      FlutterIconData.materialCommunityIcons(64536);
-  static const IconData bat = FlutterIconData.materialCommunityIcons(64315);
-  static const IconData battery = FlutterIconData.materialCommunityIcons(61561);
+      IconData(64536, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bat = IconData(64315, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData battery = IconData(61561, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_10 =
-      FlutterIconData.materialCommunityIcons(61562);
+      IconData(61562, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_10_bluetooth =
-      FlutterIconData.materialCommunityIcons(63805);
+      IconData(63805, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_20 =
-      FlutterIconData.materialCommunityIcons(61563);
+      IconData(61563, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_20_bluetooth =
-      FlutterIconData.materialCommunityIcons(63806);
+      IconData(63806, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_30 =
-      FlutterIconData.materialCommunityIcons(61564);
+      IconData(61564, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_30_bluetooth =
-      FlutterIconData.materialCommunityIcons(63807);
+      IconData(63807, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_40 =
-      FlutterIconData.materialCommunityIcons(61565);
+      IconData(61565, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_40_bluetooth =
-      FlutterIconData.materialCommunityIcons(63808);
+      IconData(63808, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_50 =
-      FlutterIconData.materialCommunityIcons(61566);
+      IconData(61566, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_50_bluetooth =
-      FlutterIconData.materialCommunityIcons(63809);
+      IconData(63809, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_60 =
-      FlutterIconData.materialCommunityIcons(61567);
+      IconData(61567, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_60_bluetooth =
-      FlutterIconData.materialCommunityIcons(63810);
+      IconData(63810, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_70 =
-      FlutterIconData.materialCommunityIcons(61568);
+      IconData(61568, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_70_bluetooth =
-      FlutterIconData.materialCommunityIcons(63811);
+      IconData(63811, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_80 =
-      FlutterIconData.materialCommunityIcons(61569);
+      IconData(61569, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_80_bluetooth =
-      FlutterIconData.materialCommunityIcons(63812);
+      IconData(63812, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_90 =
-      FlutterIconData.materialCommunityIcons(61570);
+      IconData(61570, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_90_bluetooth =
-      FlutterIconData.materialCommunityIcons(63813);
+      IconData(63813, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_alert =
-      FlutterIconData.materialCommunityIcons(61571);
+      IconData(61571, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_alert_bluetooth =
-      FlutterIconData.materialCommunityIcons(63814);
+      IconData(63814, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_bluetooth =
-      FlutterIconData.materialCommunityIcons(63815);
+      IconData(63815, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_bluetooth_variant =
-      FlutterIconData.materialCommunityIcons(63816);
+      IconData(63816, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging =
-      FlutterIconData.materialCommunityIcons(61572);
+      IconData(61572, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_10 =
-      FlutterIconData.materialCommunityIcons(63643);
+      IconData(63643, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_100 =
-      FlutterIconData.materialCommunityIcons(61573);
+      IconData(61573, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_20 =
-      FlutterIconData.materialCommunityIcons(61574);
+      IconData(61574, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_30 =
-      FlutterIconData.materialCommunityIcons(61575);
+      IconData(61575, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_40 =
-      FlutterIconData.materialCommunityIcons(61576);
+      IconData(61576, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_50 =
-      FlutterIconData.materialCommunityIcons(63644);
+      IconData(63644, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_60 =
-      FlutterIconData.materialCommunityIcons(61577);
+      IconData(61577, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_70 =
-      FlutterIconData.materialCommunityIcons(63645);
+      IconData(63645, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_80 =
-      FlutterIconData.materialCommunityIcons(61578);
+      IconData(61578, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_90 =
-      FlutterIconData.materialCommunityIcons(61579);
+      IconData(61579, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_outline =
-      FlutterIconData.materialCommunityIcons(63646);
+      IconData(63646, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless =
-      FlutterIconData.materialCommunityIcons(63494);
+      IconData(63494, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_10 =
-      FlutterIconData.materialCommunityIcons(63495);
+      IconData(63495, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_20 =
-      FlutterIconData.materialCommunityIcons(63496);
+      IconData(63496, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_30 =
-      FlutterIconData.materialCommunityIcons(63497);
+      IconData(63497, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_40 =
-      FlutterIconData.materialCommunityIcons(63498);
+      IconData(63498, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_50 =
-      FlutterIconData.materialCommunityIcons(63499);
+      IconData(63499, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_60 =
-      FlutterIconData.materialCommunityIcons(63500);
+      IconData(63500, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_70 =
-      FlutterIconData.materialCommunityIcons(63501);
+      IconData(63501, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_80 =
-      FlutterIconData.materialCommunityIcons(63502);
+      IconData(63502, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_90 =
-      FlutterIconData.materialCommunityIcons(63503);
+      IconData(63503, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_alert =
-      FlutterIconData.materialCommunityIcons(63504);
+      IconData(63504, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_charging_wireless_outline =
-      FlutterIconData.materialCommunityIcons(63505);
+      IconData(63505, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_minus =
-      FlutterIconData.materialCommunityIcons(61580);
+      IconData(61580, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_negative =
-      FlutterIconData.materialCommunityIcons(61581);
+      IconData(61581, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_outline =
-      FlutterIconData.materialCommunityIcons(61582);
+      IconData(61582, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_plus =
-      FlutterIconData.materialCommunityIcons(61583);
+      IconData(61583, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_positive =
-      FlutterIconData.materialCommunityIcons(61584);
+      IconData(61584, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_unknown =
-      FlutterIconData.materialCommunityIcons(61585);
+      IconData(61585, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battery_unknown_bluetooth =
-      FlutterIconData.materialCommunityIcons(63817);
+      IconData(63817, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData battlenet =
-      FlutterIconData.materialCommunityIcons(64316);
-  static const IconData beach = FlutterIconData.materialCommunityIcons(61586);
-  static const IconData beaker = FlutterIconData.materialCommunityIcons(64710);
+      IconData(64316, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData beach = IconData(61586, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData beaker = IconData(64710, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData beaker_outline =
-      FlutterIconData.materialCommunityIcons(63119);
-  static const IconData beats = FlutterIconData.materialCommunityIcons(61591);
+      IconData(63119, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData beats = IconData(61591, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bed_empty =
-      FlutterIconData.materialCommunityIcons(63647);
-  static const IconData bee = FlutterIconData.materialCommunityIcons(65473);
+      IconData(63647, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bee = IconData(65473, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bee_flower =
-      FlutterIconData.materialCommunityIcons(65474);
-  static const IconData beer = FlutterIconData.materialCommunityIcons(61592);
-  static const IconData behance = FlutterIconData.materialCommunityIcons(61593);
-  static const IconData bell = FlutterIconData.materialCommunityIcons(61594);
+      IconData(65474, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData beer = IconData(61592, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData behance = IconData(61593, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bell = IconData(61594, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_alert =
-      FlutterIconData.materialCommunityIcons(64821);
+      IconData(64821, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_alert_outline =
-      FlutterIconData.materialCommunityIcons(65182);
+      IconData(65182, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_circle =
-      FlutterIconData.materialCommunityIcons(64822);
+      IconData(64822, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_circle_outline =
-      FlutterIconData.materialCommunityIcons(64823);
+      IconData(64823, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_off =
-      FlutterIconData.materialCommunityIcons(61595);
+      IconData(61595, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_off_outline =
-      FlutterIconData.materialCommunityIcons(64144);
+      IconData(64144, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_outline =
-      FlutterIconData.materialCommunityIcons(61596);
+      IconData(61596, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_plus =
-      FlutterIconData.materialCommunityIcons(61597);
+      IconData(61597, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_plus_outline =
-      FlutterIconData.materialCommunityIcons(64145);
+      IconData(64145, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_ring =
-      FlutterIconData.materialCommunityIcons(61598);
+      IconData(61598, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_ring_outline =
-      FlutterIconData.materialCommunityIcons(61599);
+      IconData(61599, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_sleep =
-      FlutterIconData.materialCommunityIcons(61600);
+      IconData(61600, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bell_sleep_outline =
-      FlutterIconData.materialCommunityIcons(64146);
-  static const IconData beta = FlutterIconData.materialCommunityIcons(61601);
-  static const IconData betamax = FlutterIconData.materialCommunityIcons(63946);
+      IconData(64146, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData beta = IconData(61601, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData betamax = IconData(63946, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData biathlon =
-      FlutterIconData.materialCommunityIcons(65015);
-  static const IconData bible = FlutterIconData.materialCommunityIcons(61602);
-  static const IconData bike = FlutterIconData.materialCommunityIcons(61603);
+      IconData(65015, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bible = IconData(61602, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bike = IconData(61603, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData billiards =
-      FlutterIconData.materialCommunityIcons(64317);
+      IconData(64317, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData billiards_rack =
-      FlutterIconData.materialCommunityIcons(64318);
-  static const IconData bing = FlutterIconData.materialCommunityIcons(61604);
+      IconData(64318, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bing = IconData(61604, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData binoculars =
-      FlutterIconData.materialCommunityIcons(61605);
-  static const IconData bio = FlutterIconData.materialCommunityIcons(61606);
+      IconData(61605, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bio = IconData(61606, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData biohazard =
-      FlutterIconData.materialCommunityIcons(61607);
+      IconData(61607, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bitbucket =
-      FlutterIconData.materialCommunityIcons(61608);
-  static const IconData bitcoin = FlutterIconData.materialCommunityIcons(63506);
+      IconData(61608, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bitcoin = IconData(63506, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData black_mesa =
-      FlutterIconData.materialCommunityIcons(61609);
+      IconData(61609, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData blackberry =
-      FlutterIconData.materialCommunityIcons(61610);
-  static const IconData blender = FlutterIconData.materialCommunityIcons(64711);
+      IconData(61610, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData blender = IconData(64711, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData blender_software =
-      FlutterIconData.materialCommunityIcons(61611);
-  static const IconData blinds = FlutterIconData.materialCommunityIcons(61612);
+      IconData(61611, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData blinds = IconData(61612, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData block_helper =
-      FlutterIconData.materialCommunityIcons(61613);
-  static const IconData blogger = FlutterIconData.materialCommunityIcons(61614);
+      IconData(61613, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData blogger = IconData(61614, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData blood_bag =
-      FlutterIconData.materialCommunityIcons(64712);
+      IconData(64712, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bluetooth =
-      FlutterIconData.materialCommunityIcons(61615);
+      IconData(61615, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bluetooth_audio =
-      FlutterIconData.materialCommunityIcons(61616);
+      IconData(61616, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bluetooth_connect =
-      FlutterIconData.materialCommunityIcons(61617);
+      IconData(61617, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bluetooth_off =
-      FlutterIconData.materialCommunityIcons(61618);
+      IconData(61618, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bluetooth_settings =
-      FlutterIconData.materialCommunityIcons(61619);
+      IconData(61619, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bluetooth_transfer =
-      FlutterIconData.materialCommunityIcons(61620);
-  static const IconData blur = FlutterIconData.materialCommunityIcons(61621);
+      IconData(61620, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData blur = IconData(61621, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData blur_linear =
-      FlutterIconData.materialCommunityIcons(61622);
+      IconData(61622, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData blur_off =
-      FlutterIconData.materialCommunityIcons(61623);
+      IconData(61623, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData blur_radial =
-      FlutterIconData.materialCommunityIcons(61624);
+      IconData(61624, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bolnisi_cross =
-      FlutterIconData.materialCommunityIcons(64713);
-  static const IconData bolt = FlutterIconData.materialCommunityIcons(64911);
-  static const IconData bomb = FlutterIconData.materialCommunityIcons(63120);
+      IconData(64713, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bolt = IconData(64911, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bomb = IconData(63120, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bomb_off =
-      FlutterIconData.materialCommunityIcons(63172);
-  static const IconData bone = FlutterIconData.materialCommunityIcons(61625);
-  static const IconData book = FlutterIconData.materialCommunityIcons(61626);
+      IconData(63172, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bone = IconData(61625, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData book = IconData(61626, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_lock =
-      FlutterIconData.materialCommunityIcons(63385);
+      IconData(63385, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_lock_open =
-      FlutterIconData.materialCommunityIcons(63386);
+      IconData(63386, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_minus =
-      FlutterIconData.materialCommunityIcons(62937);
+      IconData(62937, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_minus_multiple =
-      FlutterIconData.materialCommunityIcons(64147);
+      IconData(64147, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_multiple =
-      FlutterIconData.materialCommunityIcons(61627);
+      IconData(61627, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_open =
-      FlutterIconData.materialCommunityIcons(61629);
+      IconData(61629, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_open_outline =
-      FlutterIconData.materialCommunityIcons(64319);
+      IconData(64319, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_open_page_variant =
-      FlutterIconData.materialCommunityIcons(62938);
+      IconData(62938, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_open_variant =
-      FlutterIconData.materialCommunityIcons(61630);
+      IconData(61630, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_outline =
-      FlutterIconData.materialCommunityIcons(64320);
+      IconData(64320, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_play =
-      FlutterIconData.materialCommunityIcons(65183);
+      IconData(65183, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_play_outline =
-      FlutterIconData.materialCommunityIcons(65184);
+      IconData(65184, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_plus =
-      FlutterIconData.materialCommunityIcons(62939);
+      IconData(62939, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_plus_multiple =
-      FlutterIconData.materialCommunityIcons(64148);
+      IconData(64148, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_remove =
-      FlutterIconData.materialCommunityIcons(64150);
+      IconData(64150, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_remove_multiple =
-      FlutterIconData.materialCommunityIcons(64149);
+      IconData(64149, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_search =
-      FlutterIconData.materialCommunityIcons(65185);
+      IconData(65185, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_search_outline =
-      FlutterIconData.materialCommunityIcons(65186);
+      IconData(65186, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_variant =
-      FlutterIconData.materialCommunityIcons(61631);
+      IconData(61631, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData book_variant_multiple =
-      FlutterIconData.materialCommunityIcons(61628);
+      IconData(61628, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark =
-      FlutterIconData.materialCommunityIcons(61632);
+      IconData(61632, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_check =
-      FlutterIconData.materialCommunityIcons(61633);
+      IconData(61633, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_minus =
-      FlutterIconData.materialCommunityIcons(63947);
+      IconData(63947, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_minus_outline =
-      FlutterIconData.materialCommunityIcons(63948);
+      IconData(63948, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_multiple =
-      FlutterIconData.materialCommunityIcons(65016);
+      IconData(65016, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_multiple_outline =
-      FlutterIconData.materialCommunityIcons(65017);
+      IconData(65017, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_music =
-      FlutterIconData.materialCommunityIcons(61634);
+      IconData(61634, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_off =
-      FlutterIconData.materialCommunityIcons(63949);
+      IconData(63949, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_off_outline =
-      FlutterIconData.materialCommunityIcons(63950);
+      IconData(63950, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_outline =
-      FlutterIconData.materialCommunityIcons(61635);
+      IconData(61635, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_plus =
-      FlutterIconData.materialCommunityIcons(61637);
+      IconData(61637, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_plus_outline =
-      FlutterIconData.materialCommunityIcons(61636);
+      IconData(61636, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bookmark_remove =
-      FlutterIconData.materialCommunityIcons(61638);
+      IconData(61638, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boom_gate =
-      FlutterIconData.materialCommunityIcons(65187);
+      IconData(65187, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boom_gate_alert =
-      FlutterIconData.materialCommunityIcons(65188);
+      IconData(65188, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boom_gate_alert_outline =
-      FlutterIconData.materialCommunityIcons(65189);
+      IconData(65189, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boom_gate_down =
-      FlutterIconData.materialCommunityIcons(65190);
+      IconData(65190, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boom_gate_down_outline =
-      FlutterIconData.materialCommunityIcons(65191);
+      IconData(65191, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boom_gate_outline =
-      FlutterIconData.materialCommunityIcons(65192);
+      IconData(65192, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boom_gate_up =
-      FlutterIconData.materialCommunityIcons(65193);
+      IconData(65193, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boom_gate_up_outline =
-      FlutterIconData.materialCommunityIcons(65194);
-  static const IconData boombox = FlutterIconData.materialCommunityIcons(62940);
+      IconData(65194, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData boombox = IconData(62940, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bootstrap =
-      FlutterIconData.materialCommunityIcons(63173);
+      IconData(63173, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_all =
-      FlutterIconData.materialCommunityIcons(61639);
+      IconData(61639, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_all_variant =
-      FlutterIconData.materialCommunityIcons(63648);
+      IconData(63648, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_bottom =
-      FlutterIconData.materialCommunityIcons(61640);
+      IconData(61640, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_bottom_variant =
-      FlutterIconData.materialCommunityIcons(63649);
+      IconData(63649, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_color =
-      FlutterIconData.materialCommunityIcons(61641);
+      IconData(61641, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_horizontal =
-      FlutterIconData.materialCommunityIcons(61642);
+      IconData(61642, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_inside =
-      FlutterIconData.materialCommunityIcons(61643);
+      IconData(61643, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_left =
-      FlutterIconData.materialCommunityIcons(61644);
+      IconData(61644, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_left_variant =
-      FlutterIconData.materialCommunityIcons(63650);
+      IconData(63650, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_none =
-      FlutterIconData.materialCommunityIcons(61645);
+      IconData(61645, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_none_variant =
-      FlutterIconData.materialCommunityIcons(63651);
+      IconData(63651, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_outside =
-      FlutterIconData.materialCommunityIcons(61646);
+      IconData(61646, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_right =
-      FlutterIconData.materialCommunityIcons(61647);
+      IconData(61647, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_right_variant =
-      FlutterIconData.materialCommunityIcons(63652);
+      IconData(63652, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_style =
-      FlutterIconData.materialCommunityIcons(61648);
+      IconData(61648, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_top =
-      FlutterIconData.materialCommunityIcons(61649);
+      IconData(61649, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_top_variant =
-      FlutterIconData.materialCommunityIcons(63653);
+      IconData(63653, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData border_vertical =
-      FlutterIconData.materialCommunityIcons(61650);
+      IconData(61650, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bottle_wine =
-      FlutterIconData.materialCommunityIcons(63571);
-  static const IconData bow_tie = FlutterIconData.materialCommunityIcons(63095);
-  static const IconData bowl = FlutterIconData.materialCommunityIcons(62999);
-  static const IconData bowling = FlutterIconData.materialCommunityIcons(61651);
-  static const IconData box = FlutterIconData.materialCommunityIcons(61652);
+      IconData(63571, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bow_tie = IconData(63095, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bowl = IconData(62999, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bowling = IconData(61651, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData box = IconData(61652, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData box_cutter =
-      FlutterIconData.materialCommunityIcons(61653);
+      IconData(61653, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData box_shadow =
-      FlutterIconData.materialCommunityIcons(63031);
+      IconData(63031, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData boxing_glove =
-      FlutterIconData.materialCommunityIcons(64321);
-  static const IconData braille = FlutterIconData.materialCommunityIcons(63951);
-  static const IconData brain = FlutterIconData.materialCommunityIcons(63952);
+      IconData(64321, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData braille = IconData(63951, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData brain = IconData(63952, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bread_slice =
-      FlutterIconData.materialCommunityIcons(64714);
+      IconData(64714, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bread_slice_outline =
-      FlutterIconData.materialCommunityIcons(64715);
-  static const IconData bridge = FlutterIconData.materialCommunityIcons(63000);
+      IconData(64715, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bridge = IconData(63000, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase =
-      FlutterIconData.materialCommunityIcons(61654);
+      IconData(61654, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_account =
-      FlutterIconData.materialCommunityIcons(64716);
+      IconData(64716, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_account_outline =
-      FlutterIconData.materialCommunityIcons(64717);
+      IconData(64717, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_check =
-      FlutterIconData.materialCommunityIcons(61655);
+      IconData(61655, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_download =
-      FlutterIconData.materialCommunityIcons(61656);
+      IconData(61656, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_download_outline =
-      FlutterIconData.materialCommunityIcons(64537);
+      IconData(64537, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_edit =
-      FlutterIconData.materialCommunityIcons(64151);
+      IconData(64151, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_edit_outline =
-      FlutterIconData.materialCommunityIcons(64538);
+      IconData(64538, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_minus =
-      FlutterIconData.materialCommunityIcons(64041);
+      IconData(64041, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_minus_outline =
-      FlutterIconData.materialCommunityIcons(64539);
+      IconData(64539, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_outline =
-      FlutterIconData.materialCommunityIcons(63507);
+      IconData(63507, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_plus =
-      FlutterIconData.materialCommunityIcons(64042);
+      IconData(64042, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_plus_outline =
-      FlutterIconData.materialCommunityIcons(64540);
+      IconData(64540, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_remove =
-      FlutterIconData.materialCommunityIcons(64043);
+      IconData(64043, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_remove_outline =
-      FlutterIconData.materialCommunityIcons(64541);
+      IconData(64541, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_search =
-      FlutterIconData.materialCommunityIcons(64044);
+      IconData(64044, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_search_outline =
-      FlutterIconData.materialCommunityIcons(64542);
+      IconData(64542, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_upload =
-      FlutterIconData.materialCommunityIcons(61657);
+      IconData(61657, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData briefcase_upload_outline =
-      FlutterIconData.materialCommunityIcons(64543);
+      IconData(64543, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_1 =
-      FlutterIconData.materialCommunityIcons(61658);
+      IconData(61658, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_2 =
-      FlutterIconData.materialCommunityIcons(61659);
+      IconData(61659, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_3 =
-      FlutterIconData.materialCommunityIcons(61660);
+      IconData(61660, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_4 =
-      FlutterIconData.materialCommunityIcons(61661);
+      IconData(61661, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_5 =
-      FlutterIconData.materialCommunityIcons(61662);
+      IconData(61662, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_6 =
-      FlutterIconData.materialCommunityIcons(61663);
+      IconData(61663, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_7 =
-      FlutterIconData.materialCommunityIcons(61664);
+      IconData(61664, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_auto =
-      FlutterIconData.materialCommunityIcons(61665);
+      IconData(61665, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData brightness_percent =
-      FlutterIconData.materialCommunityIcons(64718);
-  static const IconData broom = FlutterIconData.materialCommunityIcons(61666);
-  static const IconData brush = FlutterIconData.materialCommunityIcons(61667);
+      IconData(64718, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData broom = IconData(61666, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData brush = IconData(61667, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData buddhism =
-      FlutterIconData.materialCommunityIcons(63818);
-  static const IconData buffer = FlutterIconData.materialCommunityIcons(63001);
-  static const IconData bug = FlutterIconData.materialCommunityIcons(61668);
+      IconData(63818, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData buffer = IconData(63001, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bug = IconData(61668, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bug_check =
-      FlutterIconData.materialCommunityIcons(64045);
+      IconData(64045, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bug_check_outline =
-      FlutterIconData.materialCommunityIcons(64046);
+      IconData(64046, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bug_outline =
-      FlutterIconData.materialCommunityIcons(64047);
-  static const IconData bugle = FlutterIconData.materialCommunityIcons(64912);
+      IconData(64047, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bugle = IconData(64912, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bulldozer =
-      FlutterIconData.materialCommunityIcons(64263);
-  static const IconData bullet = FlutterIconData.materialCommunityIcons(64719);
+      IconData(64263, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bullet = IconData(64719, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bulletin_board =
-      FlutterIconData.materialCommunityIcons(61669);
+      IconData(61669, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bullhorn =
-      FlutterIconData.materialCommunityIcons(61670);
+      IconData(61670, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bullhorn_outline =
-      FlutterIconData.materialCommunityIcons(64264);
+      IconData(64264, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bullseye =
-      FlutterIconData.materialCommunityIcons(62941);
+      IconData(62941, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bullseye_arrow =
-      FlutterIconData.materialCommunityIcons(63688);
-  static const IconData bus = FlutterIconData.materialCommunityIcons(61671);
+      IconData(63688, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData bus = IconData(61671, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bus_alert =
-      FlutterIconData.materialCommunityIcons(64152);
+      IconData(64152, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bus_articulated_end =
-      FlutterIconData.materialCommunityIcons(63387);
+      IconData(63387, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bus_articulated_front =
-      FlutterIconData.materialCommunityIcons(63388);
+      IconData(63388, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bus_clock =
-      FlutterIconData.materialCommunityIcons(63689);
+      IconData(63689, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bus_double_decker =
-      FlutterIconData.materialCommunityIcons(63389);
+      IconData(63389, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bus_multiple =
-      FlutterIconData.materialCommunityIcons(65372);
+      IconData(65372, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bus_school =
-      FlutterIconData.materialCommunityIcons(63390);
+      IconData(63390, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData bus_side =
-      FlutterIconData.materialCommunityIcons(63391);
-  static const IconData cached = FlutterIconData.materialCommunityIcons(61672);
-  static const IconData cactus = FlutterIconData.materialCommunityIcons(64913);
-  static const IconData cake = FlutterIconData.materialCommunityIcons(61673);
+      IconData(63391, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cached = IconData(61672, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cactus = IconData(64913, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cake = IconData(61673, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cake_layered =
-      FlutterIconData.materialCommunityIcons(61674);
+      IconData(61674, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cake_variant =
-      FlutterIconData.materialCommunityIcons(61675);
+      IconData(61675, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calculator =
-      FlutterIconData.materialCommunityIcons(61676);
+      IconData(61676, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calculator_variant =
-      FlutterIconData.materialCommunityIcons(64153);
+      IconData(64153, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar =
-      FlutterIconData.materialCommunityIcons(61677);
+      IconData(61677, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_account =
-      FlutterIconData.materialCommunityIcons(65268);
+      IconData(65268, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_account_outline =
-      FlutterIconData.materialCommunityIcons(65269);
+      IconData(65269, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_alert =
-      FlutterIconData.materialCommunityIcons(64048);
+      IconData(64048, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_blank =
-      FlutterIconData.materialCommunityIcons(61678);
+      IconData(61678, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_blank_outline =
-      FlutterIconData.materialCommunityIcons(64322);
+      IconData(64322, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_check =
-      FlutterIconData.materialCommunityIcons(61679);
+      IconData(61679, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_check_outline =
-      FlutterIconData.materialCommunityIcons(64544);
+      IconData(64544, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_clock =
-      FlutterIconData.materialCommunityIcons(61680);
+      IconData(61680, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_edit =
-      FlutterIconData.materialCommunityIcons(63654);
+      IconData(63654, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_export =
-      FlutterIconData.materialCommunityIcons(64265);
+      IconData(64265, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_heart =
-      FlutterIconData.materialCommunityIcons(63953);
+      IconData(63953, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_import =
-      FlutterIconData.materialCommunityIcons(64266);
+      IconData(64266, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_minus =
-      FlutterIconData.materialCommunityIcons(64824);
+      IconData(64824, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_month =
-      FlutterIconData.materialCommunityIcons(65018);
+      IconData(65018, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_month_outline =
-      FlutterIconData.materialCommunityIcons(65019);
+      IconData(65019, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_multiple =
-      FlutterIconData.materialCommunityIcons(61681);
+      IconData(61681, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_multiple_check =
-      FlutterIconData.materialCommunityIcons(61682);
+      IconData(61682, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_multiselect =
-      FlutterIconData.materialCommunityIcons(64049);
+      IconData(64049, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_outline =
-      FlutterIconData.materialCommunityIcons(64323);
+      IconData(64323, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_plus =
-      FlutterIconData.materialCommunityIcons(61683);
+      IconData(61683, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_question =
-      FlutterIconData.materialCommunityIcons(63121);
+      IconData(63121, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_range =
-      FlutterIconData.materialCommunityIcons(63096);
+      IconData(63096, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_range_outline =
-      FlutterIconData.materialCommunityIcons(64324);
+      IconData(64324, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_remove =
-      FlutterIconData.materialCommunityIcons(61684);
+      IconData(61684, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_remove_outline =
-      FlutterIconData.materialCommunityIcons(64545);
+      IconData(64545, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_repeat =
-      FlutterIconData.materialCommunityIcons(65195);
+      IconData(65195, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_repeat_outline =
-      FlutterIconData.materialCommunityIcons(65196);
+      IconData(65196, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_search =
-      FlutterIconData.materialCommunityIcons(63819);
+      IconData(63819, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_star =
-      FlutterIconData.materialCommunityIcons(63954);
+      IconData(63954, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_text =
-      FlutterIconData.materialCommunityIcons(61685);
+      IconData(61685, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_text_outline =
-      FlutterIconData.materialCommunityIcons(64546);
+      IconData(64546, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_today =
-      FlutterIconData.materialCommunityIcons(61686);
+      IconData(61686, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_week =
-      FlutterIconData.materialCommunityIcons(64050);
+      IconData(64050, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_week_begin =
-      FlutterIconData.materialCommunityIcons(64051);
+      IconData(64051, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_weekend =
-      FlutterIconData.materialCommunityIcons(65270);
+      IconData(65270, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData calendar_weekend_outline =
-      FlutterIconData.materialCommunityIcons(65271);
+      IconData(65271, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData call_made =
-      FlutterIconData.materialCommunityIcons(61687);
+      IconData(61687, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData call_merge =
-      FlutterIconData.materialCommunityIcons(61688);
+      IconData(61688, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData call_missed =
-      FlutterIconData.materialCommunityIcons(61689);
+      IconData(61689, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData call_received =
-      FlutterIconData.materialCommunityIcons(61690);
+      IconData(61690, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData call_split =
-      FlutterIconData.materialCommunityIcons(61691);
+      IconData(61691, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camcorder =
-      FlutterIconData.materialCommunityIcons(61692);
+      IconData(61692, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camcorder_box =
-      FlutterIconData.materialCommunityIcons(61693);
+      IconData(61693, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camcorder_box_off =
-      FlutterIconData.materialCommunityIcons(61694);
+      IconData(61694, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camcorder_off =
-      FlutterIconData.materialCommunityIcons(61695);
-  static const IconData camera = FlutterIconData.materialCommunityIcons(61696);
+      IconData(61695, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData camera = IconData(61696, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_account =
-      FlutterIconData.materialCommunityIcons(63690);
+      IconData(63690, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_burst =
-      FlutterIconData.materialCommunityIcons(63122);
+      IconData(63122, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_control =
-      FlutterIconData.materialCommunityIcons(64325);
+      IconData(64325, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_enhance =
-      FlutterIconData.materialCommunityIcons(61697);
+      IconData(61697, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_enhance_outline =
-      FlutterIconData.materialCommunityIcons(64326);
+      IconData(64326, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_front =
-      FlutterIconData.materialCommunityIcons(61698);
+      IconData(61698, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_front_variant =
-      FlutterIconData.materialCommunityIcons(61699);
+      IconData(61699, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_gopro =
-      FlutterIconData.materialCommunityIcons(63392);
+      IconData(63392, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_image =
-      FlutterIconData.materialCommunityIcons(63691);
+      IconData(63691, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_iris =
-      FlutterIconData.materialCommunityIcons(61700);
+      IconData(61700, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_metering_center =
-      FlutterIconData.materialCommunityIcons(63393);
+      IconData(63393, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_metering_matrix =
-      FlutterIconData.materialCommunityIcons(63394);
+      IconData(63394, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_metering_partial =
-      FlutterIconData.materialCommunityIcons(63395);
+      IconData(63395, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_metering_spot =
-      FlutterIconData.materialCommunityIcons(63396);
+      IconData(63396, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_off =
-      FlutterIconData.materialCommunityIcons(62943);
+      IconData(62943, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_outline =
-      FlutterIconData.materialCommunityIcons(64825);
+      IconData(64825, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_party_mode =
-      FlutterIconData.materialCommunityIcons(61701);
+      IconData(61701, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_plus =
-      FlutterIconData.materialCommunityIcons(65272);
+      IconData(65272, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_plus_outline =
-      FlutterIconData.materialCommunityIcons(65273);
+      IconData(65273, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_rear =
-      FlutterIconData.materialCommunityIcons(61702);
+      IconData(61702, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_rear_variant =
-      FlutterIconData.materialCommunityIcons(61703);
+      IconData(61703, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_retake =
-      FlutterIconData.materialCommunityIcons(65020);
+      IconData(65020, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_retake_outline =
-      FlutterIconData.materialCommunityIcons(65021);
+      IconData(65021, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_switch =
-      FlutterIconData.materialCommunityIcons(61704);
+      IconData(61704, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_timer =
-      FlutterIconData.materialCommunityIcons(61705);
+      IconData(61705, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_wireless =
-      FlutterIconData.materialCommunityIcons(64914);
+      IconData(64914, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData camera_wireless_outline =
-      FlutterIconData.materialCommunityIcons(64915);
+      IconData(64915, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData campfire =
-      FlutterIconData.materialCommunityIcons(65274);
-  static const IconData cancel = FlutterIconData.materialCommunityIcons(63289);
-  static const IconData candle = FlutterIconData.materialCommunityIcons(62946);
+      IconData(65274, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cancel = IconData(63289, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData candle = IconData(62946, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData candycane =
-      FlutterIconData.materialCommunityIcons(61706);
+      IconData(61706, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cannabis =
-      FlutterIconData.materialCommunityIcons(63397);
+      IconData(63397, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData caps_lock =
-      FlutterIconData.materialCommunityIcons(64154);
-  static const IconData car = FlutterIconData.materialCommunityIcons(61707);
+      IconData(64154, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData car = IconData(61707, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_back =
-      FlutterIconData.materialCommunityIcons(65022);
+      IconData(65022, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_battery =
-      FlutterIconData.materialCommunityIcons(61708);
+      IconData(61708, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_brake_abs =
-      FlutterIconData.materialCommunityIcons(64547);
+      IconData(64547, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_brake_alert =
-      FlutterIconData.materialCommunityIcons(64548);
+      IconData(64548, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_brake_hold =
-      FlutterIconData.materialCommunityIcons(64826);
+      IconData(64826, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_brake_parking =
-      FlutterIconData.materialCommunityIcons(64827);
+      IconData(64827, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_child_seat =
-      FlutterIconData.materialCommunityIcons(65475);
+      IconData(65475, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_connected =
-      FlutterIconData.materialCommunityIcons(61709);
+      IconData(61709, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_convertible =
-      FlutterIconData.materialCommunityIcons(63398);
+      IconData(63398, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_cruise_control =
-      FlutterIconData.materialCommunityIcons(64828);
+      IconData(64828, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_defrost_front =
-      FlutterIconData.materialCommunityIcons(64829);
+      IconData(64829, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_defrost_rear =
-      FlutterIconData.materialCommunityIcons(64830);
+      IconData(64830, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_door =
-      FlutterIconData.materialCommunityIcons(64327);
+      IconData(64327, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_electric =
-      FlutterIconData.materialCommunityIcons(64328);
-  static const IconData car_esp = FlutterIconData.materialCommunityIcons(64549);
+      IconData(64328, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData car_esp = IconData(64549, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_estate =
-      FlutterIconData.materialCommunityIcons(63399);
+      IconData(63399, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_hatchback =
-      FlutterIconData.materialCommunityIcons(63400);
-  static const IconData car_key = FlutterIconData.materialCommunityIcons(64329);
+      IconData(63400, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData car_key = IconData(64329, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_light_dimmed =
-      FlutterIconData.materialCommunityIcons(64550);
+      IconData(64550, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_light_fog =
-      FlutterIconData.materialCommunityIcons(64551);
+      IconData(64551, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_light_high =
-      FlutterIconData.materialCommunityIcons(64552);
+      IconData(64552, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_limousine =
-      FlutterIconData.materialCommunityIcons(63692);
+      IconData(63692, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_multiple =
-      FlutterIconData.materialCommunityIcons(64330);
-  static const IconData car_off = FlutterIconData.materialCommunityIcons(65023);
+      IconData(64330, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData car_off = IconData(65023, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_parking_lights =
-      FlutterIconData.materialCommunityIcons(64831);
+      IconData(64831, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_pickup =
-      FlutterIconData.materialCommunityIcons(63401);
+      IconData(63401, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_seat =
-      FlutterIconData.materialCommunityIcons(65476);
+      IconData(65476, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_seat_cooler =
-      FlutterIconData.materialCommunityIcons(65477);
+      IconData(65477, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_seat_heater =
-      FlutterIconData.materialCommunityIcons(65478);
+      IconData(65478, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_shift_pattern =
-      FlutterIconData.materialCommunityIcons(65373);
+      IconData(65373, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_side =
-      FlutterIconData.materialCommunityIcons(63402);
+      IconData(63402, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_sports =
-      FlutterIconData.materialCommunityIcons(63403);
+      IconData(63403, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_tire_alert =
-      FlutterIconData.materialCommunityIcons(64553);
+      IconData(64553, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_traction_control =
-      FlutterIconData.materialCommunityIcons(64832);
+      IconData(64832, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData car_wash =
-      FlutterIconData.materialCommunityIcons(61710);
-  static const IconData caravan = FlutterIconData.materialCommunityIcons(63404);
-  static const IconData card = FlutterIconData.materialCommunityIcons(64331);
+      IconData(61710, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData caravan = IconData(63404, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData card = IconData(64331, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_bulleted =
-      FlutterIconData.materialCommunityIcons(64332);
+      IconData(64332, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_bulleted_off =
-      FlutterIconData.materialCommunityIcons(64333);
+      IconData(64333, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_bulleted_off_outline =
-      FlutterIconData.materialCommunityIcons(64334);
+      IconData(64334, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_bulleted_outline =
-      FlutterIconData.materialCommunityIcons(64335);
+      IconData(64335, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_bulleted_settings =
-      FlutterIconData.materialCommunityIcons(64336);
+      IconData(64336, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_bulleted_settings_outline =
-      FlutterIconData.materialCommunityIcons(64337);
+      IconData(64337, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_outline =
-      FlutterIconData.materialCommunityIcons(64338);
+      IconData(64338, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_text =
-      FlutterIconData.materialCommunityIcons(64339);
+      IconData(64339, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData card_text_outline =
-      FlutterIconData.materialCommunityIcons(64340);
-  static const IconData cards = FlutterIconData.materialCommunityIcons(63032);
+      IconData(64340, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cards = IconData(63032, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cards_club =
-      FlutterIconData.materialCommunityIcons(63693);
+      IconData(63693, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cards_diamond =
-      FlutterIconData.materialCommunityIcons(63694);
+      IconData(63694, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cards_heart =
-      FlutterIconData.materialCommunityIcons(63695);
+      IconData(63695, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cards_outline =
-      FlutterIconData.materialCommunityIcons(63033);
+      IconData(63033, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cards_playing_outline =
-      FlutterIconData.materialCommunityIcons(63034);
+      IconData(63034, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cards_spade =
-      FlutterIconData.materialCommunityIcons(63696);
+      IconData(63696, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cards_variant =
-      FlutterIconData.materialCommunityIcons(63174);
-  static const IconData carrot = FlutterIconData.materialCommunityIcons(61711);
-  static const IconData cart = FlutterIconData.materialCommunityIcons(61712);
+      IconData(63174, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData carrot = IconData(61711, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cart = IconData(61712, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cart_arrow_down =
-      FlutterIconData.materialCommunityIcons(64834);
+      IconData(64834, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cart_arrow_right =
-      FlutterIconData.materialCommunityIcons(64554);
+      IconData(64554, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cart_arrow_up =
-      FlutterIconData.materialCommunityIcons(64835);
+      IconData(64835, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cart_minus =
-      FlutterIconData.materialCommunityIcons(64836);
+      IconData(64836, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cart_off =
-      FlutterIconData.materialCommunityIcons(63083);
+      IconData(63083, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cart_outline =
-      FlutterIconData.materialCommunityIcons(61713);
+      IconData(61713, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cart_plus =
-      FlutterIconData.materialCommunityIcons(61714);
+      IconData(61714, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cart_remove =
-      FlutterIconData.materialCommunityIcons(64837);
+      IconData(64837, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData case_sensitive_alt =
-      FlutterIconData.materialCommunityIcons(61715);
-  static const IconData cash = FlutterIconData.materialCommunityIcons(61716);
+      IconData(61715, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cash = IconData(61716, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cash_100 =
-      FlutterIconData.materialCommunityIcons(61717);
+      IconData(61717, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cash_marker =
-      FlutterIconData.materialCommunityIcons(64916);
+      IconData(64916, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cash_multiple =
-      FlutterIconData.materialCommunityIcons(61718);
+      IconData(61718, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cash_refund =
-      FlutterIconData.materialCommunityIcons(64155);
+      IconData(64155, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cash_register =
-      FlutterIconData.materialCommunityIcons(64720);
+      IconData(64720, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cash_usd =
-      FlutterIconData.materialCommunityIcons(61719);
+      IconData(61719, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cassette =
-      FlutterIconData.materialCommunityIcons(63955);
-  static const IconData cast = FlutterIconData.materialCommunityIcons(61720);
+      IconData(63955, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cast = IconData(61720, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cast_connected =
-      FlutterIconData.materialCommunityIcons(61721);
+      IconData(61721, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cast_education =
-      FlutterIconData.materialCommunityIcons(65133);
+      IconData(65133, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cast_off =
-      FlutterIconData.materialCommunityIcons(63369);
-  static const IconData castle = FlutterIconData.materialCommunityIcons(61722);
-  static const IconData cat = FlutterIconData.materialCommunityIcons(61723);
-  static const IconData cctv = FlutterIconData.materialCommunityIcons(63405);
+      IconData(63369, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData castle = IconData(61722, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cat = IconData(61723, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cctv = IconData(63405, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ceiling_light =
-      FlutterIconData.materialCommunityIcons(63336);
+      IconData(63336, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone =
-      FlutterIconData.materialCommunityIcons(61724);
+      IconData(61724, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_android =
-      FlutterIconData.materialCommunityIcons(61725);
+      IconData(61725, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_arrow_down =
-      FlutterIconData.materialCommunityIcons(63956);
+      IconData(63956, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_basic =
-      FlutterIconData.materialCommunityIcons(61726);
+      IconData(61726, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_dock =
-      FlutterIconData.materialCommunityIcons(61727);
+      IconData(61727, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_erase =
-      FlutterIconData.materialCommunityIcons(63820);
+      IconData(63820, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_information =
-      FlutterIconData.materialCommunityIcons(65374);
+      IconData(65374, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_iphone =
-      FlutterIconData.materialCommunityIcons(61728);
+      IconData(61728, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_key =
-      FlutterIconData.materialCommunityIcons(63821);
+      IconData(63821, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_link =
-      FlutterIconData.materialCommunityIcons(61729);
+      IconData(61729, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_link_off =
-      FlutterIconData.materialCommunityIcons(61730);
+      IconData(61730, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_lock =
-      FlutterIconData.materialCommunityIcons(63822);
+      IconData(63822, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_message =
-      FlutterIconData.materialCommunityIcons(63698);
+      IconData(63698, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_nfc =
-      FlutterIconData.materialCommunityIcons(65197);
+      IconData(65197, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_off =
-      FlutterIconData.materialCommunityIcons(63823);
+      IconData(63823, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_screenshot =
-      FlutterIconData.materialCommunityIcons(64052);
+      IconData(64052, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_settings =
-      FlutterIconData.materialCommunityIcons(61731);
+      IconData(61731, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_settings_variant =
-      FlutterIconData.materialCommunityIcons(63824);
+      IconData(63824, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_sound =
-      FlutterIconData.materialCommunityIcons(63825);
+      IconData(63825, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_text =
-      FlutterIconData.materialCommunityIcons(63697);
+      IconData(63697, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cellphone_wireless =
-      FlutterIconData.materialCommunityIcons(63508);
+      IconData(63508, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData celtic_cross =
-      FlutterIconData.materialCommunityIcons(64721);
+      IconData(64721, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData certificate =
-      FlutterIconData.materialCommunityIcons(61732);
+      IconData(61732, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chair_rolling =
-      FlutterIconData.materialCommunityIcons(65466);
+      IconData(65466, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chair_school =
-      FlutterIconData.materialCommunityIcons(61733);
-  static const IconData charity = FlutterIconData.materialCommunityIcons(64555);
+      IconData(61733, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData charity = IconData(64555, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_arc =
-      FlutterIconData.materialCommunityIcons(61734);
+      IconData(61734, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_areaspline =
-      FlutterIconData.materialCommunityIcons(61735);
+      IconData(61735, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_areaspline_variant =
-      FlutterIconData.materialCommunityIcons(65198);
+      IconData(65198, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_bar =
-      FlutterIconData.materialCommunityIcons(61736);
+      IconData(61736, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_bar_stacked =
-      FlutterIconData.materialCommunityIcons(63337);
+      IconData(63337, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_bell_curve =
-      FlutterIconData.materialCommunityIcons(64556);
+      IconData(64556, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_bell_curve_cumulative =
-      FlutterIconData.materialCommunityIcons(65479);
+      IconData(65479, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_bubble =
-      FlutterIconData.materialCommunityIcons(62947);
+      IconData(62947, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_donut =
-      FlutterIconData.materialCommunityIcons(63406);
+      IconData(63406, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_donut_variant =
-      FlutterIconData.materialCommunityIcons(63407);
+      IconData(63407, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_gantt =
-      FlutterIconData.materialCommunityIcons(63084);
+      IconData(63084, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_histogram =
-      FlutterIconData.materialCommunityIcons(61737);
+      IconData(61737, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_line =
-      FlutterIconData.materialCommunityIcons(61738);
+      IconData(61738, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_line_stacked =
-      FlutterIconData.materialCommunityIcons(63338);
+      IconData(63338, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_line_variant =
-      FlutterIconData.materialCommunityIcons(63408);
+      IconData(63408, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_multiline =
-      FlutterIconData.materialCommunityIcons(63699);
+      IconData(63699, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_pie =
-      FlutterIconData.materialCommunityIcons(61739);
+      IconData(61739, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_scatter_plot =
-      FlutterIconData.materialCommunityIcons(65199);
+      IconData(65199, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_scatter_plot_hexbin =
-      FlutterIconData.materialCommunityIcons(63085);
+      IconData(63085, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_timeline =
-      FlutterIconData.materialCommunityIcons(63086);
+      IconData(63086, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_timeline_variant =
-      FlutterIconData.materialCommunityIcons(65200);
+      IconData(65200, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chart_tree =
-      FlutterIconData.materialCommunityIcons(65201);
-  static const IconData chat = FlutterIconData.materialCommunityIcons(64341);
+      IconData(65201, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData chat = IconData(64341, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chat_alert =
-      FlutterIconData.materialCommunityIcons(64342);
+      IconData(64342, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chat_outline =
-      FlutterIconData.materialCommunityIcons(65275);
+      IconData(65275, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chat_processing =
-      FlutterIconData.materialCommunityIcons(64343);
-  static const IconData check = FlutterIconData.materialCommunityIcons(61740);
+      IconData(64343, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData check = IconData(61740, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_all =
-      FlutterIconData.materialCommunityIcons(61741);
+      IconData(61741, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_bold =
-      FlutterIconData.materialCommunityIcons(65134);
+      IconData(65134, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(64557);
+      IconData(64557, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_box_outline =
-      FlutterIconData.materialCommunityIcons(64558);
+      IconData(64558, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_circle =
-      FlutterIconData.materialCommunityIcons(62944);
+      IconData(62944, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_circle_outline =
-      FlutterIconData.materialCommunityIcons(62945);
+      IconData(62945, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_decagram =
-      FlutterIconData.materialCommunityIcons(63376);
+      IconData(63376, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_network =
-      FlutterIconData.materialCommunityIcons(64559);
+      IconData(64559, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_network_outline =
-      FlutterIconData.materialCommunityIcons(64560);
+      IconData(64560, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_outline =
-      FlutterIconData.materialCommunityIcons(63572);
+      IconData(63572, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_underline =
-      FlutterIconData.materialCommunityIcons(65136);
+      IconData(65136, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_underline_circle =
-      FlutterIconData.materialCommunityIcons(65137);
+      IconData(65137, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData check_underline_circle_outline =
-      FlutterIconData.materialCommunityIcons(65138);
+      IconData(65138, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbook =
-      FlutterIconData.materialCommunityIcons(64156);
+      IconData(64156, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_blank =
-      FlutterIconData.materialCommunityIcons(61742);
+      IconData(61742, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_blank_circle =
-      FlutterIconData.materialCommunityIcons(61743);
+      IconData(61743, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_blank_circle_outline =
-      FlutterIconData.materialCommunityIcons(61744);
+      IconData(61744, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_blank_outline =
-      FlutterIconData.materialCommunityIcons(61745);
+      IconData(61745, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_intermediate =
-      FlutterIconData.materialCommunityIcons(63573);
+      IconData(63573, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_marked =
-      FlutterIconData.materialCommunityIcons(61746);
+      IconData(61746, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_marked_circle =
-      FlutterIconData.materialCommunityIcons(61747);
+      IconData(61747, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_marked_circle_outline =
-      FlutterIconData.materialCommunityIcons(61748);
+      IconData(61748, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_marked_outline =
-      FlutterIconData.materialCommunityIcons(61749);
+      IconData(61749, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_multiple_blank =
-      FlutterIconData.materialCommunityIcons(61750);
+      IconData(61750, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_multiple_blank_circle =
-      FlutterIconData.materialCommunityIcons(63035);
+      IconData(63035, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_multiple_blank_circle_outline =
-      FlutterIconData.materialCommunityIcons(63036);
+      IconData(63036, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_multiple_blank_outline =
-      FlutterIconData.materialCommunityIcons(61751);
+      IconData(61751, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_multiple_marked =
-      FlutterIconData.materialCommunityIcons(61752);
+      IconData(61752, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_multiple_marked_circle =
-      FlutterIconData.materialCommunityIcons(63037);
+      IconData(63037, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_multiple_marked_circle_outline =
-      FlutterIconData.materialCommunityIcons(63038);
+      IconData(63038, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkbox_multiple_marked_outline =
-      FlutterIconData.materialCommunityIcons(61753);
+      IconData(61753, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData checkerboard =
-      FlutterIconData.materialCommunityIcons(61754);
+      IconData(61754, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chef_hat =
-      FlutterIconData.materialCommunityIcons(64344);
+      IconData(64344, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chemical_weapon =
-      FlutterIconData.materialCommunityIcons(61755);
+      IconData(61755, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chess_bishop =
-      FlutterIconData.materialCommunityIcons(63579);
+      IconData(63579, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chess_king =
-      FlutterIconData.materialCommunityIcons(63574);
+      IconData(63574, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chess_knight =
-      FlutterIconData.materialCommunityIcons(63575);
+      IconData(63575, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chess_pawn =
-      FlutterIconData.materialCommunityIcons(63576);
+      IconData(63576, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chess_queen =
-      FlutterIconData.materialCommunityIcons(63577);
+      IconData(63577, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chess_rook =
-      FlutterIconData.materialCommunityIcons(63578);
+      IconData(63578, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_double_down =
-      FlutterIconData.materialCommunityIcons(61756);
+      IconData(61756, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_double_left =
-      FlutterIconData.materialCommunityIcons(61757);
+      IconData(61757, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_double_right =
-      FlutterIconData.materialCommunityIcons(61758);
+      IconData(61758, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_double_up =
-      FlutterIconData.materialCommunityIcons(61759);
+      IconData(61759, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_down =
-      FlutterIconData.materialCommunityIcons(61760);
+      IconData(61760, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_down_box =
-      FlutterIconData.materialCommunityIcons(63957);
+      IconData(63957, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_down_box_outline =
-      FlutterIconData.materialCommunityIcons(63958);
+      IconData(63958, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_down_circle =
-      FlutterIconData.materialCommunityIcons(64267);
+      IconData(64267, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_down_circle_outline =
-      FlutterIconData.materialCommunityIcons(64268);
+      IconData(64268, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_left =
-      FlutterIconData.materialCommunityIcons(61761);
+      IconData(61761, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_left_box =
-      FlutterIconData.materialCommunityIcons(63959);
+      IconData(63959, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_left_box_outline =
-      FlutterIconData.materialCommunityIcons(63960);
+      IconData(63960, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_left_circle =
-      FlutterIconData.materialCommunityIcons(64269);
+      IconData(64269, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_left_circle_outline =
-      FlutterIconData.materialCommunityIcons(64270);
+      IconData(64270, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_right =
-      FlutterIconData.materialCommunityIcons(61762);
+      IconData(61762, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_right_box =
-      FlutterIconData.materialCommunityIcons(63961);
+      IconData(63961, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_right_box_outline =
-      FlutterIconData.materialCommunityIcons(63962);
+      IconData(63962, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_right_circle =
-      FlutterIconData.materialCommunityIcons(64271);
+      IconData(64271, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_right_circle_outline =
-      FlutterIconData.materialCommunityIcons(64272);
+      IconData(64272, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_triple_down =
-      FlutterIconData.materialCommunityIcons(64917);
+      IconData(64917, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_triple_left =
-      FlutterIconData.materialCommunityIcons(64918);
+      IconData(64918, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_triple_right =
-      FlutterIconData.materialCommunityIcons(64919);
+      IconData(64919, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_triple_up =
-      FlutterIconData.materialCommunityIcons(64920);
+      IconData(64920, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_up =
-      FlutterIconData.materialCommunityIcons(61763);
+      IconData(61763, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_up_box =
-      FlutterIconData.materialCommunityIcons(63963);
+      IconData(63963, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_up_box_outline =
-      FlutterIconData.materialCommunityIcons(63964);
+      IconData(63964, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_up_circle =
-      FlutterIconData.materialCommunityIcons(64273);
+      IconData(64273, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chevron_up_circle_outline =
-      FlutterIconData.materialCommunityIcons(64274);
+      IconData(64274, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chili_hot =
-      FlutterIconData.materialCommunityIcons(63409);
+      IconData(63409, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chili_medium =
-      FlutterIconData.materialCommunityIcons(63410);
+      IconData(63410, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData chili_mild =
-      FlutterIconData.materialCommunityIcons(63411);
-  static const IconData chip = FlutterIconData.materialCommunityIcons(63002);
+      IconData(63411, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData chip = IconData(63002, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData christianity =
-      FlutterIconData.materialCommunityIcons(63826);
+      IconData(63826, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData christianity_outline =
-      FlutterIconData.materialCommunityIcons(64722);
-  static const IconData church = FlutterIconData.materialCommunityIcons(61764);
-  static const IconData circle = FlutterIconData.materialCommunityIcons(63332);
+      IconData(64722, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData church = IconData(61764, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData circle = IconData(63332, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_double =
-      FlutterIconData.materialCommunityIcons(65202);
+      IconData(65202, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_edit_outline =
-      FlutterIconData.materialCommunityIcons(63700);
+      IconData(63700, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_expand =
-      FlutterIconData.materialCommunityIcons(65203);
+      IconData(65203, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_medium =
-      FlutterIconData.materialCommunityIcons(63965);
+      IconData(63965, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_outline =
-      FlutterIconData.materialCommunityIcons(63333);
+      IconData(63333, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_slice_1 =
-      FlutterIconData.materialCommunityIcons(64157);
+      IconData(64157, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_slice_2 =
-      FlutterIconData.materialCommunityIcons(64158);
+      IconData(64158, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_slice_3 =
-      FlutterIconData.materialCommunityIcons(64159);
+      IconData(64159, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_slice_4 =
-      FlutterIconData.materialCommunityIcons(64160);
+      IconData(64160, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_slice_5 =
-      FlutterIconData.materialCommunityIcons(64161);
+      IconData(64161, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_slice_6 =
-      FlutterIconData.materialCommunityIcons(64162);
+      IconData(64162, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_slice_7 =
-      FlutterIconData.materialCommunityIcons(64163);
+      IconData(64163, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_slice_8 =
-      FlutterIconData.materialCommunityIcons(64164);
+      IconData(64164, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circle_small =
-      FlutterIconData.materialCommunityIcons(63966);
+      IconData(63966, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData circular_saw =
-      FlutterIconData.materialCommunityIcons(65139);
+      IconData(65139, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cisco_webex =
-      FlutterIconData.materialCommunityIcons(61765);
-  static const IconData city = FlutterIconData.materialCommunityIcons(61766);
+      IconData(61765, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData city = IconData(61766, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData city_variant =
-      FlutterIconData.materialCommunityIcons(64053);
+      IconData(64053, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData city_variant_outline =
-      FlutterIconData.materialCommunityIcons(64054);
+      IconData(64054, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard =
-      FlutterIconData.materialCommunityIcons(61767);
+      IconData(61767, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_account =
-      FlutterIconData.materialCommunityIcons(61768);
+      IconData(61768, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_account_outline =
-      FlutterIconData.materialCommunityIcons(64561);
+      IconData(64561, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_alert =
-      FlutterIconData.materialCommunityIcons(61769);
+      IconData(61769, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_alert_outline =
-      FlutterIconData.materialCommunityIcons(64723);
+      IconData(64723, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_arrow_down =
-      FlutterIconData.materialCommunityIcons(61770);
+      IconData(61770, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_arrow_down_outline =
-      FlutterIconData.materialCommunityIcons(64562);
+      IconData(64562, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_arrow_left =
-      FlutterIconData.materialCommunityIcons(61771);
+      IconData(61771, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_arrow_left_outline =
-      FlutterIconData.materialCommunityIcons(64724);
+      IconData(64724, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_arrow_right =
-      FlutterIconData.materialCommunityIcons(64725);
+      IconData(64725, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_arrow_right_outline =
-      FlutterIconData.materialCommunityIcons(64726);
+      IconData(64726, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_arrow_up =
-      FlutterIconData.materialCommunityIcons(64563);
+      IconData(64563, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_arrow_up_outline =
-      FlutterIconData.materialCommunityIcons(64564);
+      IconData(64564, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_check =
-      FlutterIconData.materialCommunityIcons(61772);
+      IconData(61772, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_check_outline =
-      FlutterIconData.materialCommunityIcons(63655);
+      IconData(63655, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_flow =
-      FlutterIconData.materialCommunityIcons(63175);
+      IconData(63175, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_outline =
-      FlutterIconData.materialCommunityIcons(61773);
+      IconData(61773, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_play =
-      FlutterIconData.materialCommunityIcons(64565);
+      IconData(64565, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_play_outline =
-      FlutterIconData.materialCommunityIcons(64566);
+      IconData(64566, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_plus =
-      FlutterIconData.materialCommunityIcons(63312);
+      IconData(63312, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_pulse =
-      FlutterIconData.materialCommunityIcons(63580);
+      IconData(63580, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_pulse_outline =
-      FlutterIconData.materialCommunityIcons(63581);
+      IconData(63581, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_text =
-      FlutterIconData.materialCommunityIcons(61774);
+      IconData(61774, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_text_outline =
-      FlutterIconData.materialCommunityIcons(64055);
+      IconData(64055, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_text_play =
-      FlutterIconData.materialCommunityIcons(64567);
+      IconData(64567, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clipboard_text_play_outline =
-      FlutterIconData.materialCommunityIcons(64568);
-  static const IconData clippy = FlutterIconData.materialCommunityIcons(61775);
-  static const IconData clock = FlutterIconData.materialCommunityIcons(63827);
+      IconData(64568, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData clippy = IconData(61775, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData clock = IconData(63827, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_alert =
-      FlutterIconData.materialCommunityIcons(63828);
+      IconData(63828, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_alert_outline =
-      FlutterIconData.materialCommunityIcons(62926);
+      IconData(62926, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_check =
-      FlutterIconData.materialCommunityIcons(65480);
+      IconData(65480, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_check_outline =
-      FlutterIconData.materialCommunityIcons(65481);
+      IconData(65481, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_digital =
-      FlutterIconData.materialCommunityIcons(65204);
+      IconData(65204, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_end =
-      FlutterIconData.materialCommunityIcons(61777);
+      IconData(61777, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_fast =
-      FlutterIconData.materialCommunityIcons(61778);
+      IconData(61778, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_in =
-      FlutterIconData.materialCommunityIcons(61779);
+      IconData(61779, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_out =
-      FlutterIconData.materialCommunityIcons(61780);
+      IconData(61780, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_outline =
-      FlutterIconData.materialCommunityIcons(61776);
+      IconData(61776, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData clock_start =
-      FlutterIconData.materialCommunityIcons(61781);
-  static const IconData close = FlutterIconData.materialCommunityIcons(61782);
+      IconData(61781, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData close = IconData(61782, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_box =
-      FlutterIconData.materialCommunityIcons(61783);
+      IconData(61783, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_box_multiple =
-      FlutterIconData.materialCommunityIcons(64569);
+      IconData(64569, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(64570);
+      IconData(64570, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_box_outline =
-      FlutterIconData.materialCommunityIcons(61784);
+      IconData(61784, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_circle =
-      FlutterIconData.materialCommunityIcons(61785);
+      IconData(61785, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_circle_outline =
-      FlutterIconData.materialCommunityIcons(61786);
+      IconData(61786, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_network =
-      FlutterIconData.materialCommunityIcons(61787);
+      IconData(61787, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_network_outline =
-      FlutterIconData.materialCommunityIcons(64571);
+      IconData(64571, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_octagon =
-      FlutterIconData.materialCommunityIcons(61788);
+      IconData(61788, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_octagon_outline =
-      FlutterIconData.materialCommunityIcons(61789);
+      IconData(61789, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData close_outline =
-      FlutterIconData.materialCommunityIcons(63176);
+      IconData(63176, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData closed_caption =
-      FlutterIconData.materialCommunityIcons(61790);
+      IconData(61790, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData closed_caption_outline =
-      FlutterIconData.materialCommunityIcons(64921);
-  static const IconData cloud = FlutterIconData.materialCommunityIcons(61791);
+      IconData(64921, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cloud = IconData(61791, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_alert =
-      FlutterIconData.materialCommunityIcons(63967);
+      IconData(63967, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_braces =
-      FlutterIconData.materialCommunityIcons(63412);
+      IconData(63412, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_check =
-      FlutterIconData.materialCommunityIcons(61792);
+      IconData(61792, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_circle =
-      FlutterIconData.materialCommunityIcons(61793);
+      IconData(61793, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_download =
-      FlutterIconData.materialCommunityIcons(61794);
+      IconData(61794, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_download_outline =
-      FlutterIconData.materialCommunityIcons(64345);
+      IconData(64345, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_off_outline =
-      FlutterIconData.materialCommunityIcons(61796);
+      IconData(61796, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_outline =
-      FlutterIconData.materialCommunityIcons(61795);
+      IconData(61795, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_print =
-      FlutterIconData.materialCommunityIcons(61797);
+      IconData(61797, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_print_outline =
-      FlutterIconData.materialCommunityIcons(61798);
+      IconData(61798, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_question =
-      FlutterIconData.materialCommunityIcons(64056);
+      IconData(64056, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_search =
-      FlutterIconData.materialCommunityIcons(63829);
+      IconData(63829, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_search_outline =
-      FlutterIconData.materialCommunityIcons(63830);
+      IconData(63830, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_sync =
-      FlutterIconData.materialCommunityIcons(63039);
+      IconData(63039, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_tags =
-      FlutterIconData.materialCommunityIcons(63413);
+      IconData(63413, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_upload =
-      FlutterIconData.materialCommunityIcons(61799);
+      IconData(61799, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cloud_upload_outline =
-      FlutterIconData.materialCommunityIcons(64346);
-  static const IconData clover = FlutterIconData.materialCommunityIcons(63509);
+      IconData(64346, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData clover = IconData(63509, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_array =
-      FlutterIconData.materialCommunityIcons(61800);
+      IconData(61800, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_braces =
-      FlutterIconData.materialCommunityIcons(61801);
+      IconData(61801, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_brackets =
-      FlutterIconData.materialCommunityIcons(61802);
+      IconData(61802, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_equal =
-      FlutterIconData.materialCommunityIcons(61803);
+      IconData(61803, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_greater_than =
-      FlutterIconData.materialCommunityIcons(61804);
+      IconData(61804, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_greater_than_or_equal =
-      FlutterIconData.materialCommunityIcons(61805);
+      IconData(61805, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_less_than =
-      FlutterIconData.materialCommunityIcons(61806);
+      IconData(61806, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_less_than_or_equal =
-      FlutterIconData.materialCommunityIcons(61807);
+      IconData(61807, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_not_equal =
-      FlutterIconData.materialCommunityIcons(61808);
+      IconData(61808, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_not_equal_variant =
-      FlutterIconData.materialCommunityIcons(61809);
+      IconData(61809, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_parentheses =
-      FlutterIconData.materialCommunityIcons(61810);
+      IconData(61810, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_string =
-      FlutterIconData.materialCommunityIcons(61811);
+      IconData(61811, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_tags =
-      FlutterIconData.materialCommunityIcons(61812);
+      IconData(61812, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData code_tags_check =
-      FlutterIconData.materialCommunityIcons(63123);
-  static const IconData codepen = FlutterIconData.materialCommunityIcons(61813);
-  static const IconData coffee = FlutterIconData.materialCommunityIcons(61814);
+      IconData(63123, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData codepen = IconData(61813, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData coffee = IconData(61814, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData coffee_off =
-      FlutterIconData.materialCommunityIcons(65482);
+      IconData(65482, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData coffee_off_outline =
-      FlutterIconData.materialCommunityIcons(65483);
+      IconData(65483, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData coffee_outline =
-      FlutterIconData.materialCommunityIcons(63177);
+      IconData(63177, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData coffee_to_go =
-      FlutterIconData.materialCommunityIcons(61815);
-  static const IconData coffin = FlutterIconData.materialCommunityIcons(64347);
-  static const IconData cogs = FlutterIconData.materialCommunityIcons(63701);
-  static const IconData coin = FlutterIconData.materialCommunityIcons(61816);
-  static const IconData coins = FlutterIconData.materialCommunityIcons(63124);
-  static const IconData collage = FlutterIconData.materialCommunityIcons(63040);
+      IconData(61815, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData coffin = IconData(64347, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cogs = IconData(63701, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData coin = IconData(61816, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData coins = IconData(63124, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData collage = IconData(63040, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData collapse_all =
-      FlutterIconData.materialCommunityIcons(64165);
+      IconData(64165, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData collapse_all_outline =
-      FlutterIconData.materialCommunityIcons(64166);
+      IconData(64166, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData color_helper =
-      FlutterIconData.materialCommunityIcons(61817);
-  static const IconData comma = FlutterIconData.materialCommunityIcons(65140);
+      IconData(61817, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData comma = IconData(65140, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comma_box =
-      FlutterIconData.materialCommunityIcons(65141);
+      IconData(65141, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comma_box_outline =
-      FlutterIconData.materialCommunityIcons(65142);
+      IconData(65142, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comma_circle =
-      FlutterIconData.materialCommunityIcons(65143);
+      IconData(65143, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comma_circle_outline =
-      FlutterIconData.materialCommunityIcons(65144);
-  static const IconData comment = FlutterIconData.materialCommunityIcons(61818);
+      IconData(65144, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData comment = IconData(61818, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_account =
-      FlutterIconData.materialCommunityIcons(61819);
+      IconData(61819, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_account_outline =
-      FlutterIconData.materialCommunityIcons(61820);
+      IconData(61820, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_alert =
-      FlutterIconData.materialCommunityIcons(61821);
+      IconData(61821, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_alert_outline =
-      FlutterIconData.materialCommunityIcons(61822);
+      IconData(61822, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_arrow_left =
-      FlutterIconData.materialCommunityIcons(63968);
+      IconData(63968, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_arrow_left_outline =
-      FlutterIconData.materialCommunityIcons(63969);
+      IconData(63969, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_arrow_right =
-      FlutterIconData.materialCommunityIcons(63970);
+      IconData(63970, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_arrow_right_outline =
-      FlutterIconData.materialCommunityIcons(63971);
+      IconData(63971, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_check =
-      FlutterIconData.materialCommunityIcons(61823);
+      IconData(61823, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_check_outline =
-      FlutterIconData.materialCommunityIcons(61824);
+      IconData(61824, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_eye =
-      FlutterIconData.materialCommunityIcons(64057);
+      IconData(64057, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_eye_outline =
-      FlutterIconData.materialCommunityIcons(64058);
+      IconData(64058, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_multiple =
-      FlutterIconData.materialCommunityIcons(63582);
+      IconData(63582, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_multiple_outline =
-      FlutterIconData.materialCommunityIcons(61825);
+      IconData(61825, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_outline =
-      FlutterIconData.materialCommunityIcons(61826);
+      IconData(61826, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_plus =
-      FlutterIconData.materialCommunityIcons(63972);
+      IconData(63972, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_plus_outline =
-      FlutterIconData.materialCommunityIcons(61827);
+      IconData(61827, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_processing =
-      FlutterIconData.materialCommunityIcons(61828);
+      IconData(61828, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_processing_outline =
-      FlutterIconData.materialCommunityIcons(61829);
+      IconData(61829, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_question =
-      FlutterIconData.materialCommunityIcons(63510);
+      IconData(63510, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_question_outline =
-      FlutterIconData.materialCommunityIcons(61830);
+      IconData(61830, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_remove =
-      FlutterIconData.materialCommunityIcons(62942);
+      IconData(62942, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_remove_outline =
-      FlutterIconData.materialCommunityIcons(61831);
+      IconData(61831, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_search =
-      FlutterIconData.materialCommunityIcons(64059);
+      IconData(64059, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_search_outline =
-      FlutterIconData.materialCommunityIcons(64060);
+      IconData(64060, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_text =
-      FlutterIconData.materialCommunityIcons(61832);
+      IconData(61832, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_text_multiple =
-      FlutterIconData.materialCommunityIcons(63583);
+      IconData(63583, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_text_multiple_outline =
-      FlutterIconData.materialCommunityIcons(63584);
+      IconData(63584, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData comment_text_outline =
-      FlutterIconData.materialCommunityIcons(61833);
-  static const IconData compare = FlutterIconData.materialCommunityIcons(61834);
-  static const IconData compass = FlutterIconData.materialCommunityIcons(61835);
+      IconData(61833, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData compare = IconData(61834, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData compass = IconData(61835, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData compass_off =
-      FlutterIconData.materialCommunityIcons(64348);
+      IconData(64348, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData compass_off_outline =
-      FlutterIconData.materialCommunityIcons(64349);
+      IconData(64349, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData compass_outline =
-      FlutterIconData.materialCommunityIcons(61836);
-  static const IconData console = FlutterIconData.materialCommunityIcons(61837);
+      IconData(61836, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData console = IconData(61837, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData console_line =
-      FlutterIconData.materialCommunityIcons(63414);
+      IconData(63414, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData console_network =
-      FlutterIconData.materialCommunityIcons(63656);
+      IconData(63656, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData console_network_outline =
-      FlutterIconData.materialCommunityIcons(64572);
+      IconData(64572, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contact_mail =
-      FlutterIconData.materialCommunityIcons(61838);
+      IconData(61838, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contact_mail_outline =
-      FlutterIconData.materialCommunityIcons(65205);
+      IconData(65205, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contact_phone =
-      FlutterIconData.materialCommunityIcons(65206);
+      IconData(65206, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contact_phone_outline =
-      FlutterIconData.materialCommunityIcons(65207);
+      IconData(65207, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contactless_payment =
-      FlutterIconData.materialCommunityIcons(64838);
+      IconData(64838, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contacts =
-      FlutterIconData.materialCommunityIcons(63178);
-  static const IconData contain = FlutterIconData.materialCommunityIcons(64061);
+      IconData(63178, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData contain = IconData(64061, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contain_end =
-      FlutterIconData.materialCommunityIcons(64062);
+      IconData(64062, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contain_start =
-      FlutterIconData.materialCommunityIcons(64063);
+      IconData(64063, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_copy =
-      FlutterIconData.materialCommunityIcons(61839);
+      IconData(61839, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_cut =
-      FlutterIconData.materialCommunityIcons(61840);
+      IconData(61840, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_duplicate =
-      FlutterIconData.materialCommunityIcons(61841);
+      IconData(61841, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_paste =
-      FlutterIconData.materialCommunityIcons(61842);
+      IconData(61842, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save =
-      FlutterIconData.materialCommunityIcons(61843);
+      IconData(61843, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_alert =
-      FlutterIconData.materialCommunityIcons(65375);
+      IconData(65375, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_alert_outline =
-      FlutterIconData.materialCommunityIcons(65376);
+      IconData(65376, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_all =
-      FlutterIconData.materialCommunityIcons(61844);
+      IconData(61844, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_all_outline =
-      FlutterIconData.materialCommunityIcons(65377);
+      IconData(65377, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_edit =
-      FlutterIconData.materialCommunityIcons(64727);
+      IconData(64727, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_edit_outline =
-      FlutterIconData.materialCommunityIcons(64728);
+      IconData(64728, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_move =
-      FlutterIconData.materialCommunityIcons(65145);
+      IconData(65145, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_move_outline =
-      FlutterIconData.materialCommunityIcons(65146);
+      IconData(65146, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_outline =
-      FlutterIconData.materialCommunityIcons(63511);
+      IconData(63511, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_settings =
-      FlutterIconData.materialCommunityIcons(63003);
+      IconData(63003, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData content_save_settings_outline =
-      FlutterIconData.materialCommunityIcons(64275);
+      IconData(64275, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contrast =
-      FlutterIconData.materialCommunityIcons(61845);
+      IconData(61845, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contrast_box =
-      FlutterIconData.materialCommunityIcons(61846);
+      IconData(61846, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData contrast_circle =
-      FlutterIconData.materialCommunityIcons(61847);
+      IconData(61847, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData controller_classic =
-      FlutterIconData.materialCommunityIcons(64350);
+      IconData(64350, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData controller_classic_outline =
-      FlutterIconData.materialCommunityIcons(64351);
-  static const IconData cookie = FlutterIconData.materialCommunityIcons(61848);
+      IconData(64351, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cookie = IconData(61848, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData coolant_temperature =
-      FlutterIconData.materialCommunityIcons(62408);
+      IconData(62408, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData copyright =
-      FlutterIconData.materialCommunityIcons(62950);
-  static const IconData cordova = FlutterIconData.materialCommunityIcons(63831);
-  static const IconData corn = FlutterIconData.materialCommunityIcons(63415);
-  static const IconData counter = FlutterIconData.materialCommunityIcons(61849);
-  static const IconData cow = FlutterIconData.materialCommunityIcons(61850);
-  static const IconData cowboy = FlutterIconData.materialCommunityIcons(65208);
+      IconData(62950, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cordova = IconData(63831, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData corn = IconData(63415, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData counter = IconData(61849, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cow = IconData(61850, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cowboy = IconData(65208, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cpu_32_bit =
-      FlutterIconData.materialCommunityIcons(65276);
+      IconData(65276, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cpu_64_bit =
-      FlutterIconData.materialCommunityIcons(65277);
-  static const IconData crane = FlutterIconData.materialCommunityIcons(63585);
+      IconData(65277, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData crane = IconData(63585, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData creation =
-      FlutterIconData.materialCommunityIcons(61897);
+      IconData(61897, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData creative_commons =
-      FlutterIconData.materialCommunityIcons(64839);
+      IconData(64839, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card =
-      FlutterIconData.materialCommunityIcons(983056);
+      IconData(983056, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_clock =
-      FlutterIconData.materialCommunityIcons(65278);
+      IconData(65278, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_clock_outline =
-      FlutterIconData.materialCommunityIcons(65468);
+      IconData(65468, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_marker =
-      FlutterIconData.materialCommunityIcons(63143);
+      IconData(63143, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_marker_outline =
-      FlutterIconData.materialCommunityIcons(64922);
+      IconData(64922, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_minus =
-      FlutterIconData.materialCommunityIcons(65484);
+      IconData(65484, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_minus_outline =
-      FlutterIconData.materialCommunityIcons(65485);
+      IconData(65485, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_multiple =
-      FlutterIconData.materialCommunityIcons(983057);
+      IconData(983057, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_multiple_outline =
-      FlutterIconData.materialCommunityIcons(61852);
+      IconData(61852, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_off =
-      FlutterIconData.materialCommunityIcons(983058);
+      IconData(983058, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_off_outline =
-      FlutterIconData.materialCommunityIcons(62948);
+      IconData(62948, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_outline =
-      FlutterIconData.materialCommunityIcons(61851);
+      IconData(61851, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_plus =
-      FlutterIconData.materialCommunityIcons(983059);
+      IconData(983059, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_plus_outline =
-      FlutterIconData.materialCommunityIcons(63093);
+      IconData(63093, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_refund =
-      FlutterIconData.materialCommunityIcons(983060);
+      IconData(983060, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_refund_outline =
-      FlutterIconData.materialCommunityIcons(64167);
+      IconData(64167, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_remove =
-      FlutterIconData.materialCommunityIcons(65486);
+      IconData(65486, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_remove_outline =
-      FlutterIconData.materialCommunityIcons(65487);
+      IconData(65487, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_scan =
-      FlutterIconData.materialCommunityIcons(983061);
+      IconData(983061, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_scan_outline =
-      FlutterIconData.materialCommunityIcons(61853);
+      IconData(61853, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_settings =
-      FlutterIconData.materialCommunityIcons(983062);
+      IconData(983062, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_settings_outline =
-      FlutterIconData.materialCommunityIcons(63702);
+      IconData(63702, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_wireless =
-      FlutterIconData.materialCommunityIcons(63489);
+      IconData(63489, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData credit_card_wireless_outline =
-      FlutterIconData.materialCommunityIcons(64840);
-  static const IconData cricket = FlutterIconData.materialCommunityIcons(64841);
-  static const IconData crop = FlutterIconData.materialCommunityIcons(61854);
+      IconData(64840, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cricket = IconData(64841, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData crop = IconData(61854, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crop_free =
-      FlutterIconData.materialCommunityIcons(61855);
+      IconData(61855, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crop_landscape =
-      FlutterIconData.materialCommunityIcons(61856);
+      IconData(61856, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crop_portrait =
-      FlutterIconData.materialCommunityIcons(61857);
+      IconData(61857, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crop_rotate =
-      FlutterIconData.materialCommunityIcons(63125);
+      IconData(63125, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crop_square =
-      FlutterIconData.materialCommunityIcons(61858);
+      IconData(61858, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crosshairs =
-      FlutterIconData.materialCommunityIcons(61859);
+      IconData(61859, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crosshairs_gps =
-      FlutterIconData.materialCommunityIcons(61860);
+      IconData(61860, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crosshairs_off =
-      FlutterIconData.materialCommunityIcons(65378);
-  static const IconData crown = FlutterIconData.materialCommunityIcons(61861);
+      IconData(65378, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData crown = IconData(61861, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cryengine =
-      FlutterIconData.materialCommunityIcons(63832);
+      IconData(63832, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData crystal_ball =
-      FlutterIconData.materialCommunityIcons(64276);
-  static const IconData cube = FlutterIconData.materialCommunityIcons(61862);
+      IconData(64276, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cube = IconData(61862, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cube_outline =
-      FlutterIconData.materialCommunityIcons(61863);
+      IconData(61863, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cube_scan =
-      FlutterIconData.materialCommunityIcons(64352);
+      IconData(64352, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cube_send =
-      FlutterIconData.materialCommunityIcons(61864);
+      IconData(61864, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cube_unfolded =
-      FlutterIconData.materialCommunityIcons(61865);
-  static const IconData cup = FlutterIconData.materialCommunityIcons(61866);
-  static const IconData cup_off = FlutterIconData.materialCommunityIcons(62949);
+      IconData(61865, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cup = IconData(61866, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cup_off = IconData(62949, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cup_water =
-      FlutterIconData.materialCommunityIcons(61867);
+      IconData(61867, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cupboard =
-      FlutterIconData.materialCommunityIcons(65379);
+      IconData(65379, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cupboard_outline =
-      FlutterIconData.materialCommunityIcons(65380);
-  static const IconData cupcake = FlutterIconData.materialCommunityIcons(63833);
-  static const IconData curling = FlutterIconData.materialCommunityIcons(63586);
+      IconData(65380, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData cupcake = IconData(63833, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData curling = IconData(63586, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_bdt =
-      FlutterIconData.materialCommunityIcons(63587);
+      IconData(63587, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_brl =
-      FlutterIconData.materialCommunityIcons(64353);
+      IconData(64353, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_btc =
-      FlutterIconData.materialCommunityIcons(61868);
+      IconData(61868, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_cny =
-      FlutterIconData.materialCommunityIcons(63417);
+      IconData(63417, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_eth =
-      FlutterIconData.materialCommunityIcons(63418);
+      IconData(63418, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_eur =
-      FlutterIconData.materialCommunityIcons(61869);
+      IconData(61869, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_gbp =
-      FlutterIconData.materialCommunityIcons(61870);
+      IconData(61870, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_ils =
-      FlutterIconData.materialCommunityIcons(64573);
+      IconData(64573, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_inr =
-      FlutterIconData.materialCommunityIcons(61871);
+      IconData(61871, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_jpy =
-      FlutterIconData.materialCommunityIcons(63419);
+      IconData(63419, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_krw =
-      FlutterIconData.materialCommunityIcons(63420);
+      IconData(63420, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_kzt =
-      FlutterIconData.materialCommunityIcons(63588);
+      IconData(63588, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_ngn =
-      FlutterIconData.materialCommunityIcons(61872);
+      IconData(61872, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_php =
-      FlutterIconData.materialCommunityIcons(63973);
+      IconData(63973, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_rial =
-      FlutterIconData.materialCommunityIcons(65209);
+      IconData(65209, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_rub =
-      FlutterIconData.materialCommunityIcons(61873);
+      IconData(61873, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_sign =
-      FlutterIconData.materialCommunityIcons(63421);
+      IconData(63421, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_try =
-      FlutterIconData.materialCommunityIcons(61874);
+      IconData(61874, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_twd =
-      FlutterIconData.materialCommunityIcons(63422);
+      IconData(63422, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_usd =
-      FlutterIconData.materialCommunityIcons(61875);
+      IconData(61875, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData currency_usd_off =
-      FlutterIconData.materialCommunityIcons(63097);
+      IconData(63097, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData current_ac =
-      FlutterIconData.materialCommunityIcons(63834);
+      IconData(63834, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData current_dc =
-      FlutterIconData.materialCommunityIcons(63835);
+      IconData(63835, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cursor_default =
-      FlutterIconData.materialCommunityIcons(61876);
+      IconData(61876, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cursor_default_click =
-      FlutterIconData.materialCommunityIcons(64729);
+      IconData(64729, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cursor_default_click_outline =
-      FlutterIconData.materialCommunityIcons(64730);
+      IconData(64730, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cursor_default_outline =
-      FlutterIconData.materialCommunityIcons(61877);
+      IconData(61877, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cursor_move =
-      FlutterIconData.materialCommunityIcons(61878);
+      IconData(61878, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cursor_pointer =
-      FlutterIconData.materialCommunityIcons(61879);
+      IconData(61879, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData cursor_text =
-      FlutterIconData.materialCommunityIcons(62951);
+      IconData(62951, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database =
-      FlutterIconData.materialCommunityIcons(61880);
+      IconData(61880, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_check =
-      FlutterIconData.materialCommunityIcons(64168);
+      IconData(64168, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_edit =
-      FlutterIconData.materialCommunityIcons(64354);
+      IconData(64354, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_export =
-      FlutterIconData.materialCommunityIcons(63837);
+      IconData(63837, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_import =
-      FlutterIconData.materialCommunityIcons(63836);
+      IconData(63836, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_lock =
-      FlutterIconData.materialCommunityIcons(64169);
+      IconData(64169, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_minus =
-      FlutterIconData.materialCommunityIcons(61881);
+      IconData(61881, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_plus =
-      FlutterIconData.materialCommunityIcons(61882);
+      IconData(61882, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_refresh =
-      FlutterIconData.materialCommunityIcons(64731);
+      IconData(64731, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_remove =
-      FlutterIconData.materialCommunityIcons(64732);
+      IconData(64732, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_search =
-      FlutterIconData.materialCommunityIcons(63589);
+      IconData(63589, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData database_settings =
-      FlutterIconData.materialCommunityIcons(64733);
+      IconData(64733, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData death_star =
-      FlutterIconData.materialCommunityIcons(63703);
+      IconData(63703, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData death_star_variant =
-      FlutterIconData.materialCommunityIcons(63704);
+      IconData(63704, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData deathly_hallows =
-      FlutterIconData.materialCommunityIcons(64355);
-  static const IconData debian = FlutterIconData.materialCommunityIcons(63705);
+      IconData(64355, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData debian = IconData(63705, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData debug_step_into =
-      FlutterIconData.materialCommunityIcons(61883);
+      IconData(61883, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData debug_step_out =
-      FlutterIconData.materialCommunityIcons(61884);
+      IconData(61884, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData debug_step_over =
-      FlutterIconData.materialCommunityIcons(61885);
+      IconData(61885, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData decagram =
-      FlutterIconData.materialCommunityIcons(63339);
+      IconData(63339, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData decagram_outline =
-      FlutterIconData.materialCommunityIcons(63340);
+      IconData(63340, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData decimal_decrease =
-      FlutterIconData.materialCommunityIcons(61886);
+      IconData(61886, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData decimal_increase =
-      FlutterIconData.materialCommunityIcons(61887);
-  static const IconData delete = FlutterIconData.materialCommunityIcons(61888);
+      IconData(61887, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData delete = IconData(61888, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_circle =
-      FlutterIconData.materialCommunityIcons(63106);
+      IconData(63106, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_circle_outline =
-      FlutterIconData.materialCommunityIcons(64356);
+      IconData(64356, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_empty =
-      FlutterIconData.materialCommunityIcons(63179);
+      IconData(63179, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_empty_outline =
-      FlutterIconData.materialCommunityIcons(65210);
+      IconData(65210, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_forever =
-      FlutterIconData.materialCommunityIcons(62952);
+      IconData(62952, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_forever_outline =
-      FlutterIconData.materialCommunityIcons(64357);
+      IconData(64357, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_outline =
-      FlutterIconData.materialCommunityIcons(63974);
+      IconData(63974, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_restore =
-      FlutterIconData.materialCommunityIcons(63512);
+      IconData(63512, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_sweep =
-      FlutterIconData.materialCommunityIcons(62953);
+      IconData(62953, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_sweep_outline =
-      FlutterIconData.materialCommunityIcons(64574);
+      IconData(64574, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData delete_variant =
-      FlutterIconData.materialCommunityIcons(61889);
-  static const IconData delta = FlutterIconData.materialCommunityIcons(61890);
+      IconData(61889, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData delta = IconData(61890, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData desk_lamp =
-      FlutterIconData.materialCommunityIcons(63838);
+      IconData(63838, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData deskphone =
-      FlutterIconData.materialCommunityIcons(61891);
+      IconData(61891, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData desktop_classic =
-      FlutterIconData.materialCommunityIcons(63423);
+      IconData(63423, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData desktop_mac =
-      FlutterIconData.materialCommunityIcons(61892);
+      IconData(61892, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData desktop_mac_dashboard =
-      FlutterIconData.materialCommunityIcons(63975);
+      IconData(63975, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData desktop_tower =
-      FlutterIconData.materialCommunityIcons(61893);
+      IconData(61893, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData desktop_tower_monitor =
-      FlutterIconData.materialCommunityIcons(64170);
-  static const IconData details = FlutterIconData.materialCommunityIcons(61894);
-  static const IconData dev_to = FlutterIconData.materialCommunityIcons(64842);
+      IconData(64170, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData details = IconData(61894, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dev_to = IconData(64842, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData developer_board =
-      FlutterIconData.materialCommunityIcons(63126);
+      IconData(63126, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData deviantart =
-      FlutterIconData.materialCommunityIcons(61895);
-  static const IconData devices = FlutterIconData.materialCommunityIcons(65488);
-  static const IconData dialpad = FlutterIconData.materialCommunityIcons(63004);
+      IconData(61895, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData devices = IconData(65488, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dialpad = IconData(63004, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diameter =
-      FlutterIconData.materialCommunityIcons(64575);
+      IconData(64575, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diameter_outline =
-      FlutterIconData.materialCommunityIcons(64576);
+      IconData(64576, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diameter_variant =
-      FlutterIconData.materialCommunityIcons(64577);
-  static const IconData diamond = FlutterIconData.materialCommunityIcons(64358);
+      IconData(64577, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData diamond = IconData(64358, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diamond_outline =
-      FlutterIconData.materialCommunityIcons(64359);
+      IconData(64359, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diamond_stone =
-      FlutterIconData.materialCommunityIcons(61896);
-  static const IconData dice_1 = FlutterIconData.materialCommunityIcons(61898);
-  static const IconData dice_2 = FlutterIconData.materialCommunityIcons(61899);
-  static const IconData dice_3 = FlutterIconData.materialCommunityIcons(61900);
-  static const IconData dice_4 = FlutterIconData.materialCommunityIcons(61901);
-  static const IconData dice_5 = FlutterIconData.materialCommunityIcons(61902);
-  static const IconData dice_6 = FlutterIconData.materialCommunityIcons(61903);
+      IconData(61896, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_1 = IconData(61898, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_2 = IconData(61899, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_3 = IconData(61900, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_4 = IconData(61901, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_5 = IconData(61902, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_6 = IconData(61903, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dice_d10 =
-      FlutterIconData.materialCommunityIcons(63342);
+      IconData(63342, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dice_d12 =
-      FlutterIconData.materialCommunityIcons(63590);
+      IconData(63590, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dice_d20 =
-      FlutterIconData.materialCommunityIcons(62954);
-  static const IconData dice_d4 = FlutterIconData.materialCommunityIcons(62955);
-  static const IconData dice_d6 = FlutterIconData.materialCommunityIcons(62956);
-  static const IconData dice_d8 = FlutterIconData.materialCommunityIcons(62957);
+      IconData(62954, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_d4 = IconData(62955, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_d6 = IconData(62956, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dice_d8 = IconData(62957, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dice_multiple =
-      FlutterIconData.materialCommunityIcons(63341);
+      IconData(63341, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dictionary =
-      FlutterIconData.materialCommunityIcons(63005);
+      IconData(63005, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dip_switch =
-      FlutterIconData.materialCommunityIcons(63424);
+      IconData(63424, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData directions =
-      FlutterIconData.materialCommunityIcons(61904);
+      IconData(61904, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData directions_fork =
-      FlutterIconData.materialCommunityIcons(63041);
-  static const IconData disc = FlutterIconData.materialCommunityIcons(62958);
+      IconData(63041, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData disc = IconData(62958, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData disc_alert =
-      FlutterIconData.materialCommunityIcons(61905);
+      IconData(61905, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData disc_player =
-      FlutterIconData.materialCommunityIcons(63839);
-  static const IconData discord = FlutterIconData.materialCommunityIcons(63087);
+      IconData(63839, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData discord = IconData(63087, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dishwasher =
-      FlutterIconData.materialCommunityIcons(64171);
-  static const IconData disqus = FlutterIconData.materialCommunityIcons(61906);
+      IconData(64171, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData disqus = IconData(61906, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData disqus_outline =
-      FlutterIconData.materialCommunityIcons(61907);
+      IconData(61907, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diving_flippers =
-      FlutterIconData.materialCommunityIcons(64923);
+      IconData(64923, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diving_helmet =
-      FlutterIconData.materialCommunityIcons(64924);
+      IconData(64924, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diving_scuba =
-      FlutterIconData.materialCommunityIcons(64925);
+      IconData(64925, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diving_scuba_flag =
-      FlutterIconData.materialCommunityIcons(64926);
+      IconData(64926, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diving_scuba_tank =
-      FlutterIconData.materialCommunityIcons(64927);
+      IconData(64927, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diving_scuba_tank_multiple =
-      FlutterIconData.materialCommunityIcons(64928);
+      IconData(64928, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData diving_snorkel =
-      FlutterIconData.materialCommunityIcons(64929);
+      IconData(64929, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData division =
-      FlutterIconData.materialCommunityIcons(61908);
+      IconData(61908, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData division_box =
-      FlutterIconData.materialCommunityIcons(61909);
-  static const IconData dlna = FlutterIconData.materialCommunityIcons(64064);
-  static const IconData dna = FlutterIconData.materialCommunityIcons(63107);
-  static const IconData dns = FlutterIconData.materialCommunityIcons(61910);
+      IconData(61909, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dlna = IconData(64064, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dna = IconData(63107, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dns = IconData(61910, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dns_outline =
-      FlutterIconData.materialCommunityIcons(64360);
+      IconData(64360, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData do_not_disturb =
-      FlutterIconData.materialCommunityIcons(63127);
+      IconData(63127, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData do_not_disturb_off =
-      FlutterIconData.materialCommunityIcons(63128);
-  static const IconData docker = FlutterIconData.materialCommunityIcons(63591);
-  static const IconData doctor = FlutterIconData.materialCommunityIcons(64065);
-  static const IconData dog = FlutterIconData.materialCommunityIcons(64066);
+      IconData(63128, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData docker = IconData(63591, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData doctor = IconData(64065, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dog = IconData(64066, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dog_service =
-      FlutterIconData.materialCommunityIcons(64172);
+      IconData(64172, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dog_side =
-      FlutterIconData.materialCommunityIcons(64067);
-  static const IconData dolby = FlutterIconData.materialCommunityIcons(63154);
-  static const IconData dolly = FlutterIconData.materialCommunityIcons(65211);
-  static const IconData domain = FlutterIconData.materialCommunityIcons(61911);
+      IconData(64067, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dolby = IconData(63154, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dolly = IconData(65211, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData domain = IconData(61911, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData domain_off =
-      FlutterIconData.materialCommunityIcons(64843);
-  static const IconData donkey = FlutterIconData.materialCommunityIcons(63425);
-  static const IconData door = FlutterIconData.materialCommunityIcons(63513);
+      IconData(64843, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData donkey = IconData(63425, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData door = IconData(63513, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData door_closed =
-      FlutterIconData.materialCommunityIcons(63514);
+      IconData(63514, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData door_open =
-      FlutterIconData.materialCommunityIcons(63515);
+      IconData(63515, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData doorbell_video =
-      FlutterIconData.materialCommunityIcons(63592);
-  static const IconData dot_net = FlutterIconData.materialCommunityIcons(64173);
+      IconData(63592, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dot_net = IconData(64173, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dots_horizontal =
-      FlutterIconData.materialCommunityIcons(61912);
+      IconData(61912, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dots_horizontal_circle =
-      FlutterIconData.materialCommunityIcons(63426);
+      IconData(63426, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dots_horizontal_circle_outline =
-      FlutterIconData.materialCommunityIcons(64361);
+      IconData(64361, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dots_vertical =
-      FlutterIconData.materialCommunityIcons(61913);
+      IconData(61913, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dots_vertical_circle =
-      FlutterIconData.materialCommunityIcons(63427);
+      IconData(63427, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dots_vertical_circle_outline =
-      FlutterIconData.materialCommunityIcons(64362);
-  static const IconData douban = FlutterIconData.materialCommunityIcons(63129);
+      IconData(64362, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData douban = IconData(63129, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData download =
-      FlutterIconData.materialCommunityIcons(61914);
+      IconData(61914, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData download_multiple =
-      FlutterIconData.materialCommunityIcons(63976);
+      IconData(63976, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData download_network =
-      FlutterIconData.materialCommunityIcons(63219);
+      IconData(63219, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData download_network_outline =
-      FlutterIconData.materialCommunityIcons(64578);
+      IconData(64578, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData download_outline =
-      FlutterIconData.materialCommunityIcons(64363);
-  static const IconData drag = FlutterIconData.materialCommunityIcons(61915);
+      IconData(64363, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData drag = IconData(61915, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData drag_horizontal =
-      FlutterIconData.materialCommunityIcons(61916);
+      IconData(61916, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData drag_variant =
-      FlutterIconData.materialCommunityIcons(64364);
+      IconData(64364, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData drag_vertical =
-      FlutterIconData.materialCommunityIcons(61917);
+      IconData(61917, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData drama_masks =
-      FlutterIconData.materialCommunityIcons(64734);
-  static const IconData draw = FlutterIconData.materialCommunityIcons(65382);
-  static const IconData drawing = FlutterIconData.materialCommunityIcons(61918);
+      IconData(64734, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData draw = IconData(65382, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData drawing = IconData(61918, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData drawing_box =
-      FlutterIconData.materialCommunityIcons(61919);
-  static const IconData dresser = FlutterIconData.materialCommunityIcons(65383);
+      IconData(61919, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dresser = IconData(65383, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dresser_outline =
-      FlutterIconData.materialCommunityIcons(65384);
+      IconData(65384, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dribbble =
-      FlutterIconData.materialCommunityIcons(61920);
+      IconData(61920, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dribbble_box =
-      FlutterIconData.materialCommunityIcons(61921);
-  static const IconData drone = FlutterIconData.materialCommunityIcons(61922);
-  static const IconData dropbox = FlutterIconData.materialCommunityIcons(61923);
-  static const IconData drupal = FlutterIconData.materialCommunityIcons(61924);
-  static const IconData duck = FlutterIconData.materialCommunityIcons(61925);
+      IconData(61921, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData drone = IconData(61922, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData dropbox = IconData(61923, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData drupal = IconData(61924, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData duck = IconData(61925, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dumbbell =
-      FlutterIconData.materialCommunityIcons(61926);
+      IconData(61926, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData dump_truck =
-      FlutterIconData.materialCommunityIcons(64579);
+      IconData(64579, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ear_hearing =
-      FlutterIconData.materialCommunityIcons(63428);
+      IconData(63428, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ear_hearing_off =
-      FlutterIconData.materialCommunityIcons(64068);
-  static const IconData earth = FlutterIconData.materialCommunityIcons(61927);
+      IconData(64068, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData earth = IconData(61927, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData earth_box =
-      FlutterIconData.materialCommunityIcons(63180);
+      IconData(63180, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData earth_box_off =
-      FlutterIconData.materialCommunityIcons(63181);
+      IconData(63181, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData earth_off =
-      FlutterIconData.materialCommunityIcons(61928);
-  static const IconData edge = FlutterIconData.materialCommunityIcons(61929);
-  static const IconData egg = FlutterIconData.materialCommunityIcons(64174);
+      IconData(61928, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData edge = IconData(61929, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData egg = IconData(64174, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData egg_easter =
-      FlutterIconData.materialCommunityIcons(64175);
+      IconData(64175, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eight_track =
-      FlutterIconData.materialCommunityIcons(63977);
-  static const IconData eject = FlutterIconData.materialCommunityIcons(61930);
+      IconData(63977, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData eject = IconData(61930, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eject_outline =
-      FlutterIconData.materialCommunityIcons(64365);
+      IconData(64365, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData electric_switch =
-      FlutterIconData.materialCommunityIcons(65212);
+      IconData(65212, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData elephant =
-      FlutterIconData.materialCommunityIcons(63429);
+      IconData(63429, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData elevation_decline =
-      FlutterIconData.materialCommunityIcons(61931);
+      IconData(61931, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData elevation_rise =
-      FlutterIconData.materialCommunityIcons(61932);
+      IconData(61932, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData elevator =
-      FlutterIconData.materialCommunityIcons(61933);
-  static const IconData ellipse = FlutterIconData.materialCommunityIcons(65213);
+      IconData(61933, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ellipse = IconData(65213, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ellipse_outline =
-      FlutterIconData.materialCommunityIcons(65214);
-  static const IconData email = FlutterIconData.materialCommunityIcons(61934);
+      IconData(65214, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData email = IconData(61934, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_alert =
-      FlutterIconData.materialCommunityIcons(63182);
+      IconData(63182, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_box =
-      FlutterIconData.materialCommunityIcons(64735);
+      IconData(64735, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_check =
-      FlutterIconData.materialCommunityIcons(64176);
+      IconData(64176, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_check_outline =
-      FlutterIconData.materialCommunityIcons(64177);
+      IconData(64177, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_edit =
-      FlutterIconData.materialCommunityIcons(65280);
+      IconData(65280, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_edit_outline =
-      FlutterIconData.materialCommunityIcons(65281);
+      IconData(65281, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_lock =
-      FlutterIconData.materialCommunityIcons(61937);
+      IconData(61937, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_mark_as_unread =
-      FlutterIconData.materialCommunityIcons(64366);
+      IconData(64366, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_minus =
-      FlutterIconData.materialCommunityIcons(65282);
+      IconData(65282, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_minus_outline =
-      FlutterIconData.materialCommunityIcons(65283);
+      IconData(65283, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_multiple =
-      FlutterIconData.materialCommunityIcons(65284);
+      IconData(65284, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_multiple_outline =
-      FlutterIconData.materialCommunityIcons(65285);
+      IconData(65285, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_newsletter =
-      FlutterIconData.materialCommunityIcons(65489);
+      IconData(65489, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_open =
-      FlutterIconData.materialCommunityIcons(61935);
+      IconData(61935, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_open_multiple =
-      FlutterIconData.materialCommunityIcons(65286);
+      IconData(65286, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_open_multiple_outline =
-      FlutterIconData.materialCommunityIcons(65287);
+      IconData(65287, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_open_outline =
-      FlutterIconData.materialCommunityIcons(62959);
+      IconData(62959, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_outline =
-      FlutterIconData.materialCommunityIcons(61936);
+      IconData(61936, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_plus =
-      FlutterIconData.materialCommunityIcons(63978);
+      IconData(63978, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_plus_outline =
-      FlutterIconData.materialCommunityIcons(63979);
+      IconData(63979, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_search =
-      FlutterIconData.materialCommunityIcons(63840);
+      IconData(63840, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_search_outline =
-      FlutterIconData.materialCommunityIcons(63841);
+      IconData(63841, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData email_variant =
-      FlutterIconData.materialCommunityIcons(62960);
-  static const IconData ember = FlutterIconData.materialCommunityIcons(64277);
-  static const IconData emby = FlutterIconData.materialCommunityIcons(63155);
+      IconData(62960, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ember = IconData(64277, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData emby = IconData(63155, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon =
-      FlutterIconData.materialCommunityIcons(64580);
+      IconData(64580, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_angry =
-      FlutterIconData.materialCommunityIcons(64581);
+      IconData(64581, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_angry_outline =
-      FlutterIconData.materialCommunityIcons(64582);
+      IconData(64582, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_cool =
-      FlutterIconData.materialCommunityIcons(64583);
+      IconData(64583, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_cool_outline =
-      FlutterIconData.materialCommunityIcons(61939);
+      IconData(61939, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_cry =
-      FlutterIconData.materialCommunityIcons(64584);
+      IconData(64584, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_cry_outline =
-      FlutterIconData.materialCommunityIcons(64585);
+      IconData(64585, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_dead =
-      FlutterIconData.materialCommunityIcons(64586);
+      IconData(64586, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_dead_outline =
-      FlutterIconData.materialCommunityIcons(63130);
+      IconData(63130, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_devil =
-      FlutterIconData.materialCommunityIcons(64587);
+      IconData(64587, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_devil_outline =
-      FlutterIconData.materialCommunityIcons(61940);
+      IconData(61940, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_excited =
-      FlutterIconData.materialCommunityIcons(64588);
+      IconData(64588, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_excited_outline =
-      FlutterIconData.materialCommunityIcons(63131);
+      IconData(63131, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_frown =
-      FlutterIconData.materialCommunityIcons(65385);
+      IconData(65385, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_frown_outline =
-      FlutterIconData.materialCommunityIcons(65386);
+      IconData(65386, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_happy =
-      FlutterIconData.materialCommunityIcons(64589);
+      IconData(64589, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_happy_outline =
-      FlutterIconData.materialCommunityIcons(61941);
+      IconData(61941, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_kiss =
-      FlutterIconData.materialCommunityIcons(64590);
+      IconData(64590, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_kiss_outline =
-      FlutterIconData.materialCommunityIcons(64591);
+      IconData(64591, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_neutral =
-      FlutterIconData.materialCommunityIcons(64592);
+      IconData(64592, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_neutral_outline =
-      FlutterIconData.materialCommunityIcons(61942);
+      IconData(61942, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_outline =
-      FlutterIconData.materialCommunityIcons(61938);
+      IconData(61938, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_poop =
-      FlutterIconData.materialCommunityIcons(61943);
+      IconData(61943, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_poop_outline =
-      FlutterIconData.materialCommunityIcons(64593);
+      IconData(64593, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_sad =
-      FlutterIconData.materialCommunityIcons(64594);
+      IconData(64594, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_sad_outline =
-      FlutterIconData.materialCommunityIcons(61944);
+      IconData(61944, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_tongue =
-      FlutterIconData.materialCommunityIcons(61945);
+      IconData(61945, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_tongue_outline =
-      FlutterIconData.materialCommunityIcons(64595);
+      IconData(64595, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_wink =
-      FlutterIconData.materialCommunityIcons(64596);
+      IconData(64596, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData emoticon_wink_outline =
-      FlutterIconData.materialCommunityIcons(64597);
-  static const IconData engine = FlutterIconData.materialCommunityIcons(61946);
+      IconData(64597, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData engine = IconData(61946, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData engine_off =
-      FlutterIconData.materialCommunityIcons(64069);
+      IconData(64069, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData engine_off_outline =
-      FlutterIconData.materialCommunityIcons(64070);
+      IconData(64070, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData engine_outline =
-      FlutterIconData.materialCommunityIcons(61947);
-  static const IconData equal = FlutterIconData.materialCommunityIcons(61948);
+      IconData(61947, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData equal = IconData(61948, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData equal_box =
-      FlutterIconData.materialCommunityIcons(61949);
+      IconData(61949, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData equalizer =
-      FlutterIconData.materialCommunityIcons(65215);
+      IconData(65215, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData equalizer_outline =
-      FlutterIconData.materialCommunityIcons(65216);
-  static const IconData eraser = FlutterIconData.materialCommunityIcons(61950);
+      IconData(65216, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData eraser = IconData(61950, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eraser_variant =
-      FlutterIconData.materialCommunityIcons(63042);
+      IconData(63042, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData escalator =
-      FlutterIconData.materialCommunityIcons(61951);
-  static const IconData eslint = FlutterIconData.materialCommunityIcons(64598);
-  static const IconData et = FlutterIconData.materialCommunityIcons(64178);
+      IconData(61951, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData eslint = IconData(64598, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData et = IconData(64178, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ethereum =
-      FlutterIconData.materialCommunityIcons(63593);
+      IconData(63593, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ethernet =
-      FlutterIconData.materialCommunityIcons(61952);
+      IconData(61952, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ethernet_cable =
-      FlutterIconData.materialCommunityIcons(61953);
+      IconData(61953, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ethernet_cable_off =
-      FlutterIconData.materialCommunityIcons(61954);
-  static const IconData etsy = FlutterIconData.materialCommunityIcons(61955);
+      IconData(61954, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData etsy = IconData(61955, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ev_station =
-      FlutterIconData.materialCommunityIcons(62961);
+      IconData(62961, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eventbrite =
-      FlutterIconData.materialCommunityIcons(63430);
+      IconData(63430, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData evernote =
-      FlutterIconData.materialCommunityIcons(61956);
+      IconData(61956, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData exclamation =
-      FlutterIconData.materialCommunityIcons(61957);
+      IconData(61957, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData exit_run =
-      FlutterIconData.materialCommunityIcons(64071);
+      IconData(64071, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData exit_to_app =
-      FlutterIconData.materialCommunityIcons(61958);
+      IconData(61958, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData expand_all =
-      FlutterIconData.materialCommunityIcons(64179);
+      IconData(64179, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData expand_all_outline =
-      FlutterIconData.materialCommunityIcons(64180);
+      IconData(64180, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData expansion_card =
-      FlutterIconData.materialCommunityIcons(63661);
+      IconData(63661, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData expansion_card_variant =
-      FlutterIconData.materialCommunityIcons(65490);
+      IconData(65490, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData exponent =
-      FlutterIconData.materialCommunityIcons(63842);
+      IconData(63842, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData exponent_box =
-      FlutterIconData.materialCommunityIcons(63843);
-  static const IconData export = FlutterIconData.materialCommunityIcons(61959);
+      IconData(63843, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData export = IconData(61959, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData export_variant =
-      FlutterIconData.materialCommunityIcons(64367);
-  static const IconData eye = FlutterIconData.materialCommunityIcons(61960);
+      IconData(64367, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData eye = IconData(61960, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_check =
-      FlutterIconData.materialCommunityIcons(64736);
+      IconData(64736, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_check_outline =
-      FlutterIconData.materialCommunityIcons(64737);
+      IconData(64737, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_circle =
-      FlutterIconData.materialCommunityIcons(64368);
+      IconData(64368, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_circle_outline =
-      FlutterIconData.materialCommunityIcons(64369);
-  static const IconData eye_off = FlutterIconData.materialCommunityIcons(61961);
+      IconData(64369, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData eye_off = IconData(61961, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_off_outline =
-      FlutterIconData.materialCommunityIcons(63184);
+      IconData(63184, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_outline =
-      FlutterIconData.materialCommunityIcons(63183);
+      IconData(63183, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_plus =
-      FlutterIconData.materialCommunityIcons(63594);
+      IconData(63594, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_plus_outline =
-      FlutterIconData.materialCommunityIcons(63595);
+      IconData(63595, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_settings =
-      FlutterIconData.materialCommunityIcons(63596);
+      IconData(63596, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eye_settings_outline =
-      FlutterIconData.materialCommunityIcons(63597);
+      IconData(63597, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eyedropper =
-      FlutterIconData.materialCommunityIcons(61962);
+      IconData(61962, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData eyedropper_variant =
-      FlutterIconData.materialCommunityIcons(61963);
-  static const IconData face = FlutterIconData.materialCommunityIcons(63043);
+      IconData(61963, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData face = IconData(63043, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData face_agent =
-      FlutterIconData.materialCommunityIcons(64844);
+      IconData(64844, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData face_outline =
-      FlutterIconData.materialCommunityIcons(64370);
+      IconData(64370, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData face_profile =
-      FlutterIconData.materialCommunityIcons(63044);
+      IconData(63044, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData face_recognition =
-      FlutterIconData.materialCommunityIcons(64599);
+      IconData(64599, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData facebook =
-      FlutterIconData.materialCommunityIcons(61964);
+      IconData(61964, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData facebook_box =
-      FlutterIconData.materialCommunityIcons(61965);
+      IconData(61965, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData facebook_messenger =
-      FlutterIconData.materialCommunityIcons(61966);
+      IconData(61966, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData facebook_workplace =
-      FlutterIconData.materialCommunityIcons(64278);
-  static const IconData factory = FlutterIconData.materialCommunityIcons(61967);
-  static const IconData fan = FlutterIconData.materialCommunityIcons(61968);
-  static const IconData fan_off = FlutterIconData.materialCommunityIcons(63516);
+      IconData(64278, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData factory = IconData(61967, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fan = IconData(61968, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fan_off = IconData(63516, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fast_forward =
-      FlutterIconData.materialCommunityIcons(61969);
+      IconData(61969, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fast_forward_10 =
-      FlutterIconData.materialCommunityIcons(64845);
+      IconData(64845, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fast_forward_30 =
-      FlutterIconData.materialCommunityIcons(64738);
+      IconData(64738, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fast_forward_outline =
-      FlutterIconData.materialCommunityIcons(63185);
-  static const IconData fax = FlutterIconData.materialCommunityIcons(61970);
-  static const IconData feather = FlutterIconData.materialCommunityIcons(63186);
+      IconData(63185, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fax = IconData(61970, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData feather = IconData(63186, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData feature_search =
-      FlutterIconData.materialCommunityIcons(64072);
+      IconData(64072, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData feature_search_outline =
-      FlutterIconData.materialCommunityIcons(64073);
-  static const IconData fedora = FlutterIconData.materialCommunityIcons(63706);
+      IconData(64073, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fedora = IconData(63706, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ferris_wheel =
-      FlutterIconData.materialCommunityIcons(65217);
-  static const IconData ferry = FlutterIconData.materialCommunityIcons(61971);
-  static const IconData file = FlutterIconData.materialCommunityIcons(61972);
+      IconData(65217, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ferry = IconData(61971, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData file = IconData(61972, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_account =
-      FlutterIconData.materialCommunityIcons(63290);
+      IconData(63290, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_alert =
-      FlutterIconData.materialCommunityIcons(64074);
+      IconData(64074, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_alert_outline =
-      FlutterIconData.materialCommunityIcons(64075);
+      IconData(64075, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_cabinet =
-      FlutterIconData.materialCommunityIcons(64181);
+      IconData(64181, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_cad =
-      FlutterIconData.materialCommunityIcons(65288);
+      IconData(65288, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_cad_box =
-      FlutterIconData.materialCommunityIcons(65289);
+      IconData(65289, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_cancel =
-      FlutterIconData.materialCommunityIcons(64930);
+      IconData(64930, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_cancel_outline =
-      FlutterIconData.materialCommunityIcons(64931);
+      IconData(64931, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_chart =
-      FlutterIconData.materialCommunityIcons(61973);
+      IconData(61973, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_check =
-      FlutterIconData.materialCommunityIcons(61974);
+      IconData(61974, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_check_outline =
-      FlutterIconData.materialCommunityIcons(65147);
+      IconData(65147, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_cloud =
-      FlutterIconData.materialCommunityIcons(61975);
+      IconData(61975, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_code =
-      FlutterIconData.materialCommunityIcons(61998);
+      IconData(61998, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_compare =
-      FlutterIconData.materialCommunityIcons(63657);
+      IconData(63657, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_delimited =
-      FlutterIconData.materialCommunityIcons(61976);
+      IconData(61976, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_delimited_outline =
-      FlutterIconData.materialCommunityIcons(65218);
+      IconData(65218, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document =
-      FlutterIconData.materialCommunityIcons(61977);
+      IconData(61977, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box =
-      FlutterIconData.materialCommunityIcons(61978);
+      IconData(61978, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_check =
-      FlutterIconData.materialCommunityIcons(65219);
+      IconData(65219, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_check_outline =
-      FlutterIconData.materialCommunityIcons(65220);
+      IconData(65220, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_minus =
-      FlutterIconData.materialCommunityIcons(65221);
+      IconData(65221, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_minus_outline =
-      FlutterIconData.materialCommunityIcons(65222);
+      IconData(65222, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_multiple =
-      FlutterIconData.materialCommunityIcons(64182);
+      IconData(64182, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(64183);
+      IconData(64183, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_outline =
-      FlutterIconData.materialCommunityIcons(63980);
+      IconData(63980, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_plus =
-      FlutterIconData.materialCommunityIcons(65223);
+      IconData(65223, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_plus_outline =
-      FlutterIconData.materialCommunityIcons(65224);
+      IconData(65224, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_remove =
-      FlutterIconData.materialCommunityIcons(65225);
+      IconData(65225, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_remove_outline =
-      FlutterIconData.materialCommunityIcons(65226);
+      IconData(65226, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_search =
-      FlutterIconData.materialCommunityIcons(65227);
+      IconData(65227, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_box_search_outline =
-      FlutterIconData.materialCommunityIcons(65228);
+      IconData(65228, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_edit =
-      FlutterIconData.materialCommunityIcons(64932);
+      IconData(64932, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_edit_outline =
-      FlutterIconData.materialCommunityIcons(64933);
+      IconData(64933, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_document_outline =
-      FlutterIconData.materialCommunityIcons(63981);
+      IconData(63981, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_download =
-      FlutterIconData.materialCommunityIcons(63844);
+      IconData(63844, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_download_outline =
-      FlutterIconData.materialCommunityIcons(63845);
+      IconData(63845, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_excel =
-      FlutterIconData.materialCommunityIcons(61979);
+      IconData(61979, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_excel_box =
-      FlutterIconData.materialCommunityIcons(61980);
+      IconData(61980, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_export =
-      FlutterIconData.materialCommunityIcons(61981);
+      IconData(61981, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_eye =
-      FlutterIconData.materialCommunityIcons(64934);
+      IconData(64934, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_eye_outline =
-      FlutterIconData.materialCommunityIcons(64935);
+      IconData(64935, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_find =
-      FlutterIconData.materialCommunityIcons(61982);
+      IconData(61982, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_find_outline =
-      FlutterIconData.materialCommunityIcons(64371);
+      IconData(64371, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_hidden =
-      FlutterIconData.materialCommunityIcons(62995);
+      IconData(62995, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_image =
-      FlutterIconData.materialCommunityIcons(61983);
+      IconData(61983, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_image_outline =
-      FlutterIconData.materialCommunityIcons(65229);
+      IconData(65229, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_import =
-      FlutterIconData.materialCommunityIcons(61984);
+      IconData(61984, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_lock =
-      FlutterIconData.materialCommunityIcons(61985);
+      IconData(61985, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_move =
-      FlutterIconData.materialCommunityIcons(64184);
+      IconData(64184, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_multiple =
-      FlutterIconData.materialCommunityIcons(61986);
+      IconData(61986, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_music =
-      FlutterIconData.materialCommunityIcons(61987);
+      IconData(61987, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_music_outline =
-      FlutterIconData.materialCommunityIcons(65148);
+      IconData(65148, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_outline =
-      FlutterIconData.materialCommunityIcons(61988);
+      IconData(61988, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_pdf =
-      FlutterIconData.materialCommunityIcons(61989);
+      IconData(61989, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_pdf_box =
-      FlutterIconData.materialCommunityIcons(61990);
+      IconData(61990, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_pdf_box_outline =
-      FlutterIconData.materialCommunityIcons(65491);
+      IconData(65491, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_pdf_outline =
-      FlutterIconData.materialCommunityIcons(65149);
+      IconData(65149, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_percent =
-      FlutterIconData.materialCommunityIcons(63517);
+      IconData(63517, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_plus =
-      FlutterIconData.materialCommunityIcons(63313);
+      IconData(63313, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_plus_outline =
-      FlutterIconData.materialCommunityIcons(65290);
+      IconData(65290, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_powerpoint =
-      FlutterIconData.materialCommunityIcons(61991);
+      IconData(61991, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_powerpoint_box =
-      FlutterIconData.materialCommunityIcons(61992);
+      IconData(61992, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_presentation_box =
-      FlutterIconData.materialCommunityIcons(61993);
+      IconData(61993, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_question =
-      FlutterIconData.materialCommunityIcons(63598);
+      IconData(63598, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_remove =
-      FlutterIconData.materialCommunityIcons(64372);
+      IconData(64372, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_replace =
-      FlutterIconData.materialCommunityIcons(64279);
+      IconData(64279, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_replace_outline =
-      FlutterIconData.materialCommunityIcons(64280);
+      IconData(64280, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_restore =
-      FlutterIconData.materialCommunityIcons(63088);
+      IconData(63088, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_search =
-      FlutterIconData.materialCommunityIcons(64600);
+      IconData(64600, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_search_outline =
-      FlutterIconData.materialCommunityIcons(64601);
+      IconData(64601, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_send =
-      FlutterIconData.materialCommunityIcons(61994);
+      IconData(61994, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_swap =
-      FlutterIconData.materialCommunityIcons(65492);
+      IconData(65492, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_swap_outline =
-      FlutterIconData.materialCommunityIcons(65493);
+      IconData(65493, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_table =
-      FlutterIconData.materialCommunityIcons(64602);
+      IconData(64602, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_table_outline =
-      FlutterIconData.materialCommunityIcons(64603);
+      IconData(64603, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_tree =
-      FlutterIconData.materialCommunityIcons(63045);
+      IconData(63045, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_undo =
-      FlutterIconData.materialCommunityIcons(63707);
+      IconData(63707, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_upload =
-      FlutterIconData.materialCommunityIcons(64076);
+      IconData(64076, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_upload_outline =
-      FlutterIconData.materialCommunityIcons(64077);
+      IconData(64077, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_video =
-      FlutterIconData.materialCommunityIcons(61995);
+      IconData(61995, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_video_outline =
-      FlutterIconData.materialCommunityIcons(65040);
+      IconData(65040, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_word =
-      FlutterIconData.materialCommunityIcons(61996);
+      IconData(61996, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData file_word_box =
-      FlutterIconData.materialCommunityIcons(61997);
-  static const IconData film = FlutterIconData.materialCommunityIcons(61999);
+      IconData(61997, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData film = IconData(61999, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filmstrip =
-      FlutterIconData.materialCommunityIcons(62000);
+      IconData(62000, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filmstrip_off =
-      FlutterIconData.materialCommunityIcons(62001);
-  static const IconData filter = FlutterIconData.materialCommunityIcons(62002);
+      IconData(62001, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData filter = IconData(62002, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filter_minus =
-      FlutterIconData.materialCommunityIcons(65291);
+      IconData(65291, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filter_minus_outline =
-      FlutterIconData.materialCommunityIcons(65292);
+      IconData(65292, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filter_outline =
-      FlutterIconData.materialCommunityIcons(62003);
+      IconData(62003, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filter_plus =
-      FlutterIconData.materialCommunityIcons(65293);
+      IconData(65293, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filter_plus_outline =
-      FlutterIconData.materialCommunityIcons(65294);
+      IconData(65294, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filter_remove =
-      FlutterIconData.materialCommunityIcons(62004);
+      IconData(62004, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filter_remove_outline =
-      FlutterIconData.materialCommunityIcons(62005);
+      IconData(62005, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData filter_variant =
-      FlutterIconData.materialCommunityIcons(62006);
-  static const IconData finance = FlutterIconData.materialCommunityIcons(63518);
+      IconData(62006, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData finance = IconData(63518, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData find_replace =
-      FlutterIconData.materialCommunityIcons(63187);
+      IconData(63187, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fingerprint =
-      FlutterIconData.materialCommunityIcons(62007);
+      IconData(62007, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fingerprint_off =
-      FlutterIconData.materialCommunityIcons(65230);
-  static const IconData fire = FlutterIconData.materialCommunityIcons(62008);
+      IconData(65230, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fire = IconData(62008, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fire_extinguisher =
-      FlutterIconData.materialCommunityIcons(65295);
+      IconData(65295, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fire_truck =
-      FlutterIconData.materialCommunityIcons(63658);
+      IconData(63658, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData firebase =
-      FlutterIconData.materialCommunityIcons(63846);
-  static const IconData firefox = FlutterIconData.materialCommunityIcons(62009);
+      IconData(63846, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData firefox = IconData(62009, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fireplace =
-      FlutterIconData.materialCommunityIcons(65041);
+      IconData(65041, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fireplace_off =
-      FlutterIconData.materialCommunityIcons(65042);
+      IconData(65042, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData firework =
-      FlutterIconData.materialCommunityIcons(65043);
-  static const IconData fish = FlutterIconData.materialCommunityIcons(62010);
+      IconData(65043, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fish = IconData(62010, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fishbowl =
-      FlutterIconData.materialCommunityIcons(65296);
+      IconData(65296, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fishbowl_outline =
-      FlutterIconData.materialCommunityIcons(65297);
+      IconData(65297, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fit_to_page =
-      FlutterIconData.materialCommunityIcons(65298);
+      IconData(65298, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fit_to_page_outline =
-      FlutterIconData.materialCommunityIcons(65299);
-  static const IconData flag = FlutterIconData.materialCommunityIcons(62011);
+      IconData(65299, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData flag = IconData(62011, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flag_checkered =
-      FlutterIconData.materialCommunityIcons(62012);
+      IconData(62012, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flag_minus =
-      FlutterIconData.materialCommunityIcons(64373);
+      IconData(64373, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flag_outline =
-      FlutterIconData.materialCommunityIcons(62013);
+      IconData(62013, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flag_plus =
-      FlutterIconData.materialCommunityIcons(64374);
+      IconData(64374, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flag_remove =
-      FlutterIconData.materialCommunityIcons(64375);
+      IconData(64375, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flag_triangle =
-      FlutterIconData.materialCommunityIcons(62015);
+      IconData(62015, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flag_variant =
-      FlutterIconData.materialCommunityIcons(62016);
+      IconData(62016, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flag_variant_outline =
-      FlutterIconData.materialCommunityIcons(62014);
-  static const IconData flare = FlutterIconData.materialCommunityIcons(64846);
-  static const IconData flash = FlutterIconData.materialCommunityIcons(62017);
+      IconData(62014, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData flare = IconData(64846, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData flash = IconData(62017, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flash_alert =
-      FlutterIconData.materialCommunityIcons(65300);
+      IconData(65300, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flash_alert_outline =
-      FlutterIconData.materialCommunityIcons(65301);
+      IconData(65301, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flash_auto =
-      FlutterIconData.materialCommunityIcons(62018);
+      IconData(62018, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flash_circle =
-      FlutterIconData.materialCommunityIcons(63519);
+      IconData(63519, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flash_off =
-      FlutterIconData.materialCommunityIcons(62019);
+      IconData(62019, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flash_outline =
-      FlutterIconData.materialCommunityIcons(63188);
+      IconData(63188, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flash_red_eye =
-      FlutterIconData.materialCommunityIcons(63098);
+      IconData(63098, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flashlight =
-      FlutterIconData.materialCommunityIcons(62020);
+      IconData(62020, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flashlight_off =
-      FlutterIconData.materialCommunityIcons(62021);
-  static const IconData flask = FlutterIconData.materialCommunityIcons(61587);
+      IconData(62021, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData flask = IconData(61587, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flask_empty =
-      FlutterIconData.materialCommunityIcons(61588);
+      IconData(61588, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flask_empty_outline =
-      FlutterIconData.materialCommunityIcons(61589);
+      IconData(61589, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flask_outline =
-      FlutterIconData.materialCommunityIcons(61590);
-  static const IconData flattr = FlutterIconData.materialCommunityIcons(62022);
-  static const IconData flickr = FlutterIconData.materialCommunityIcons(64739);
+      IconData(61590, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData flattr = IconData(62022, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData flickr = IconData(64739, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flip_to_back =
-      FlutterIconData.materialCommunityIcons(62023);
+      IconData(62023, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flip_to_front =
-      FlutterIconData.materialCommunityIcons(62024);
+      IconData(62024, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData floor_lamp =
-      FlutterIconData.materialCommunityIcons(63708);
+      IconData(63708, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData floor_plan =
-      FlutterIconData.materialCommunityIcons(63520);
-  static const IconData floppy = FlutterIconData.materialCommunityIcons(62025);
+      IconData(63520, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData floppy = IconData(62025, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData floppy_variant =
-      FlutterIconData.materialCommunityIcons(63982);
-  static const IconData flower = FlutterIconData.materialCommunityIcons(62026);
+      IconData(63982, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData flower = IconData(62026, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flower_outline =
-      FlutterIconData.materialCommunityIcons(63983);
+      IconData(63983, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flower_poppy =
-      FlutterIconData.materialCommunityIcons(64740);
+      IconData(64740, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flower_tulip =
-      FlutterIconData.materialCommunityIcons(63984);
+      IconData(63984, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData flower_tulip_outline =
-      FlutterIconData.materialCommunityIcons(63985);
+      IconData(63985, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData focus_auto =
-      FlutterIconData.materialCommunityIcons(65387);
+      IconData(65387, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData focus_field =
-      FlutterIconData.materialCommunityIcons(65388);
+      IconData(65388, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData focus_field_horizontal =
-      FlutterIconData.materialCommunityIcons(65389);
+      IconData(65389, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData focus_field_vertical =
-      FlutterIconData.materialCommunityIcons(65390);
-  static const IconData folder = FlutterIconData.materialCommunityIcons(62027);
+      IconData(65390, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData folder = IconData(62027, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_account =
-      FlutterIconData.materialCommunityIcons(62028);
+      IconData(62028, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_account_outline =
-      FlutterIconData.materialCommunityIcons(64376);
+      IconData(64376, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_alert =
-      FlutterIconData.materialCommunityIcons(64936);
+      IconData(64936, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_alert_outline =
-      FlutterIconData.materialCommunityIcons(64937);
+      IconData(64937, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_clock =
-      FlutterIconData.materialCommunityIcons(64185);
+      IconData(64185, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_clock_outline =
-      FlutterIconData.materialCommunityIcons(64186);
+      IconData(64186, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_download =
-      FlutterIconData.materialCommunityIcons(62029);
+      IconData(62029, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_edit =
-      FlutterIconData.materialCommunityIcons(63709);
+      IconData(63709, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_edit_outline =
-      FlutterIconData.materialCommunityIcons(64938);
+      IconData(64938, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_google_drive =
-      FlutterIconData.materialCommunityIcons(62030);
+      IconData(62030, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_image =
-      FlutterIconData.materialCommunityIcons(62031);
+      IconData(62031, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_key =
-      FlutterIconData.materialCommunityIcons(63659);
+      IconData(63659, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_key_network =
-      FlutterIconData.materialCommunityIcons(63660);
+      IconData(63660, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_key_network_outline =
-      FlutterIconData.materialCommunityIcons(64604);
+      IconData(64604, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_lock =
-      FlutterIconData.materialCommunityIcons(62032);
+      IconData(62032, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_lock_open =
-      FlutterIconData.materialCommunityIcons(62033);
+      IconData(62033, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_move =
-      FlutterIconData.materialCommunityIcons(62034);
+      IconData(62034, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_multiple =
-      FlutterIconData.materialCommunityIcons(62035);
+      IconData(62035, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_multiple_image =
-      FlutterIconData.materialCommunityIcons(62036);
+      IconData(62036, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62037);
+      IconData(62037, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_network =
-      FlutterIconData.materialCommunityIcons(63599);
+      IconData(63599, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_network_outline =
-      FlutterIconData.materialCommunityIcons(64605);
+      IconData(64605, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_open =
-      FlutterIconData.materialCommunityIcons(63343);
+      IconData(63343, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_open_outline =
-      FlutterIconData.materialCommunityIcons(64939);
+      IconData(64939, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_outline =
-      FlutterIconData.materialCommunityIcons(62038);
+      IconData(62038, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_plus =
-      FlutterIconData.materialCommunityIcons(62039);
+      IconData(62039, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_plus_outline =
-      FlutterIconData.materialCommunityIcons(64377);
+      IconData(64377, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_pound =
-      FlutterIconData.materialCommunityIcons(64741);
+      IconData(64741, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_pound_outline =
-      FlutterIconData.materialCommunityIcons(64742);
+      IconData(64742, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_remove =
-      FlutterIconData.materialCommunityIcons(62040);
+      IconData(62040, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_remove_outline =
-      FlutterIconData.materialCommunityIcons(64378);
+      IconData(64378, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_search =
-      FlutterIconData.materialCommunityIcons(63847);
+      IconData(63847, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_search_outline =
-      FlutterIconData.materialCommunityIcons(63848);
+      IconData(63848, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_star =
-      FlutterIconData.materialCommunityIcons(63132);
+      IconData(63132, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_star_outline =
-      FlutterIconData.materialCommunityIcons(64379);
+      IconData(64379, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_swap =
-      FlutterIconData.materialCommunityIcons(65494);
+      IconData(65494, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_swap_outline =
-      FlutterIconData.materialCommunityIcons(65495);
+      IconData(65495, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_sync =
-      FlutterIconData.materialCommunityIcons(64743);
+      IconData(64743, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_sync_outline =
-      FlutterIconData.materialCommunityIcons(64744);
+      IconData(64744, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_text =
-      FlutterIconData.materialCommunityIcons(64606);
+      IconData(64606, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_text_outline =
-      FlutterIconData.materialCommunityIcons(64607);
+      IconData(64607, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_upload =
-      FlutterIconData.materialCommunityIcons(62041);
+      IconData(62041, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_zip =
-      FlutterIconData.materialCommunityIcons(63210);
+      IconData(63210, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData folder_zip_outline =
-      FlutterIconData.materialCommunityIcons(63416);
+      IconData(63416, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData font_awesome =
-      FlutterIconData.materialCommunityIcons(61498);
-  static const IconData food = FlutterIconData.materialCommunityIcons(62042);
+      IconData(61498, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData food = IconData(62042, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData food_apple =
-      FlutterIconData.materialCommunityIcons(62043);
+      IconData(62043, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData food_apple_outline =
-      FlutterIconData.materialCommunityIcons(64608);
+      IconData(64608, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData food_croissant =
-      FlutterIconData.materialCommunityIcons(63431);
+      IconData(63431, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData food_fork_drink =
-      FlutterIconData.materialCommunityIcons(62962);
+      IconData(62962, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData food_off =
-      FlutterIconData.materialCommunityIcons(62963);
+      IconData(62963, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData food_variant =
-      FlutterIconData.materialCommunityIcons(62044);
+      IconData(62044, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData foot_print =
-      FlutterIconData.materialCommunityIcons(65391);
+      IconData(65391, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData football =
-      FlutterIconData.materialCommunityIcons(62045);
+      IconData(62045, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData football_australian =
-      FlutterIconData.materialCommunityIcons(62046);
+      IconData(62046, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData football_helmet =
-      FlutterIconData.materialCommunityIcons(62047);
+      IconData(62047, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData forklift =
-      FlutterIconData.materialCommunityIcons(63432);
+      IconData(63432, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_align_bottom =
-      FlutterIconData.materialCommunityIcons(63314);
+      IconData(63314, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_align_center =
-      FlutterIconData.materialCommunityIcons(62048);
+      IconData(62048, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_align_justify =
-      FlutterIconData.materialCommunityIcons(62049);
+      IconData(62049, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_align_left =
-      FlutterIconData.materialCommunityIcons(62050);
+      IconData(62050, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_align_middle =
-      FlutterIconData.materialCommunityIcons(63315);
+      IconData(63315, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_align_right =
-      FlutterIconData.materialCommunityIcons(62051);
+      IconData(62051, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_align_top =
-      FlutterIconData.materialCommunityIcons(63316);
+      IconData(63316, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_annotation_minus =
-      FlutterIconData.materialCommunityIcons(64187);
+      IconData(64187, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_annotation_plus =
-      FlutterIconData.materialCommunityIcons(63046);
+      IconData(63046, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_bold =
-      FlutterIconData.materialCommunityIcons(62052);
+      IconData(62052, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_clear =
-      FlutterIconData.materialCommunityIcons(62053);
+      IconData(62053, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_color_fill =
-      FlutterIconData.materialCommunityIcons(62054);
+      IconData(62054, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_color_highlight =
-      FlutterIconData.materialCommunityIcons(65044);
+      IconData(65044, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_color_text =
-      FlutterIconData.materialCommunityIcons(63133);
+      IconData(63133, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_columns =
-      FlutterIconData.materialCommunityIcons(63710);
+      IconData(63710, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_float_center =
-      FlutterIconData.materialCommunityIcons(62055);
+      IconData(62055, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_float_left =
-      FlutterIconData.materialCommunityIcons(62056);
+      IconData(62056, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_float_none =
-      FlutterIconData.materialCommunityIcons(62057);
+      IconData(62057, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_float_right =
-      FlutterIconData.materialCommunityIcons(62058);
+      IconData(62058, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_font =
-      FlutterIconData.materialCommunityIcons(63189);
+      IconData(63189, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_font_size_decrease =
-      FlutterIconData.materialCommunityIcons(63986);
+      IconData(63986, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_font_size_increase =
-      FlutterIconData.materialCommunityIcons(63987);
+      IconData(63987, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_1 =
-      FlutterIconData.materialCommunityIcons(62059);
+      IconData(62059, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_2 =
-      FlutterIconData.materialCommunityIcons(62060);
+      IconData(62060, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_3 =
-      FlutterIconData.materialCommunityIcons(62061);
+      IconData(62061, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_4 =
-      FlutterIconData.materialCommunityIcons(62062);
+      IconData(62062, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_5 =
-      FlutterIconData.materialCommunityIcons(62063);
+      IconData(62063, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_6 =
-      FlutterIconData.materialCommunityIcons(62064);
+      IconData(62064, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_decrease =
-      FlutterIconData.materialCommunityIcons(62065);
+      IconData(62065, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_equal =
-      FlutterIconData.materialCommunityIcons(62066);
+      IconData(62066, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_increase =
-      FlutterIconData.materialCommunityIcons(62067);
+      IconData(62067, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_header_pound =
-      FlutterIconData.materialCommunityIcons(62068);
+      IconData(62068, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_horizontal_align_center =
-      FlutterIconData.materialCommunityIcons(63006);
+      IconData(63006, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_horizontal_align_left =
-      FlutterIconData.materialCommunityIcons(63007);
+      IconData(63007, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_horizontal_align_right =
-      FlutterIconData.materialCommunityIcons(63008);
+      IconData(63008, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_indent_decrease =
-      FlutterIconData.materialCommunityIcons(62069);
+      IconData(62069, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_indent_increase =
-      FlutterIconData.materialCommunityIcons(62070);
+      IconData(62070, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_italic =
-      FlutterIconData.materialCommunityIcons(62071);
+      IconData(62071, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_letter_case =
-      FlutterIconData.materialCommunityIcons(64281);
+      IconData(64281, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_letter_case_lower =
-      FlutterIconData.materialCommunityIcons(64282);
+      IconData(64282, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_letter_case_upper =
-      FlutterIconData.materialCommunityIcons(64283);
+      IconData(64283, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_letter_ends_with =
-      FlutterIconData.materialCommunityIcons(65496);
+      IconData(65496, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_letter_matches =
-      FlutterIconData.materialCommunityIcons(65497);
+      IconData(65497, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_letter_starts_with =
-      FlutterIconData.materialCommunityIcons(65498);
+      IconData(65498, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_line_spacing =
-      FlutterIconData.materialCommunityIcons(62072);
+      IconData(62072, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_line_style =
-      FlutterIconData.materialCommunityIcons(62920);
+      IconData(62920, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_line_weight =
-      FlutterIconData.materialCommunityIcons(62921);
+      IconData(62921, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_list_bulleted =
-      FlutterIconData.materialCommunityIcons(62073);
+      IconData(62073, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_list_bulleted_square =
-      FlutterIconData.materialCommunityIcons(64940);
+      IconData(64940, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_list_bulleted_triangle =
-      FlutterIconData.materialCommunityIcons(65231);
+      IconData(65231, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_list_bulleted_type =
-      FlutterIconData.materialCommunityIcons(62074);
+      IconData(62074, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_list_checkbox =
-      FlutterIconData.materialCommunityIcons(63849);
+      IconData(63849, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_list_checks =
-      FlutterIconData.materialCommunityIcons(63317);
+      IconData(63317, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_list_numbered =
-      FlutterIconData.materialCommunityIcons(62075);
+      IconData(62075, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_list_numbered_rtl =
-      FlutterIconData.materialCommunityIcons(64745);
+      IconData(64745, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_overline =
-      FlutterIconData.materialCommunityIcons(65232);
+      IconData(65232, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_page_break =
-      FlutterIconData.materialCommunityIcons(63190);
+      IconData(63190, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_paint =
-      FlutterIconData.materialCommunityIcons(62076);
+      IconData(62076, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_paragraph =
-      FlutterIconData.materialCommunityIcons(62077);
+      IconData(62077, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_pilcrow =
-      FlutterIconData.materialCommunityIcons(63191);
+      IconData(63191, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_quote_close =
-      FlutterIconData.materialCommunityIcons(62078);
+      IconData(62078, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_quote_open =
-      FlutterIconData.materialCommunityIcons(63318);
+      IconData(63318, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_rotate_90 =
-      FlutterIconData.materialCommunityIcons(63145);
+      IconData(63145, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_section =
-      FlutterIconData.materialCommunityIcons(63134);
+      IconData(63134, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_size =
-      FlutterIconData.materialCommunityIcons(62079);
+      IconData(62079, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_strikethrough =
-      FlutterIconData.materialCommunityIcons(62080);
+      IconData(62080, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_strikethrough_variant =
-      FlutterIconData.materialCommunityIcons(62081);
+      IconData(62081, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_subscript =
-      FlutterIconData.materialCommunityIcons(62082);
+      IconData(62082, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_superscript =
-      FlutterIconData.materialCommunityIcons(62083);
+      IconData(62083, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text =
-      FlutterIconData.materialCommunityIcons(62084);
+      IconData(62084, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_rotation_angle_down =
-      FlutterIconData.materialCommunityIcons(65499);
+      IconData(65499, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_rotation_angle_up =
-      FlutterIconData.materialCommunityIcons(65500);
+      IconData(65500, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_rotation_down =
-      FlutterIconData.materialCommunityIcons(64847);
+      IconData(64847, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_rotation_down_vertical =
-      FlutterIconData.materialCommunityIcons(65501);
+      IconData(65501, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_rotation_none =
-      FlutterIconData.materialCommunityIcons(64848);
+      IconData(64848, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_rotation_up =
-      FlutterIconData.materialCommunityIcons(65502);
+      IconData(65502, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_rotation_vertical =
-      FlutterIconData.materialCommunityIcons(65503);
+      IconData(65503, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_variant =
-      FlutterIconData.materialCommunityIcons(65045);
+      IconData(65045, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_wrapping_clip =
-      FlutterIconData.materialCommunityIcons(64746);
+      IconData(64746, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_wrapping_overflow =
-      FlutterIconData.materialCommunityIcons(64747);
+      IconData(64747, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_text_wrapping_wrap =
-      FlutterIconData.materialCommunityIcons(64748);
+      IconData(64748, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_textbox =
-      FlutterIconData.materialCommunityIcons(64749);
+      IconData(64749, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_textdirection_l_to_r =
-      FlutterIconData.materialCommunityIcons(62085);
+      IconData(62085, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_textdirection_r_to_l =
-      FlutterIconData.materialCommunityIcons(62086);
+      IconData(62086, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_title =
-      FlutterIconData.materialCommunityIcons(62964);
+      IconData(62964, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_underline =
-      FlutterIconData.materialCommunityIcons(62087);
+      IconData(62087, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_vertical_align_bottom =
-      FlutterIconData.materialCommunityIcons(63009);
+      IconData(63009, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_vertical_align_center =
-      FlutterIconData.materialCommunityIcons(63010);
+      IconData(63010, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_vertical_align_top =
-      FlutterIconData.materialCommunityIcons(63011);
+      IconData(63011, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_wrap_inline =
-      FlutterIconData.materialCommunityIcons(62088);
+      IconData(62088, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_wrap_square =
-      FlutterIconData.materialCommunityIcons(62089);
+      IconData(62089, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_wrap_tight =
-      FlutterIconData.materialCommunityIcons(62090);
+      IconData(62090, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData format_wrap_top_bottom =
-      FlutterIconData.materialCommunityIcons(62091);
-  static const IconData forum = FlutterIconData.materialCommunityIcons(62092);
+      IconData(62091, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData forum = IconData(62092, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData forum_outline =
-      FlutterIconData.materialCommunityIcons(63521);
-  static const IconData forward = FlutterIconData.materialCommunityIcons(62093);
+      IconData(63521, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData forward = IconData(62093, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData forwardburger =
-      FlutterIconData.materialCommunityIcons(64849);
+      IconData(64849, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fountain =
-      FlutterIconData.materialCommunityIcons(63850);
+      IconData(63850, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fountain_pen =
-      FlutterIconData.materialCommunityIcons(64750);
+      IconData(64750, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fountain_pen_tip =
-      FlutterIconData.materialCommunityIcons(64751);
+      IconData(64751, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData foursquare =
-      FlutterIconData.materialCommunityIcons(62094);
-  static const IconData freebsd = FlutterIconData.materialCommunityIcons(63711);
+      IconData(62094, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData freebsd = IconData(63711, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData frequently_asked_questions =
-      FlutterIconData.materialCommunityIcons(65233);
-  static const IconData fridge = FlutterIconData.materialCommunityIcons(62096);
+      IconData(65233, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fridge = IconData(62096, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fridge_bottom =
-      FlutterIconData.materialCommunityIcons(62098);
+      IconData(62098, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fridge_outline =
-      FlutterIconData.materialCommunityIcons(62095);
+      IconData(62095, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fridge_top =
-      FlutterIconData.materialCommunityIcons(62097);
-  static const IconData fuel = FlutterIconData.materialCommunityIcons(63433);
+      IconData(62097, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fuel = IconData(63433, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fullscreen =
-      FlutterIconData.materialCommunityIcons(62099);
+      IconData(62099, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fullscreen_exit =
-      FlutterIconData.materialCommunityIcons(62100);
+      IconData(62100, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData function =
-      FlutterIconData.materialCommunityIcons(62101);
+      IconData(62101, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData function_variant =
-      FlutterIconData.materialCommunityIcons(63600);
-  static const IconData fuse = FlutterIconData.materialCommunityIcons(64609);
+      IconData(63600, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData fuse = IconData(64609, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData fuse_blade =
-      FlutterIconData.materialCommunityIcons(64610);
-  static const IconData gamepad = FlutterIconData.materialCommunityIcons(62102);
+      IconData(64610, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gamepad = IconData(62102, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_circle =
-      FlutterIconData.materialCommunityIcons(65046);
+      IconData(65046, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_circle_down =
-      FlutterIconData.materialCommunityIcons(65047);
+      IconData(65047, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_circle_left =
-      FlutterIconData.materialCommunityIcons(65048);
+      IconData(65048, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_circle_outline =
-      FlutterIconData.materialCommunityIcons(65049);
+      IconData(65049, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_circle_right =
-      FlutterIconData.materialCommunityIcons(65050);
+      IconData(65050, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_circle_up =
-      FlutterIconData.materialCommunityIcons(65051);
+      IconData(65051, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_down =
-      FlutterIconData.materialCommunityIcons(65052);
+      IconData(65052, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_left =
-      FlutterIconData.materialCommunityIcons(65053);
+      IconData(65053, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_right =
-      FlutterIconData.materialCommunityIcons(65054);
+      IconData(65054, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_round =
-      FlutterIconData.materialCommunityIcons(65055);
+      IconData(65055, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_round_down =
-      FlutterIconData.materialCommunityIcons(65150);
+      IconData(65150, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_round_left =
-      FlutterIconData.materialCommunityIcons(65151);
+      IconData(65151, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_round_outline =
-      FlutterIconData.materialCommunityIcons(65152);
+      IconData(65152, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_round_right =
-      FlutterIconData.materialCommunityIcons(65153);
+      IconData(65153, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_round_up =
-      FlutterIconData.materialCommunityIcons(65154);
+      IconData(65154, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_square =
-      FlutterIconData.materialCommunityIcons(65234);
+      IconData(65234, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_square_outline =
-      FlutterIconData.materialCommunityIcons(65235);
+      IconData(65235, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_up =
-      FlutterIconData.materialCommunityIcons(65155);
+      IconData(65155, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_variant =
-      FlutterIconData.materialCommunityIcons(62103);
+      IconData(62103, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gamepad_variant_outline =
-      FlutterIconData.materialCommunityIcons(65236);
+      IconData(65236, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gantry_crane =
-      FlutterIconData.materialCommunityIcons(64941);
-  static const IconData garage = FlutterIconData.materialCommunityIcons(63192);
+      IconData(64941, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData garage = IconData(63192, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData garage_alert =
-      FlutterIconData.materialCommunityIcons(63601);
+      IconData(63601, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData garage_open =
-      FlutterIconData.materialCommunityIcons(63193);
+      IconData(63193, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gas_cylinder =
-      FlutterIconData.materialCommunityIcons(63047);
+      IconData(63047, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gas_station =
-      FlutterIconData.materialCommunityIcons(62104);
+      IconData(62104, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gas_station_outline =
-      FlutterIconData.materialCommunityIcons(65237);
-  static const IconData gate = FlutterIconData.materialCommunityIcons(62105);
+      IconData(65237, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gate = IconData(62105, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gate_and =
-      FlutterIconData.materialCommunityIcons(63712);
+      IconData(63712, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gate_nand =
-      FlutterIconData.materialCommunityIcons(63713);
+      IconData(63713, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gate_nor =
-      FlutterIconData.materialCommunityIcons(63714);
+      IconData(63714, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gate_not =
-      FlutterIconData.materialCommunityIcons(63715);
-  static const IconData gate_or = FlutterIconData.materialCommunityIcons(63716);
+      IconData(63715, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gate_or = IconData(63716, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gate_xnor =
-      FlutterIconData.materialCommunityIcons(63717);
+      IconData(63717, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gate_xor =
-      FlutterIconData.materialCommunityIcons(63718);
-  static const IconData gatsby = FlutterIconData.materialCommunityIcons(65156);
-  static const IconData gauge = FlutterIconData.materialCommunityIcons(62106);
+      IconData(63718, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gatsby = IconData(65156, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gauge = IconData(62106, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gauge_empty =
-      FlutterIconData.materialCommunityIcons(63602);
+      IconData(63602, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gauge_full =
-      FlutterIconData.materialCommunityIcons(63603);
+      IconData(63603, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gauge_low =
-      FlutterIconData.materialCommunityIcons(63604);
-  static const IconData gavel = FlutterIconData.materialCommunityIcons(62107);
+      IconData(63604, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gavel = IconData(62107, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gender_female =
-      FlutterIconData.materialCommunityIcons(62108);
+      IconData(62108, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gender_male =
-      FlutterIconData.materialCommunityIcons(62109);
+      IconData(62109, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gender_male_female =
-      FlutterIconData.materialCommunityIcons(62110);
+      IconData(62110, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gender_transgender =
-      FlutterIconData.materialCommunityIcons(62111);
-  static const IconData gentoo = FlutterIconData.materialCommunityIcons(63719);
-  static const IconData gesture = FlutterIconData.materialCommunityIcons(63434);
+      IconData(62111, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gentoo = IconData(63719, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gesture = IconData(63434, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_double_tap =
-      FlutterIconData.materialCommunityIcons(63291);
+      IconData(63291, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_pinch =
-      FlutterIconData.materialCommunityIcons(64188);
+      IconData(64188, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_spread =
-      FlutterIconData.materialCommunityIcons(64189);
+      IconData(64189, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_swipe =
-      FlutterIconData.materialCommunityIcons(64850);
+      IconData(64850, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_swipe_down =
-      FlutterIconData.materialCommunityIcons(63292);
+      IconData(63292, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_swipe_horizontal =
-      FlutterIconData.materialCommunityIcons(64190);
+      IconData(64190, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_swipe_left =
-      FlutterIconData.materialCommunityIcons(63293);
+      IconData(63293, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_swipe_right =
-      FlutterIconData.materialCommunityIcons(63294);
+      IconData(63294, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_swipe_up =
-      FlutterIconData.materialCommunityIcons(63295);
+      IconData(63295, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_swipe_vertical =
-      FlutterIconData.materialCommunityIcons(64191);
+      IconData(64191, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_tap =
-      FlutterIconData.materialCommunityIcons(63296);
+      IconData(63296, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_tap_hold =
-      FlutterIconData.materialCommunityIcons(64851);
+      IconData(64851, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_two_double_tap =
-      FlutterIconData.materialCommunityIcons(63297);
+      IconData(63297, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gesture_two_tap =
-      FlutterIconData.materialCommunityIcons(63298);
-  static const IconData ghost = FlutterIconData.materialCommunityIcons(62112);
+      IconData(63298, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ghost = IconData(62112, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ghost_off =
-      FlutterIconData.materialCommunityIcons(63988);
-  static const IconData gif = FlutterIconData.materialCommunityIcons(64852);
-  static const IconData gift = FlutterIconData.materialCommunityIcons(65157);
+      IconData(63988, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gif = IconData(64852, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gift = IconData(65157, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gift_outline =
-      FlutterIconData.materialCommunityIcons(62113);
-  static const IconData git = FlutterIconData.materialCommunityIcons(62114);
+      IconData(62113, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData git = IconData(62114, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData github_box =
-      FlutterIconData.materialCommunityIcons(62115);
+      IconData(62115, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData github_circle =
-      FlutterIconData.materialCommunityIcons(62116);
+      IconData(62116, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData github_face =
-      FlutterIconData.materialCommunityIcons(63194);
-  static const IconData gitlab = FlutterIconData.materialCommunityIcons(64380);
+      IconData(63194, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gitlab = IconData(64380, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData glass_cocktail =
-      FlutterIconData.materialCommunityIcons(62294);
+      IconData(62294, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData glass_flute =
-      FlutterIconData.materialCommunityIcons(62117);
+      IconData(62117, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData glass_mug =
-      FlutterIconData.materialCommunityIcons(62118);
+      IconData(62118, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData glass_stange =
-      FlutterIconData.materialCommunityIcons(62119);
+      IconData(62119, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData glass_tulip =
-      FlutterIconData.materialCommunityIcons(62120);
+      IconData(62120, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData glass_wine =
-      FlutterIconData.materialCommunityIcons(63605);
+      IconData(63605, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData glassdoor =
-      FlutterIconData.materialCommunityIcons(62121);
-  static const IconData glasses = FlutterIconData.materialCommunityIcons(62122);
+      IconData(62121, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData glasses = IconData(62122, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData globe_model =
-      FlutterIconData.materialCommunityIcons(63720);
-  static const IconData gmail = FlutterIconData.materialCommunityIcons(62123);
-  static const IconData gnome = FlutterIconData.materialCommunityIcons(62124);
-  static const IconData go_kart = FlutterIconData.materialCommunityIcons(64853);
+      IconData(63720, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gmail = IconData(62123, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gnome = IconData(62124, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData go_kart = IconData(64853, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData go_kart_track =
-      FlutterIconData.materialCommunityIcons(64854);
-  static const IconData gog = FlutterIconData.materialCommunityIcons(64381);
-  static const IconData golf = FlutterIconData.materialCommunityIcons(63522);
-  static const IconData gondola = FlutterIconData.materialCommunityIcons(63109);
+      IconData(64854, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gog = IconData(64381, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData golf = IconData(63522, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData gondola = IconData(63109, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData goodreads =
-      FlutterIconData.materialCommunityIcons(64855);
-  static const IconData google = FlutterIconData.materialCommunityIcons(62125);
+      IconData(64855, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData google = IconData(62125, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_adwords =
-      FlutterIconData.materialCommunityIcons(64611);
+      IconData(64611, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_analytics =
-      FlutterIconData.materialCommunityIcons(63435);
+      IconData(63435, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_assistant =
-      FlutterIconData.materialCommunityIcons(63436);
+      IconData(63436, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_cardboard =
-      FlutterIconData.materialCommunityIcons(62126);
+      IconData(62126, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_chrome =
-      FlutterIconData.materialCommunityIcons(62127);
+      IconData(62127, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_circles =
-      FlutterIconData.materialCommunityIcons(62128);
+      IconData(62128, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_circles_communities =
-      FlutterIconData.materialCommunityIcons(62129);
+      IconData(62129, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_circles_extended =
-      FlutterIconData.materialCommunityIcons(62130);
+      IconData(62130, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_circles_group =
-      FlutterIconData.materialCommunityIcons(62131);
+      IconData(62131, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_classroom =
-      FlutterIconData.materialCommunityIcons(62144);
+      IconData(62144, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_controller =
-      FlutterIconData.materialCommunityIcons(62132);
+      IconData(62132, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_controller_off =
-      FlutterIconData.materialCommunityIcons(62133);
+      IconData(62133, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_drive =
-      FlutterIconData.materialCommunityIcons(62134);
+      IconData(62134, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_earth =
-      FlutterIconData.materialCommunityIcons(62135);
+      IconData(62135, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_fit =
-      FlutterIconData.materialCommunityIcons(63851);
+      IconData(63851, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_glass =
-      FlutterIconData.materialCommunityIcons(62136);
+      IconData(62136, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_hangouts =
-      FlutterIconData.materialCommunityIcons(62153);
+      IconData(62153, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_home =
-      FlutterIconData.materialCommunityIcons(63523);
+      IconData(63523, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_keep =
-      FlutterIconData.materialCommunityIcons(63195);
+      IconData(63195, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_lens =
-      FlutterIconData.materialCommunityIcons(63989);
+      IconData(63989, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_maps =
-      FlutterIconData.materialCommunityIcons(62965);
+      IconData(62965, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_nearby =
-      FlutterIconData.materialCommunityIcons(62137);
+      IconData(62137, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_pages =
-      FlutterIconData.materialCommunityIcons(62138);
+      IconData(62138, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_photos =
-      FlutterIconData.materialCommunityIcons(63196);
+      IconData(63196, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_physical_web =
-      FlutterIconData.materialCommunityIcons(62139);
+      IconData(62139, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_play =
-      FlutterIconData.materialCommunityIcons(62140);
+      IconData(62140, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_plus =
-      FlutterIconData.materialCommunityIcons(62141);
+      IconData(62141, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_plus_box =
-      FlutterIconData.materialCommunityIcons(62142);
+      IconData(62142, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_podcast =
-      FlutterIconData.materialCommunityIcons(65238);
+      IconData(65238, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_spreadsheet =
-      FlutterIconData.materialCommunityIcons(63990);
+      IconData(63990, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_street_view =
-      FlutterIconData.materialCommunityIcons(64612);
+      IconData(64612, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData google_translate =
-      FlutterIconData.materialCommunityIcons(62143);
+      IconData(62143, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData gradient =
-      FlutterIconData.materialCommunityIcons(63135);
-  static const IconData grain = FlutterIconData.materialCommunityIcons(64856);
-  static const IconData graphql = FlutterIconData.materialCommunityIcons(63606);
+      IconData(63135, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData grain = IconData(64856, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData graphql = IconData(63606, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData grave_stone =
-      FlutterIconData.materialCommunityIcons(64382);
+      IconData(64382, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData grease_pencil =
-      FlutterIconData.materialCommunityIcons(63048);
+      IconData(63048, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData greater_than =
-      FlutterIconData.materialCommunityIcons(63852);
+      IconData(63852, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData greater_than_or_equal =
-      FlutterIconData.materialCommunityIcons(63853);
-  static const IconData grid = FlutterIconData.materialCommunityIcons(62145);
+      IconData(63853, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData grid = IconData(62145, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData grid_large =
-      FlutterIconData.materialCommunityIcons(63319);
+      IconData(63319, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData grid_off =
-      FlutterIconData.materialCommunityIcons(62146);
-  static const IconData grill = FlutterIconData.materialCommunityIcons(65158);
-  static const IconData group = FlutterIconData.materialCommunityIcons(62147);
+      IconData(62146, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData grill = IconData(65158, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData group = IconData(62147, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData guitar_acoustic =
-      FlutterIconData.materialCommunityIcons(63344);
+      IconData(63344, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData guitar_electric =
-      FlutterIconData.materialCommunityIcons(62148);
+      IconData(62148, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData guitar_pick =
-      FlutterIconData.materialCommunityIcons(62149);
+      IconData(62149, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData guitar_pick_outline =
-      FlutterIconData.materialCommunityIcons(62150);
+      IconData(62150, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData guy_fawkes_mask =
-      FlutterIconData.materialCommunityIcons(63524);
+      IconData(63524, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hackernews =
-      FlutterIconData.materialCommunityIcons(63012);
-  static const IconData hail = FlutterIconData.materialCommunityIcons(64192);
+      IconData(63012, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hail = IconData(64192, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData halloween =
-      FlutterIconData.materialCommunityIcons(64383);
+      IconData(64383, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hamburger =
-      FlutterIconData.materialCommunityIcons(63108);
-  static const IconData hammer = FlutterIconData.materialCommunityIcons(63721);
-  static const IconData hand = FlutterIconData.materialCommunityIcons(64078);
+      IconData(63108, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hammer = IconData(63721, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hand = IconData(64078, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_left =
-      FlutterIconData.materialCommunityIcons(65159);
+      IconData(65159, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_okay =
-      FlutterIconData.materialCommunityIcons(64079);
+      IconData(64079, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_peace =
-      FlutterIconData.materialCommunityIcons(64080);
+      IconData(64080, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_peace_variant =
-      FlutterIconData.materialCommunityIcons(64081);
+      IconData(64081, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_pointing_down =
-      FlutterIconData.materialCommunityIcons(64082);
+      IconData(64082, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_pointing_left =
-      FlutterIconData.materialCommunityIcons(64083);
+      IconData(64083, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_pointing_right =
-      FlutterIconData.materialCommunityIcons(62151);
+      IconData(62151, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_pointing_up =
-      FlutterIconData.materialCommunityIcons(64084);
+      IconData(64084, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_right =
-      FlutterIconData.materialCommunityIcons(65160);
+      IconData(65160, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hand_saw =
-      FlutterIconData.materialCommunityIcons(65161);
+      IconData(65161, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData handball =
-      FlutterIconData.materialCommunityIcons(65392);
-  static const IconData hanger = FlutterIconData.materialCommunityIcons(62152);
+      IconData(65392, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hanger = IconData(62152, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hard_hat =
-      FlutterIconData.materialCommunityIcons(63854);
+      IconData(63854, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData harddisk =
-      FlutterIconData.materialCommunityIcons(62154);
+      IconData(62154, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hat_fedora =
-      FlutterIconData.materialCommunityIcons(64384);
+      IconData(64384, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hazard_lights =
-      FlutterIconData.materialCommunityIcons(64613);
-  static const IconData hdr = FlutterIconData.materialCommunityIcons(64857);
-  static const IconData hdr_off = FlutterIconData.materialCommunityIcons(64858);
+      IconData(64613, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hdr = IconData(64857, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hdr_off = IconData(64858, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData headphones =
-      FlutterIconData.materialCommunityIcons(62155);
+      IconData(62155, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData headphones_bluetooth =
-      FlutterIconData.materialCommunityIcons(63855);
+      IconData(63855, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData headphones_box =
-      FlutterIconData.materialCommunityIcons(62156);
+      IconData(62156, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData headphones_off =
-      FlutterIconData.materialCommunityIcons(63437);
+      IconData(63437, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData headphones_settings =
-      FlutterIconData.materialCommunityIcons(62157);
-  static const IconData headset = FlutterIconData.materialCommunityIcons(62158);
+      IconData(62157, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData headset = IconData(62158, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData headset_dock =
-      FlutterIconData.materialCommunityIcons(62159);
+      IconData(62159, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData headset_off =
-      FlutterIconData.materialCommunityIcons(62160);
-  static const IconData heart = FlutterIconData.materialCommunityIcons(62161);
+      IconData(62160, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData heart = IconData(62161, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_box =
-      FlutterIconData.materialCommunityIcons(62162);
+      IconData(62162, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_box_outline =
-      FlutterIconData.materialCommunityIcons(62163);
+      IconData(62163, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_broken =
-      FlutterIconData.materialCommunityIcons(62164);
+      IconData(62164, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_broken_outline =
-      FlutterIconData.materialCommunityIcons(64752);
+      IconData(64752, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_circle =
-      FlutterIconData.materialCommunityIcons(63856);
+      IconData(63856, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_circle_outline =
-      FlutterIconData.materialCommunityIcons(63857);
+      IconData(63857, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_flash =
-      FlutterIconData.materialCommunityIcons(65302);
+      IconData(65302, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_half =
-      FlutterIconData.materialCommunityIcons(63198);
+      IconData(63198, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_half_full =
-      FlutterIconData.materialCommunityIcons(63197);
+      IconData(63197, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_half_outline =
-      FlutterIconData.materialCommunityIcons(63199);
+      IconData(63199, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_multiple =
-      FlutterIconData.materialCommunityIcons(64085);
+      IconData(64085, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_multiple_outline =
-      FlutterIconData.materialCommunityIcons(64086);
+      IconData(64086, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_off =
-      FlutterIconData.materialCommunityIcons(63320);
+      IconData(63320, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_outline =
-      FlutterIconData.materialCommunityIcons(62165);
+      IconData(62165, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData heart_pulse =
-      FlutterIconData.materialCommunityIcons(62966);
+      IconData(62966, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData helicopter =
-      FlutterIconData.materialCommunityIcons(64193);
-  static const IconData help = FlutterIconData.materialCommunityIcons(62166);
+      IconData(64193, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData help = IconData(62166, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData help_box =
-      FlutterIconData.materialCommunityIcons(63370);
+      IconData(63370, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData help_circle =
-      FlutterIconData.materialCommunityIcons(62167);
+      IconData(62167, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData help_circle_outline =
-      FlutterIconData.materialCommunityIcons(63013);
+      IconData(63013, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData help_network =
-      FlutterIconData.materialCommunityIcons(63220);
+      IconData(63220, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData help_network_outline =
-      FlutterIconData.materialCommunityIcons(64614);
+      IconData(64614, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData help_rhombus =
-      FlutterIconData.materialCommunityIcons(64385);
+      IconData(64385, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData help_rhombus_outline =
-      FlutterIconData.materialCommunityIcons(64386);
-  static const IconData hexagon = FlutterIconData.materialCommunityIcons(62168);
+      IconData(64386, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hexagon = IconData(62168, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagon_multiple =
-      FlutterIconData.materialCommunityIcons(63200);
+      IconData(63200, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagon_outline =
-      FlutterIconData.materialCommunityIcons(62169);
+      IconData(62169, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagon_slice_1 =
-      FlutterIconData.materialCommunityIcons(64194);
+      IconData(64194, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagon_slice_2 =
-      FlutterIconData.materialCommunityIcons(64195);
+      IconData(64195, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagon_slice_3 =
-      FlutterIconData.materialCommunityIcons(64196);
+      IconData(64196, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagon_slice_4 =
-      FlutterIconData.materialCommunityIcons(64197);
+      IconData(64197, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagon_slice_5 =
-      FlutterIconData.materialCommunityIcons(64198);
+      IconData(64198, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagon_slice_6 =
-      FlutterIconData.materialCommunityIcons(64199);
+      IconData(64199, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagram =
-      FlutterIconData.materialCommunityIcons(64200);
+      IconData(64200, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hexagram_outline =
-      FlutterIconData.materialCommunityIcons(64201);
+      IconData(64201, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData high_definition =
-      FlutterIconData.materialCommunityIcons(63438);
+      IconData(63438, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData high_definition_box =
-      FlutterIconData.materialCommunityIcons(63607);
-  static const IconData highway = FlutterIconData.materialCommunityIcons(62967);
-  static const IconData hiking = FlutterIconData.materialCommunityIcons(64859);
+      IconData(63607, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData highway = IconData(62967, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hiking = IconData(64859, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hinduism =
-      FlutterIconData.materialCommunityIcons(63858);
-  static const IconData history = FlutterIconData.materialCommunityIcons(62170);
+      IconData(63858, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData history = IconData(62170, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hockey_puck =
-      FlutterIconData.materialCommunityIcons(63608);
+      IconData(63608, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hockey_sticks =
-      FlutterIconData.materialCommunityIcons(63609);
+      IconData(63609, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hololens =
-      FlutterIconData.materialCommunityIcons(62171);
-  static const IconData home = FlutterIconData.materialCommunityIcons(62172);
+      IconData(62171, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData home = IconData(62172, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_account =
-      FlutterIconData.materialCommunityIcons(63525);
+      IconData(63525, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_alert =
-      FlutterIconData.materialCommunityIcons(63610);
+      IconData(63610, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_analytics =
-      FlutterIconData.materialCommunityIcons(65239);
+      IconData(65239, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_assistant =
-      FlutterIconData.materialCommunityIcons(63439);
+      IconData(63439, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_automation =
-      FlutterIconData.materialCommunityIcons(63440);
+      IconData(63440, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_circle =
-      FlutterIconData.materialCommunityIcons(63441);
+      IconData(63441, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_city =
-      FlutterIconData.materialCommunityIcons(64753);
+      IconData(64753, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_city_outline =
-      FlutterIconData.materialCommunityIcons(64754);
+      IconData(64754, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_currency_usd =
-      FlutterIconData.materialCommunityIcons(63662);
+      IconData(63662, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_export_outline =
-      FlutterIconData.materialCommunityIcons(65464);
+      IconData(65464, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_flood =
-      FlutterIconData.materialCommunityIcons(65303);
+      IconData(65303, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_0 =
-      FlutterIconData.materialCommunityIcons(64942);
+      IconData(64942, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_1 =
-      FlutterIconData.materialCommunityIcons(64860);
+      IconData(64860, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_2 =
-      FlutterIconData.materialCommunityIcons(64861);
+      IconData(64861, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_3 =
-      FlutterIconData.materialCommunityIcons(64862);
+      IconData(64862, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_a =
-      FlutterIconData.materialCommunityIcons(64863);
+      IconData(64863, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_b =
-      FlutterIconData.materialCommunityIcons(64864);
+      IconData(64864, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_g =
-      FlutterIconData.materialCommunityIcons(64865);
+      IconData(64865, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_l =
-      FlutterIconData.materialCommunityIcons(64866);
+      IconData(64866, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_floor_negative_1 =
-      FlutterIconData.materialCommunityIcons(64943);
+      IconData(64943, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_group =
-      FlutterIconData.materialCommunityIcons(64944);
+      IconData(64944, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_heart =
-      FlutterIconData.materialCommunityIcons(63526);
+      IconData(63526, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_import_outline =
-      FlutterIconData.materialCommunityIcons(65465);
+      IconData(65465, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_lock =
-      FlutterIconData.materialCommunityIcons(63722);
+      IconData(63722, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_lock_open =
-      FlutterIconData.materialCommunityIcons(63723);
+      IconData(63723, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_map_marker =
-      FlutterIconData.materialCommunityIcons(62968);
+      IconData(62968, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_minus =
-      FlutterIconData.materialCommunityIcons(63859);
+      IconData(63859, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_modern =
-      FlutterIconData.materialCommunityIcons(62173);
+      IconData(62173, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_outline =
-      FlutterIconData.materialCommunityIcons(63136);
+      IconData(63136, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_plus =
-      FlutterIconData.materialCommunityIcons(63860);
+      IconData(63860, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_thermometer =
-      FlutterIconData.materialCommunityIcons(65393);
+      IconData(65393, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_thermometer_outline =
-      FlutterIconData.materialCommunityIcons(65394);
+      IconData(65394, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_variant =
-      FlutterIconData.materialCommunityIcons(62174);
+      IconData(62174, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData home_variant_outline =
-      FlutterIconData.materialCommunityIcons(64387);
-  static const IconData hook = FlutterIconData.materialCommunityIcons(63201);
+      IconData(64387, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hook = IconData(63201, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hook_off =
-      FlutterIconData.materialCommunityIcons(63202);
-  static const IconData hops = FlutterIconData.materialCommunityIcons(62175);
+      IconData(63202, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hops = IconData(62175, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData horseshoe =
-      FlutterIconData.materialCommunityIcons(64087);
+      IconData(64087, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hospital =
-      FlutterIconData.materialCommunityIcons(983063);
+      IconData(983063, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hospital_box =
-      FlutterIconData.materialCommunityIcons(62176);
+      IconData(62176, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hospital_box_outline =
-      FlutterIconData.materialCommunityIcons(983064);
+      IconData(983064, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hospital_building =
-      FlutterIconData.materialCommunityIcons(62177);
+      IconData(62177, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData hospital_marker =
-      FlutterIconData.materialCommunityIcons(62178);
-  static const IconData hot_tub = FlutterIconData.materialCommunityIcons(63527);
-  static const IconData hotel = FlutterIconData.materialCommunityIcons(62179);
-  static const IconData houzz = FlutterIconData.materialCommunityIcons(62180);
+      IconData(62178, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hot_tub = IconData(63527, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hotel = IconData(62179, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData houzz = IconData(62180, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData houzz_box =
-      FlutterIconData.materialCommunityIcons(62181);
-  static const IconData hubspot = FlutterIconData.materialCommunityIcons(64755);
-  static const IconData hulu = FlutterIconData.materialCommunityIcons(63528);
-  static const IconData human = FlutterIconData.materialCommunityIcons(62182);
+      IconData(62181, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hubspot = IconData(64755, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData hulu = IconData(63528, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData human = IconData(62182, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_child =
-      FlutterIconData.materialCommunityIcons(62183);
+      IconData(62183, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_female =
-      FlutterIconData.materialCommunityIcons(63049);
+      IconData(63049, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_female_boy =
-      FlutterIconData.materialCommunityIcons(64088);
+      IconData(64088, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_female_female =
-      FlutterIconData.materialCommunityIcons(64089);
+      IconData(64089, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_female_girl =
-      FlutterIconData.materialCommunityIcons(64090);
+      IconData(64090, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_greeting =
-      FlutterIconData.materialCommunityIcons(63050);
+      IconData(63050, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_handsdown =
-      FlutterIconData.materialCommunityIcons(63051);
+      IconData(63051, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_handsup =
-      FlutterIconData.materialCommunityIcons(63052);
+      IconData(63052, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_male =
-      FlutterIconData.materialCommunityIcons(63053);
+      IconData(63053, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_male_boy =
-      FlutterIconData.materialCommunityIcons(64091);
+      IconData(64091, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_male_female =
-      FlutterIconData.materialCommunityIcons(62184);
+      IconData(62184, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_male_girl =
-      FlutterIconData.materialCommunityIcons(64092);
+      IconData(64092, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_male_height =
-      FlutterIconData.materialCommunityIcons(65304);
+      IconData(65304, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_male_height_variant =
-      FlutterIconData.materialCommunityIcons(65305);
+      IconData(65305, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_male_male =
-      FlutterIconData.materialCommunityIcons(64093);
+      IconData(64093, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData human_pregnant =
-      FlutterIconData.materialCommunityIcons(62927);
+      IconData(62927, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData humble_bundle =
-      FlutterIconData.materialCommunityIcons(63299);
+      IconData(63299, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ice_cream =
-      FlutterIconData.materialCommunityIcons(63529);
-  static const IconData ice_pop = FlutterIconData.materialCommunityIcons(65306);
-  static const IconData id_card = FlutterIconData.materialCommunityIcons(65504);
+      IconData(63529, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ice_pop = IconData(65306, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData id_card = IconData(65504, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData identifier =
-      FlutterIconData.materialCommunityIcons(65307);
-  static const IconData iframe = FlutterIconData.materialCommunityIcons(64615);
+      IconData(65307, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData iframe = IconData(64615, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData iframe_outline =
-      FlutterIconData.materialCommunityIcons(64616);
-  static const IconData image = FlutterIconData.materialCommunityIcons(62185);
+      IconData(64616, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData image = IconData(62185, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_album =
-      FlutterIconData.materialCommunityIcons(62186);
+      IconData(62186, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_area =
-      FlutterIconData.materialCommunityIcons(62187);
+      IconData(62187, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_area_close =
-      FlutterIconData.materialCommunityIcons(62188);
+      IconData(62188, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_auto_adjust =
-      FlutterIconData.materialCommunityIcons(65505);
+      IconData(65505, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_broken =
-      FlutterIconData.materialCommunityIcons(62189);
+      IconData(62189, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_broken_variant =
-      FlutterIconData.materialCommunityIcons(62190);
+      IconData(62190, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter =
-      FlutterIconData.materialCommunityIcons(62191);
+      IconData(62191, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_black_white =
-      FlutterIconData.materialCommunityIcons(62192);
+      IconData(62192, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_center_focus =
-      FlutterIconData.materialCommunityIcons(62193);
+      IconData(62193, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_center_focus_strong =
-      FlutterIconData.materialCommunityIcons(65308);
+      IconData(65308, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_center_focus_strong_outline =
-      FlutterIconData.materialCommunityIcons(65309);
+      IconData(65309, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_center_focus_weak =
-      FlutterIconData.materialCommunityIcons(62194);
+      IconData(62194, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_drama =
-      FlutterIconData.materialCommunityIcons(62195);
+      IconData(62195, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_frames =
-      FlutterIconData.materialCommunityIcons(62196);
+      IconData(62196, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_hdr =
-      FlutterIconData.materialCommunityIcons(62197);
+      IconData(62197, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_none =
-      FlutterIconData.materialCommunityIcons(62198);
+      IconData(62198, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_tilt_shift =
-      FlutterIconData.materialCommunityIcons(62199);
+      IconData(62199, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_filter_vintage =
-      FlutterIconData.materialCommunityIcons(62200);
+      IconData(62200, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_frame =
-      FlutterIconData.materialCommunityIcons(65162);
+      IconData(65162, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_move =
-      FlutterIconData.materialCommunityIcons(63991);
+      IconData(63991, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_multiple =
-      FlutterIconData.materialCommunityIcons(62201);
+      IconData(62201, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_off =
-      FlutterIconData.materialCommunityIcons(63530);
+      IconData(63530, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_outline =
-      FlutterIconData.materialCommunityIcons(63861);
+      IconData(63861, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_plus =
-      FlutterIconData.materialCommunityIcons(63611);
+      IconData(63611, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_search =
-      FlutterIconData.materialCommunityIcons(63862);
+      IconData(63862, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_search_outline =
-      FlutterIconData.materialCommunityIcons(63863);
+      IconData(63863, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_size_select_actual =
-      FlutterIconData.materialCommunityIcons(64617);
+      IconData(64617, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_size_select_large =
-      FlutterIconData.materialCommunityIcons(64618);
+      IconData(64618, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData image_size_select_small =
-      FlutterIconData.materialCommunityIcons(64619);
-  static const IconData import = FlutterIconData.materialCommunityIcons(62202);
-  static const IconData inbox = FlutterIconData.materialCommunityIcons(63110);
+      IconData(64619, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData import = IconData(62202, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData inbox = IconData(63110, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData inbox_arrow_down =
-      FlutterIconData.materialCommunityIcons(62203);
+      IconData(62203, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData inbox_arrow_up =
-      FlutterIconData.materialCommunityIcons(62417);
+      IconData(62417, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData inbox_multiple =
-      FlutterIconData.materialCommunityIcons(63663);
+      IconData(63663, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData inbox_multiple_outline =
-      FlutterIconData.materialCommunityIcons(64388);
+      IconData(64388, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData incognito =
-      FlutterIconData.materialCommunityIcons(62969);
+      IconData(62969, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData infinity =
-      FlutterIconData.materialCommunityIcons(63203);
+      IconData(63203, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData information =
-      FlutterIconData.materialCommunityIcons(62204);
+      IconData(62204, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData information_outline =
-      FlutterIconData.materialCommunityIcons(62205);
+      IconData(62205, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData information_variant =
-      FlutterIconData.materialCommunityIcons(63054);
+      IconData(63054, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData instagram =
-      FlutterIconData.materialCommunityIcons(62206);
+      IconData(62206, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData instapaper =
-      FlutterIconData.materialCommunityIcons(62207);
+      IconData(62207, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData internet_explorer =
-      FlutterIconData.materialCommunityIcons(62208);
+      IconData(62208, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData invert_colors =
-      FlutterIconData.materialCommunityIcons(62209);
+      IconData(62209, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData invert_colors_off =
-      FlutterIconData.materialCommunityIcons(65163);
-  static const IconData ip = FlutterIconData.materialCommunityIcons(64094);
+      IconData(65163, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ip = IconData(64094, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ip_network =
-      FlutterIconData.materialCommunityIcons(64095);
+      IconData(64095, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ip_network_outline =
-      FlutterIconData.materialCommunityIcons(64620);
-  static const IconData ipod = FlutterIconData.materialCommunityIcons(64621);
-  static const IconData islam = FlutterIconData.materialCommunityIcons(63864);
-  static const IconData itunes = FlutterIconData.materialCommunityIcons(63094);
-  static const IconData jabber = FlutterIconData.materialCommunityIcons(64945);
-  static const IconData jeepney = FlutterIconData.materialCommunityIcons(62210);
+      IconData(64620, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ipod = IconData(64621, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData islam = IconData(63864, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData itunes = IconData(63094, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData jabber = IconData(64945, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData jeepney = IconData(62210, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData jellyfish =
-      FlutterIconData.materialCommunityIcons(65310);
+      IconData(65310, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData jellyfish_outline =
-      FlutterIconData.materialCommunityIcons(65311);
-  static const IconData jira = FlutterIconData.materialCommunityIcons(62211);
-  static const IconData jquery = FlutterIconData.materialCommunityIcons(63612);
+      IconData(65311, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData jira = IconData(62211, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData jquery = IconData(63612, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData jsfiddle =
-      FlutterIconData.materialCommunityIcons(62212);
-  static const IconData json = FlutterIconData.materialCommunityIcons(63014);
-  static const IconData judaism = FlutterIconData.materialCommunityIcons(63865);
-  static const IconData kabaddi = FlutterIconData.materialCommunityIcons(64867);
-  static const IconData karate = FlutterIconData.materialCommunityIcons(63531);
-  static const IconData keg = FlutterIconData.materialCommunityIcons(62213);
-  static const IconData kettle = FlutterIconData.materialCommunityIcons(62970);
+      IconData(62212, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData json = IconData(63014, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData judaism = IconData(63865, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData kabaddi = IconData(64867, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData karate = IconData(63531, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData keg = IconData(62213, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData kettle = IconData(62970, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData kettle_outline =
-      FlutterIconData.materialCommunityIcons(65395);
-  static const IconData key = FlutterIconData.materialCommunityIcons(62214);
+      IconData(65395, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData key = IconData(62214, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData key_change =
-      FlutterIconData.materialCommunityIcons(62215);
+      IconData(62215, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData key_minus =
-      FlutterIconData.materialCommunityIcons(62216);
+      IconData(62216, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData key_outline =
-      FlutterIconData.materialCommunityIcons(64946);
+      IconData(64946, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData key_plus =
-      FlutterIconData.materialCommunityIcons(62217);
+      IconData(62217, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData key_remove =
-      FlutterIconData.materialCommunityIcons(62218);
+      IconData(62218, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData key_variant =
-      FlutterIconData.materialCommunityIcons(62219);
+      IconData(62219, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData key_wireless =
-      FlutterIconData.materialCommunityIcons(65506);
+      IconData(65506, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard =
-      FlutterIconData.materialCommunityIcons(62220);
+      IconData(62220, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_backspace =
-      FlutterIconData.materialCommunityIcons(62221);
+      IconData(62221, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_caps =
-      FlutterIconData.materialCommunityIcons(62222);
+      IconData(62222, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_close =
-      FlutterIconData.materialCommunityIcons(62223);
+      IconData(62223, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_off =
-      FlutterIconData.materialCommunityIcons(62224);
+      IconData(62224, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_off_outline =
-      FlutterIconData.materialCommunityIcons(65164);
+      IconData(65164, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_outline =
-      FlutterIconData.materialCommunityIcons(63866);
+      IconData(63866, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_return =
-      FlutterIconData.materialCommunityIcons(62225);
+      IconData(62225, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_settings =
-      FlutterIconData.materialCommunityIcons(63992);
+      IconData(63992, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_settings_outline =
-      FlutterIconData.materialCommunityIcons(63993);
+      IconData(63993, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_tab =
-      FlutterIconData.materialCommunityIcons(62226);
+      IconData(62226, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData keyboard_variant =
-      FlutterIconData.materialCommunityIcons(62227);
+      IconData(62227, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData kickstarter =
-      FlutterIconData.materialCommunityIcons(63300);
-  static const IconData knife = FlutterIconData.materialCommunityIcons(63994);
+      IconData(63300, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData knife = IconData(63994, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData knife_military =
-      FlutterIconData.materialCommunityIcons(63995);
-  static const IconData kodi = FlutterIconData.materialCommunityIcons(62228);
-  static const IconData label = FlutterIconData.materialCommunityIcons(62229);
+      IconData(63995, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData kodi = IconData(62228, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData label = IconData(62229, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData label_off =
-      FlutterIconData.materialCommunityIcons(64202);
+      IconData(64202, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData label_off_outline =
-      FlutterIconData.materialCommunityIcons(64203);
+      IconData(64203, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData label_outline =
-      FlutterIconData.materialCommunityIcons(62230);
+      IconData(62230, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData label_variant =
-      FlutterIconData.materialCommunityIcons(64204);
+      IconData(64204, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData label_variant_outline =
-      FlutterIconData.materialCommunityIcons(64205);
-  static const IconData ladybug = FlutterIconData.materialCommunityIcons(63532);
-  static const IconData lambda = FlutterIconData.materialCommunityIcons(63015);
-  static const IconData lamp = FlutterIconData.materialCommunityIcons(63156);
-  static const IconData lan = FlutterIconData.materialCommunityIcons(62231);
+      IconData(64205, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ladybug = IconData(63532, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData lambda = IconData(63015, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData lamp = IconData(63156, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData lan = IconData(62231, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lan_connect =
-      FlutterIconData.materialCommunityIcons(62232);
+      IconData(62232, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lan_disconnect =
-      FlutterIconData.materialCommunityIcons(62233);
+      IconData(62233, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lan_pending =
-      FlutterIconData.materialCommunityIcons(62234);
+      IconData(62234, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_c =
-      FlutterIconData.materialCommunityIcons(63089);
+      IconData(63089, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_cpp =
-      FlutterIconData.materialCommunityIcons(63090);
+      IconData(63090, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_csharp =
-      FlutterIconData.materialCommunityIcons(62235);
+      IconData(62235, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_css3 =
-      FlutterIconData.materialCommunityIcons(62236);
+      IconData(62236, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_go =
-      FlutterIconData.materialCommunityIcons(63442);
+      IconData(63442, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_haskell =
-      FlutterIconData.materialCommunityIcons(64622);
+      IconData(64622, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_html5 =
-      FlutterIconData.materialCommunityIcons(62237);
+      IconData(62237, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_java =
-      FlutterIconData.materialCommunityIcons(64284);
+      IconData(64284, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_javascript =
-      FlutterIconData.materialCommunityIcons(62238);
+      IconData(62238, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_lua =
-      FlutterIconData.materialCommunityIcons(63664);
+      IconData(63664, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_php =
-      FlutterIconData.materialCommunityIcons(62239);
+      IconData(62239, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_python =
-      FlutterIconData.materialCommunityIcons(62240);
+      IconData(62240, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_python_text =
-      FlutterIconData.materialCommunityIcons(62241);
+      IconData(62241, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_r =
-      FlutterIconData.materialCommunityIcons(63443);
+      IconData(63443, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_ruby_on_rails =
-      FlutterIconData.materialCommunityIcons(64206);
+      IconData(64206, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_swift =
-      FlutterIconData.materialCommunityIcons(63204);
+      IconData(63204, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData language_typescript =
-      FlutterIconData.materialCommunityIcons(63205);
-  static const IconData laptop = FlutterIconData.materialCommunityIcons(62242);
+      IconData(63205, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData laptop = IconData(62242, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData laptop_chromebook =
-      FlutterIconData.materialCommunityIcons(62243);
+      IconData(62243, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData laptop_mac =
-      FlutterIconData.materialCommunityIcons(62244);
+      IconData(62244, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData laptop_off =
-      FlutterIconData.materialCommunityIcons(63206);
+      IconData(63206, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData laptop_windows =
-      FlutterIconData.materialCommunityIcons(62245);
-  static const IconData laravel = FlutterIconData.materialCommunityIcons(64207);
-  static const IconData lasso = FlutterIconData.materialCommunityIcons(65312);
-  static const IconData lastfm = FlutterIconData.materialCommunityIcons(62246);
+      IconData(62245, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData laravel = IconData(64207, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData lasso = IconData(65312, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData lastfm = IconData(62246, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lastpass =
-      FlutterIconData.materialCommunityIcons(62534);
+      IconData(62534, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData latitude =
-      FlutterIconData.materialCommunityIcons(65396);
-  static const IconData launch = FlutterIconData.materialCommunityIcons(62247);
+      IconData(65396, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData launch = IconData(62247, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lava_lamp =
-      FlutterIconData.materialCommunityIcons(63444);
-  static const IconData layers = FlutterIconData.materialCommunityIcons(62248);
+      IconData(63444, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData layers = IconData(62248, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData layers_minus =
-      FlutterIconData.materialCommunityIcons(65165);
+      IconData(65165, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData layers_off =
-      FlutterIconData.materialCommunityIcons(62249);
+      IconData(62249, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData layers_off_outline =
-      FlutterIconData.materialCommunityIcons(63996);
+      IconData(63996, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData layers_outline =
-      FlutterIconData.materialCommunityIcons(63997);
+      IconData(63997, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData layers_plus =
-      FlutterIconData.materialCommunityIcons(65072);
+      IconData(65072, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData layers_remove =
-      FlutterIconData.materialCommunityIcons(65073);
+      IconData(65073, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData layers_triple =
-      FlutterIconData.materialCommunityIcons(65397);
+      IconData(65397, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData layers_triple_outline =
-      FlutterIconData.materialCommunityIcons(65398);
+      IconData(65398, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lead_pencil =
-      FlutterIconData.materialCommunityIcons(63055);
-  static const IconData leaf = FlutterIconData.materialCommunityIcons(62250);
+      IconData(63055, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData leaf = IconData(62250, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData leaf_maple =
-      FlutterIconData.materialCommunityIcons(64623);
-  static const IconData leak = FlutterIconData.materialCommunityIcons(64947);
+      IconData(64623, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData leak = IconData(64947, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData leak_off =
-      FlutterIconData.materialCommunityIcons(64948);
-  static const IconData led_off = FlutterIconData.materialCommunityIcons(62251);
-  static const IconData led_on = FlutterIconData.materialCommunityIcons(62252);
+      IconData(64948, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData led_off = IconData(62251, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData led_on = IconData(62252, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData led_outline =
-      FlutterIconData.materialCommunityIcons(62253);
+      IconData(62253, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData led_strip =
-      FlutterIconData.materialCommunityIcons(63445);
+      IconData(63445, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData led_variant_off =
-      FlutterIconData.materialCommunityIcons(62254);
+      IconData(62254, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData led_variant_on =
-      FlutterIconData.materialCommunityIcons(62255);
+      IconData(62255, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData led_variant_outline =
-      FlutterIconData.materialCommunityIcons(62256);
+      IconData(62256, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData less_than =
-      FlutterIconData.materialCommunityIcons(63867);
+      IconData(63867, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData less_than_or_equal =
-      FlutterIconData.materialCommunityIcons(63868);
-  static const IconData library = FlutterIconData.materialCommunityIcons(62257);
+      IconData(63868, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData library = IconData(62257, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData library_books =
-      FlutterIconData.materialCommunityIcons(62258);
+      IconData(62258, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData library_movie =
-      FlutterIconData.materialCommunityIcons(64756);
+      IconData(64756, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData library_music =
-      FlutterIconData.materialCommunityIcons(62259);
+      IconData(62259, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData library_music_outline =
-      FlutterIconData.materialCommunityIcons(65313);
+      IconData(65313, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData library_plus =
-      FlutterIconData.materialCommunityIcons(62260);
+      IconData(62260, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData library_shelves =
-      FlutterIconData.materialCommunityIcons(64389);
+      IconData(64389, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData library_video =
-      FlutterIconData.materialCommunityIcons(64757);
-  static const IconData license = FlutterIconData.materialCommunityIcons(65507);
+      IconData(64757, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData license = IconData(65507, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lifebuoy =
-      FlutterIconData.materialCommunityIcons(63613);
+      IconData(63613, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData light_switch =
-      FlutterIconData.materialCommunityIcons(63869);
+      IconData(63869, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lightbulb =
-      FlutterIconData.materialCommunityIcons(62261);
+      IconData(62261, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lightbulb_off =
-      FlutterIconData.materialCommunityIcons(65074);
+      IconData(65074, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lightbulb_off_outline =
-      FlutterIconData.materialCommunityIcons(65075);
+      IconData(65075, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lightbulb_on =
-      FlutterIconData.materialCommunityIcons(63207);
+      IconData(63207, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lightbulb_on_outline =
-      FlutterIconData.materialCommunityIcons(63208);
+      IconData(63208, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lightbulb_outline =
-      FlutterIconData.materialCommunityIcons(62262);
+      IconData(62262, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lighthouse =
-      FlutterIconData.materialCommunityIcons(63998);
+      IconData(63998, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lighthouse_on =
-      FlutterIconData.materialCommunityIcons(63999);
-  static const IconData link = FlutterIconData.materialCommunityIcons(62263);
+      IconData(63999, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData link = IconData(62263, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData link_box =
-      FlutterIconData.materialCommunityIcons(64758);
+      IconData(64758, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData link_box_outline =
-      FlutterIconData.materialCommunityIcons(64759);
+      IconData(64759, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData link_box_variant =
-      FlutterIconData.materialCommunityIcons(64760);
+      IconData(64760, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData link_box_variant_outline =
-      FlutterIconData.materialCommunityIcons(64761);
+      IconData(64761, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData link_off =
-      FlutterIconData.materialCommunityIcons(62264);
+      IconData(62264, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData link_plus =
-      FlutterIconData.materialCommunityIcons(64624);
+      IconData(64624, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData link_variant =
-      FlutterIconData.materialCommunityIcons(62265);
+      IconData(62265, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData link_variant_off =
-      FlutterIconData.materialCommunityIcons(62266);
+      IconData(62266, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData linkedin =
-      FlutterIconData.materialCommunityIcons(62267);
+      IconData(62267, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData linkedin_box =
-      FlutterIconData.materialCommunityIcons(62268);
-  static const IconData linux = FlutterIconData.materialCommunityIcons(62269);
+      IconData(62268, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData linux = IconData(62269, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData linux_mint =
-      FlutterIconData.materialCommunityIcons(63724);
+      IconData(63724, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData litecoin =
-      FlutterIconData.materialCommunityIcons(64096);
-  static const IconData loading = FlutterIconData.materialCommunityIcons(63345);
+      IconData(64096, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData loading = IconData(63345, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData location_enter =
-      FlutterIconData.materialCommunityIcons(65508);
+      IconData(65508, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData location_exit =
-      FlutterIconData.materialCommunityIcons(65509);
-  static const IconData lock = FlutterIconData.materialCommunityIcons(62270);
+      IconData(65509, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData lock = IconData(62270, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_alert =
-      FlutterIconData.materialCommunityIcons(63725);
+      IconData(63725, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_clock =
-      FlutterIconData.materialCommunityIcons(63870);
+      IconData(63870, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_open =
-      FlutterIconData.materialCommunityIcons(62271);
+      IconData(62271, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_open_outline =
-      FlutterIconData.materialCommunityIcons(62272);
+      IconData(62272, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_open_variant =
-      FlutterIconData.materialCommunityIcons(65510);
+      IconData(65510, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_open_variant_outline =
-      FlutterIconData.materialCommunityIcons(65511);
+      IconData(65511, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_outline =
-      FlutterIconData.materialCommunityIcons(62273);
+      IconData(62273, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_pattern =
-      FlutterIconData.materialCommunityIcons(63209);
+      IconData(63209, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_plus =
-      FlutterIconData.materialCommunityIcons(62971);
+      IconData(62971, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_question =
-      FlutterIconData.materialCommunityIcons(63726);
+      IconData(63726, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_reset =
-      FlutterIconData.materialCommunityIcons(63346);
+      IconData(63346, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData lock_smart =
-      FlutterIconData.materialCommunityIcons(63665);
-  static const IconData locker = FlutterIconData.materialCommunityIcons(63446);
+      IconData(63665, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData locker = IconData(63446, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData locker_multiple =
-      FlutterIconData.materialCommunityIcons(63447);
-  static const IconData login = FlutterIconData.materialCommunityIcons(62274);
+      IconData(63447, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData login = IconData(62274, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData login_variant =
-      FlutterIconData.materialCommunityIcons(62972);
-  static const IconData logout = FlutterIconData.materialCommunityIcons(62275);
+      IconData(62972, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData logout = IconData(62275, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData logout_variant =
-      FlutterIconData.materialCommunityIcons(62973);
+      IconData(62973, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData longitude =
-      FlutterIconData.materialCommunityIcons(65399);
-  static const IconData looks = FlutterIconData.materialCommunityIcons(62276);
-  static const IconData loupe = FlutterIconData.materialCommunityIcons(62277);
-  static const IconData lumx = FlutterIconData.materialCommunityIcons(62278);
-  static const IconData lyft = FlutterIconData.materialCommunityIcons(64285);
-  static const IconData magnet = FlutterIconData.materialCommunityIcons(62279);
+      IconData(65399, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData looks = IconData(62276, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData loupe = IconData(62277, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData lumx = IconData(62278, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData lyft = IconData(64285, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData magnet = IconData(62279, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData magnet_on =
-      FlutterIconData.materialCommunityIcons(62280);
-  static const IconData magnify = FlutterIconData.materialCommunityIcons(62281);
+      IconData(62280, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData magnify = IconData(62281, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData magnify_close =
-      FlutterIconData.materialCommunityIcons(63871);
+      IconData(63871, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData magnify_minus =
-      FlutterIconData.materialCommunityIcons(62282);
+      IconData(62282, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData magnify_minus_cursor =
-      FlutterIconData.materialCommunityIcons(64097);
+      IconData(64097, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData magnify_minus_outline =
-      FlutterIconData.materialCommunityIcons(63211);
+      IconData(63211, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData magnify_plus =
-      FlutterIconData.materialCommunityIcons(62283);
+      IconData(62283, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData magnify_plus_cursor =
-      FlutterIconData.materialCommunityIcons(64098);
+      IconData(64098, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData magnify_plus_outline =
-      FlutterIconData.materialCommunityIcons(63212);
-  static const IconData mail = FlutterIconData.materialCommunityIcons(65240);
-  static const IconData mail_ru = FlutterIconData.materialCommunityIcons(62284);
-  static const IconData mailbox = FlutterIconData.materialCommunityIcons(63213);
+      IconData(63212, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData mail = IconData(65240, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData mail_ru = IconData(62284, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData mailbox = IconData(63213, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mailbox_open =
-      FlutterIconData.materialCommunityIcons(64868);
+      IconData(64868, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mailbox_open_outline =
-      FlutterIconData.materialCommunityIcons(64869);
+      IconData(64869, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mailbox_open_up =
-      FlutterIconData.materialCommunityIcons(64870);
+      IconData(64870, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mailbox_open_up_outline =
-      FlutterIconData.materialCommunityIcons(64871);
+      IconData(64871, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mailbox_outline =
-      FlutterIconData.materialCommunityIcons(64872);
+      IconData(64872, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mailbox_up =
-      FlutterIconData.materialCommunityIcons(64873);
+      IconData(64873, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mailbox_up_outline =
-      FlutterIconData.materialCommunityIcons(64874);
-  static const IconData map = FlutterIconData.materialCommunityIcons(62285);
+      IconData(64874, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData map = IconData(62285, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_check =
-      FlutterIconData.materialCommunityIcons(65241);
+      IconData(65241, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_check_outline =
-      FlutterIconData.materialCommunityIcons(65242);
+      IconData(65242, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_clock =
-      FlutterIconData.materialCommunityIcons(64762);
+      IconData(64762, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_clock_outline =
-      FlutterIconData.materialCommunityIcons(64763);
+      IconData(64763, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_legend =
-      FlutterIconData.materialCommunityIcons(64000);
+      IconData(64000, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker =
-      FlutterIconData.materialCommunityIcons(62286);
+      IconData(62286, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_alert =
-      FlutterIconData.materialCommunityIcons(65314);
+      IconData(65314, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_alert_outline =
-      FlutterIconData.materialCommunityIcons(65315);
+      IconData(65315, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_check =
-      FlutterIconData.materialCommunityIcons(64625);
+      IconData(64625, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_circle =
-      FlutterIconData.materialCommunityIcons(62287);
+      IconData(62287, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_distance =
-      FlutterIconData.materialCommunityIcons(63727);
+      IconData(63727, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_minus =
-      FlutterIconData.materialCommunityIcons(63056);
+      IconData(63056, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_multiple =
-      FlutterIconData.materialCommunityIcons(62288);
+      IconData(62288, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_off =
-      FlutterIconData.materialCommunityIcons(62289);
+      IconData(62289, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_outline =
-      FlutterIconData.materialCommunityIcons(63448);
+      IconData(63448, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_path =
-      FlutterIconData.materialCommunityIcons(64764);
+      IconData(64764, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_plus =
-      FlutterIconData.materialCommunityIcons(63057);
+      IconData(63057, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_question =
-      FlutterIconData.materialCommunityIcons(65316);
+      IconData(65316, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_question_outline =
-      FlutterIconData.materialCommunityIcons(65317);
+      IconData(65317, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_radius =
-      FlutterIconData.materialCommunityIcons(62290);
+      IconData(62290, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_remove =
-      FlutterIconData.materialCommunityIcons(65318);
+      IconData(65318, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_marker_remove_variant =
-      FlutterIconData.materialCommunityIcons(65319);
+      IconData(65319, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_minus =
-      FlutterIconData.materialCommunityIcons(63872);
+      IconData(63872, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_outline =
-      FlutterIconData.materialCommunityIcons(63873);
+      IconData(63873, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_plus =
-      FlutterIconData.materialCommunityIcons(63874);
+      IconData(63874, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_search =
-      FlutterIconData.materialCommunityIcons(63875);
+      IconData(63875, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData map_search_outline =
-      FlutterIconData.materialCommunityIcons(63876);
-  static const IconData mapbox = FlutterIconData.materialCommunityIcons(64390);
-  static const IconData margin = FlutterIconData.materialCommunityIcons(62291);
+      IconData(63876, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData mapbox = IconData(64390, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData margin = IconData(62291, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData markdown =
-      FlutterIconData.materialCommunityIcons(62292);
+      IconData(62292, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData markdown_outline =
-      FlutterIconData.materialCommunityIcons(65400);
-  static const IconData marker = FlutterIconData.materialCommunityIcons(63058);
+      IconData(65400, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData marker = IconData(63058, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData marker_cancel =
-      FlutterIconData.materialCommunityIcons(64949);
+      IconData(64949, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData marker_check =
-      FlutterIconData.materialCommunityIcons(62293);
+      IconData(62293, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mastodon =
-      FlutterIconData.materialCommunityIcons(64208);
+      IconData(64208, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mastodon_variant =
-      FlutterIconData.materialCommunityIcons(64209);
+      IconData(64209, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData material_design =
-      FlutterIconData.materialCommunityIcons(63877);
+      IconData(63877, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData material_ui =
-      FlutterIconData.materialCommunityIcons(62295);
+      IconData(62295, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData math_compass =
-      FlutterIconData.materialCommunityIcons(62296);
+      IconData(62296, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData math_cos =
-      FlutterIconData.materialCommunityIcons(64626);
+      IconData(64626, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData math_integral =
-      FlutterIconData.materialCommunityIcons(65512);
+      IconData(65512, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData math_integral_box =
-      FlutterIconData.materialCommunityIcons(65513);
+      IconData(65513, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData math_norm =
-      FlutterIconData.materialCommunityIcons(65514);
+      IconData(65514, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData math_norm_box =
-      FlutterIconData.materialCommunityIcons(65515);
+      IconData(65515, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData math_sin =
-      FlutterIconData.materialCommunityIcons(64627);
+      IconData(64627, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData math_tan =
-      FlutterIconData.materialCommunityIcons(64628);
-  static const IconData matrix = FlutterIconData.materialCommunityIcons(63016);
-  static const IconData maxcdn = FlutterIconData.materialCommunityIcons(62297);
-  static const IconData medal = FlutterIconData.materialCommunityIcons(63878);
+      IconData(64628, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData matrix = IconData(63016, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData maxcdn = IconData(62297, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData medal = IconData(63878, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData medical_bag =
-      FlutterIconData.materialCommunityIcons(63214);
-  static const IconData medium = FlutterIconData.materialCommunityIcons(62298);
-  static const IconData meetup = FlutterIconData.materialCommunityIcons(64210);
-  static const IconData memory = FlutterIconData.materialCommunityIcons(62299);
-  static const IconData menu = FlutterIconData.materialCommunityIcons(62300);
+      IconData(63214, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData medium = IconData(62298, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData meetup = IconData(64210, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData memory = IconData(62299, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData menu = IconData(62300, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_down =
-      FlutterIconData.materialCommunityIcons(62301);
+      IconData(62301, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_down_outline =
-      FlutterIconData.materialCommunityIcons(63157);
+      IconData(63157, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_left =
-      FlutterIconData.materialCommunityIcons(62302);
+      IconData(62302, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_left_outline =
-      FlutterIconData.materialCommunityIcons(64001);
+      IconData(64001, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_open =
-      FlutterIconData.materialCommunityIcons(64391);
+      IconData(64391, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_right =
-      FlutterIconData.materialCommunityIcons(62303);
+      IconData(62303, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_right_outline =
-      FlutterIconData.materialCommunityIcons(64002);
+      IconData(64002, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_swap =
-      FlutterIconData.materialCommunityIcons(64099);
+      IconData(64099, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_swap_outline =
-      FlutterIconData.materialCommunityIcons(64100);
-  static const IconData menu_up = FlutterIconData.materialCommunityIcons(62304);
+      IconData(64100, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData menu_up = IconData(62304, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData menu_up_outline =
-      FlutterIconData.materialCommunityIcons(63158);
-  static const IconData merge = FlutterIconData.materialCommunityIcons(65401);
-  static const IconData message = FlutterIconData.materialCommunityIcons(62305);
+      IconData(63158, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData merge = IconData(65401, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData message = IconData(62305, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_alert =
-      FlutterIconData.materialCommunityIcons(62306);
+      IconData(62306, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_alert_outline =
-      FlutterIconData.materialCommunityIcons(64003);
+      IconData(64003, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_bulleted =
-      FlutterIconData.materialCommunityIcons(63137);
+      IconData(63137, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_bulleted_off =
-      FlutterIconData.materialCommunityIcons(63138);
+      IconData(63138, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_draw =
-      FlutterIconData.materialCommunityIcons(62307);
+      IconData(62307, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_image =
-      FlutterIconData.materialCommunityIcons(62308);
+      IconData(62308, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_lock =
-      FlutterIconData.materialCommunityIcons(65516);
+      IconData(65516, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_outline =
-      FlutterIconData.materialCommunityIcons(62309);
+      IconData(62309, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_plus =
-      FlutterIconData.materialCommunityIcons(63059);
+      IconData(63059, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_processing =
-      FlutterIconData.materialCommunityIcons(62310);
+      IconData(62310, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_reply =
-      FlutterIconData.materialCommunityIcons(62311);
+      IconData(62311, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_reply_text =
-      FlutterIconData.materialCommunityIcons(62312);
+      IconData(62312, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_settings =
-      FlutterIconData.materialCommunityIcons(63215);
+      IconData(63215, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_settings_variant =
-      FlutterIconData.materialCommunityIcons(63216);
+      IconData(63216, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_text =
-      FlutterIconData.materialCommunityIcons(62313);
+      IconData(62313, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_text_lock =
-      FlutterIconData.materialCommunityIcons(65517);
+      IconData(65517, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_text_outline =
-      FlutterIconData.materialCommunityIcons(62314);
+      IconData(62314, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData message_video =
-      FlutterIconData.materialCommunityIcons(62315);
-  static const IconData meteor = FlutterIconData.materialCommunityIcons(63017);
+      IconData(62315, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData meteor = IconData(63017, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData metronome =
-      FlutterIconData.materialCommunityIcons(63449);
+      IconData(63449, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData metronome_tick =
-      FlutterIconData.materialCommunityIcons(63450);
+      IconData(63450, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData micro_sd =
-      FlutterIconData.materialCommunityIcons(63451);
+      IconData(63451, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microphone =
-      FlutterIconData.materialCommunityIcons(62316);
+      IconData(62316, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microphone_minus =
-      FlutterIconData.materialCommunityIcons(63666);
+      IconData(63666, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microphone_off =
-      FlutterIconData.materialCommunityIcons(62317);
+      IconData(62317, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microphone_outline =
-      FlutterIconData.materialCommunityIcons(62318);
+      IconData(62318, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microphone_plus =
-      FlutterIconData.materialCommunityIcons(63667);
+      IconData(63667, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microphone_settings =
-      FlutterIconData.materialCommunityIcons(62319);
+      IconData(62319, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microphone_variant =
-      FlutterIconData.materialCommunityIcons(62320);
+      IconData(62320, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microphone_variant_off =
-      FlutterIconData.materialCommunityIcons(62321);
+      IconData(62321, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microscope =
-      FlutterIconData.materialCommunityIcons(63060);
+      IconData(63060, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microsoft =
-      FlutterIconData.materialCommunityIcons(62322);
+      IconData(62322, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microsoft_dynamics =
-      FlutterIconData.materialCommunityIcons(63879);
+      IconData(63879, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData microwave =
-      FlutterIconData.materialCommunityIcons(64629);
+      IconData(64629, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData middleware =
-      FlutterIconData.materialCommunityIcons(65402);
+      IconData(65402, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData middleware_outline =
-      FlutterIconData.materialCommunityIcons(65403);
-  static const IconData midi = FlutterIconData.materialCommunityIcons(63728);
+      IconData(65403, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData midi = IconData(63728, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData midi_port =
-      FlutterIconData.materialCommunityIcons(63729);
-  static const IconData mine = FlutterIconData.materialCommunityIcons(64950);
+      IconData(63729, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData mine = IconData(64950, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData minecraft =
-      FlutterIconData.materialCommunityIcons(62323);
-  static const IconData mini_sd = FlutterIconData.materialCommunityIcons(64004);
+      IconData(62323, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData mini_sd = IconData(64004, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData minidisc =
-      FlutterIconData.materialCommunityIcons(64005);
-  static const IconData minus = FlutterIconData.materialCommunityIcons(62324);
+      IconData(64005, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData minus = IconData(62324, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData minus_box =
-      FlutterIconData.materialCommunityIcons(62325);
+      IconData(62325, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData minus_box_outline =
-      FlutterIconData.materialCommunityIcons(63217);
+      IconData(63217, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData minus_circle =
-      FlutterIconData.materialCommunityIcons(62326);
+      IconData(62326, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData minus_circle_outline =
-      FlutterIconData.materialCommunityIcons(62327);
+      IconData(62327, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData minus_network =
-      FlutterIconData.materialCommunityIcons(62328);
+      IconData(62328, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData minus_network_outline =
-      FlutterIconData.materialCommunityIcons(64630);
+      IconData(64630, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mixcloud =
-      FlutterIconData.materialCommunityIcons(63018);
+      IconData(63018, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mixed_martial_arts =
-      FlutterIconData.materialCommunityIcons(64875);
+      IconData(64875, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mixed_reality =
-      FlutterIconData.materialCommunityIcons(63614);
-  static const IconData mixer = FlutterIconData.materialCommunityIcons(63452);
+      IconData(63614, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData mixer = IconData(63452, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData molecule =
-      FlutterIconData.materialCommunityIcons(64392);
-  static const IconData monitor = FlutterIconData.materialCommunityIcons(62329);
+      IconData(64392, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData monitor = IconData(62329, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_cellphone =
-      FlutterIconData.materialCommunityIcons(63880);
+      IconData(63880, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_cellphone_star =
-      FlutterIconData.materialCommunityIcons(63881);
+      IconData(63881, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_dashboard =
-      FlutterIconData.materialCommunityIcons(64006);
+      IconData(64006, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_lock =
-      FlutterIconData.materialCommunityIcons(64951);
+      IconData(64951, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_multiple =
-      FlutterIconData.materialCommunityIcons(62330);
+      IconData(62330, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_off =
-      FlutterIconData.materialCommunityIcons(64876);
+      IconData(64876, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_screenshot =
-      FlutterIconData.materialCommunityIcons(65076);
+      IconData(65076, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_speaker =
-      FlutterIconData.materialCommunityIcons(65404);
+      IconData(65404, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_speaker_off =
-      FlutterIconData.materialCommunityIcons(65405);
+      IconData(65405, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData monitor_star =
-      FlutterIconData.materialCommunityIcons(64952);
+      IconData(64952, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData moon_first_quarter =
-      FlutterIconData.materialCommunityIcons(65406);
+      IconData(65406, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData moon_full =
-      FlutterIconData.materialCommunityIcons(65407);
+      IconData(65407, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData moon_last_quarter =
-      FlutterIconData.materialCommunityIcons(65408);
+      IconData(65408, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData moon_new =
-      FlutterIconData.materialCommunityIcons(65409);
+      IconData(65409, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData moon_waning_crescent =
-      FlutterIconData.materialCommunityIcons(65410);
+      IconData(65410, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData moon_waning_gibbous =
-      FlutterIconData.materialCommunityIcons(65411);
+      IconData(65411, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData moon_waxing_crescent =
-      FlutterIconData.materialCommunityIcons(65412);
+      IconData(65412, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData moon_waxing_gibbous =
-      FlutterIconData.materialCommunityIcons(65413);
-  static const IconData more = FlutterIconData.materialCommunityIcons(62331);
+      IconData(65413, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData more = IconData(62331, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mother_nurse =
-      FlutterIconData.materialCommunityIcons(64765);
+      IconData(64765, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData motion_sensor =
-      FlutterIconData.materialCommunityIcons(64877);
+      IconData(64877, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData motorbike =
-      FlutterIconData.materialCommunityIcons(62332);
-  static const IconData mouse = FlutterIconData.materialCommunityIcons(62333);
+      IconData(62332, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData mouse = IconData(62333, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mouse_bluetooth =
-      FlutterIconData.materialCommunityIcons(63882);
+      IconData(63882, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mouse_off =
-      FlutterIconData.materialCommunityIcons(62334);
+      IconData(62334, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mouse_variant =
-      FlutterIconData.materialCommunityIcons(62335);
+      IconData(62335, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mouse_variant_off =
-      FlutterIconData.materialCommunityIcons(62336);
+      IconData(62336, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData move_resize =
-      FlutterIconData.materialCommunityIcons(63061);
+      IconData(63061, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData move_resize_variant =
-      FlutterIconData.materialCommunityIcons(63062);
-  static const IconData movie = FlutterIconData.materialCommunityIcons(62337);
+      IconData(63062, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData movie = IconData(62337, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData movie_open =
-      FlutterIconData.materialCommunityIcons(65518);
+      IconData(65518, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData movie_open_outline =
-      FlutterIconData.materialCommunityIcons(65519);
+      IconData(65519, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData movie_outline =
-      FlutterIconData.materialCommunityIcons(64953);
+      IconData(64953, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData movie_roll =
-      FlutterIconData.materialCommunityIcons(63453);
-  static const IconData muffin = FlutterIconData.materialCommunityIcons(63883);
+      IconData(63453, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData muffin = IconData(63883, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData multiplication =
-      FlutterIconData.materialCommunityIcons(62338);
+      IconData(62338, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData multiplication_box =
-      FlutterIconData.materialCommunityIcons(62339);
+      IconData(62339, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mushroom =
-      FlutterIconData.materialCommunityIcons(63454);
+      IconData(63454, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData mushroom_outline =
-      FlutterIconData.materialCommunityIcons(63455);
-  static const IconData music = FlutterIconData.materialCommunityIcons(63321);
+      IconData(63455, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData music = IconData(63321, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_accidental_double_flat =
-      FlutterIconData.materialCommunityIcons(65414);
+      IconData(65414, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_accidental_double_sharp =
-      FlutterIconData.materialCommunityIcons(65415);
+      IconData(65415, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_accidental_flat =
-      FlutterIconData.materialCommunityIcons(65416);
+      IconData(65416, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_accidental_natural =
-      FlutterIconData.materialCommunityIcons(65417);
+      IconData(65417, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_accidental_sharp =
-      FlutterIconData.materialCommunityIcons(65418);
+      IconData(65418, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_box =
-      FlutterIconData.materialCommunityIcons(62340);
+      IconData(62340, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_box_outline =
-      FlutterIconData.materialCommunityIcons(62341);
+      IconData(62341, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_circle =
-      FlutterIconData.materialCommunityIcons(62342);
+      IconData(62342, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_circle_outline =
-      FlutterIconData.materialCommunityIcons(64211);
+      IconData(64211, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_clef_alto =
-      FlutterIconData.materialCommunityIcons(65419);
+      IconData(65419, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_clef_bass =
-      FlutterIconData.materialCommunityIcons(65420);
+      IconData(65420, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_clef_treble =
-      FlutterIconData.materialCommunityIcons(65421);
+      IconData(65421, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note =
-      FlutterIconData.materialCommunityIcons(62343);
+      IconData(62343, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_bluetooth =
-      FlutterIconData.materialCommunityIcons(62974);
+      IconData(62974, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_bluetooth_off =
-      FlutterIconData.materialCommunityIcons(62975);
+      IconData(62975, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_eighth =
-      FlutterIconData.materialCommunityIcons(62344);
+      IconData(62344, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_eighth_dotted =
-      FlutterIconData.materialCommunityIcons(65422);
+      IconData(65422, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_half =
-      FlutterIconData.materialCommunityIcons(62345);
+      IconData(62345, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_half_dotted =
-      FlutterIconData.materialCommunityIcons(65423);
+      IconData(65423, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_off =
-      FlutterIconData.materialCommunityIcons(62346);
+      IconData(62346, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_off_outline =
-      FlutterIconData.materialCommunityIcons(65424);
+      IconData(65424, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_outline =
-      FlutterIconData.materialCommunityIcons(65425);
+      IconData(65425, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_plus =
-      FlutterIconData.materialCommunityIcons(64954);
+      IconData(64954, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_quarter =
-      FlutterIconData.materialCommunityIcons(62347);
+      IconData(62347, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_quarter_dotted =
-      FlutterIconData.materialCommunityIcons(65426);
+      IconData(65426, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_sixteenth =
-      FlutterIconData.materialCommunityIcons(62348);
+      IconData(62348, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_sixteenth_dotted =
-      FlutterIconData.materialCommunityIcons(65427);
+      IconData(65427, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_whole =
-      FlutterIconData.materialCommunityIcons(62349);
+      IconData(62349, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_note_whole_dotted =
-      FlutterIconData.materialCommunityIcons(65428);
+      IconData(65428, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_off =
-      FlutterIconData.materialCommunityIcons(63322);
+      IconData(63322, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_rest_eighth =
-      FlutterIconData.materialCommunityIcons(65429);
+      IconData(65429, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_rest_half =
-      FlutterIconData.materialCommunityIcons(65430);
+      IconData(65430, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_rest_quarter =
-      FlutterIconData.materialCommunityIcons(65431);
+      IconData(65431, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_rest_sixteenth =
-      FlutterIconData.materialCommunityIcons(65432);
+      IconData(65432, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData music_rest_whole =
-      FlutterIconData.materialCommunityIcons(65433);
-  static const IconData nail = FlutterIconData.materialCommunityIcons(64955);
-  static const IconData nas = FlutterIconData.materialCommunityIcons(63730);
+      IconData(65433, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nail = IconData(64955, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nas = IconData(63730, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData nativescript =
-      FlutterIconData.materialCommunityIcons(63615);
-  static const IconData nature = FlutterIconData.materialCommunityIcons(62350);
+      IconData(63615, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nature = IconData(62350, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData nature_people =
-      FlutterIconData.materialCommunityIcons(62351);
+      IconData(62351, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData navigation =
-      FlutterIconData.materialCommunityIcons(62352);
-  static const IconData near_me = FlutterIconData.materialCommunityIcons(62925);
+      IconData(62352, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData near_me = IconData(62925, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData necklace =
-      FlutterIconData.materialCommunityIcons(65320);
-  static const IconData needle = FlutterIconData.materialCommunityIcons(62353);
-  static const IconData netflix = FlutterIconData.materialCommunityIcons(63301);
-  static const IconData network = FlutterIconData.materialCommunityIcons(63218);
+      IconData(65320, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData needle = IconData(62353, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData netflix = IconData(63301, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData network = IconData(63218, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_off =
-      FlutterIconData.materialCommunityIcons(64631);
+      IconData(64631, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_off_outline =
-      FlutterIconData.materialCommunityIcons(64632);
+      IconData(64632, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_outline =
-      FlutterIconData.materialCommunityIcons(64633);
+      IconData(64633, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_1 =
-      FlutterIconData.materialCommunityIcons(63731);
+      IconData(63731, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_1_alert =
-      FlutterIconData.materialCommunityIcons(63732);
+      IconData(63732, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_2 =
-      FlutterIconData.materialCommunityIcons(63733);
+      IconData(63733, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_2_alert =
-      FlutterIconData.materialCommunityIcons(63734);
+      IconData(63734, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_3 =
-      FlutterIconData.materialCommunityIcons(63735);
+      IconData(63735, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_3_alert =
-      FlutterIconData.materialCommunityIcons(63736);
+      IconData(63736, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_4 =
-      FlutterIconData.materialCommunityIcons(63737);
+      IconData(63737, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_4_alert =
-      FlutterIconData.materialCommunityIcons(63738);
+      IconData(63738, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_off =
-      FlutterIconData.materialCommunityIcons(63739);
+      IconData(63739, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_off_outline =
-      FlutterIconData.materialCommunityIcons(63740);
+      IconData(63740, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData network_strength_outline =
-      FlutterIconData.materialCommunityIcons(63741);
-  static const IconData new_box = FlutterIconData.materialCommunityIcons(62356);
+      IconData(63741, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData new_box = IconData(62356, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData newspaper =
-      FlutterIconData.materialCommunityIcons(62357);
+      IconData(62357, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData newspaper_minus =
-      FlutterIconData.materialCommunityIcons(65321);
+      IconData(65321, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData newspaper_plus =
-      FlutterIconData.materialCommunityIcons(65322);
+      IconData(65322, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData newspaper_variant =
-      FlutterIconData.materialCommunityIcons(983075);
+      IconData(983075, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData newspaper_variant_multiple =
-      FlutterIconData.materialCommunityIcons(983076);
+      IconData(983076, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData newspaper_variant_multiple_outline =
-      FlutterIconData.materialCommunityIcons(983077);
+      IconData(983077, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData newspaper_variant_outline =
-      FlutterIconData.materialCommunityIcons(983078);
-  static const IconData nfc = FlutterIconData.materialCommunityIcons(62358);
-  static const IconData nfc_off = FlutterIconData.materialCommunityIcons(65077);
+      IconData(983078, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nfc = IconData(62358, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nfc_off = IconData(65077, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData nfc_search_variant =
-      FlutterIconData.materialCommunityIcons(65078);
-  static const IconData nfc_tap = FlutterIconData.materialCommunityIcons(62359);
+      IconData(65078, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nfc_tap = IconData(62359, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData nfc_variant =
-      FlutterIconData.materialCommunityIcons(62360);
+      IconData(62360, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData nfc_variant_off =
-      FlutterIconData.materialCommunityIcons(65079);
-  static const IconData ninja = FlutterIconData.materialCommunityIcons(63347);
+      IconData(65079, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ninja = IconData(63347, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData nintendo_switch =
-      FlutterIconData.materialCommunityIcons(63456);
-  static const IconData nodejs = FlutterIconData.materialCommunityIcons(62361);
+      IconData(63456, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nodejs = IconData(62361, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData not_equal =
-      FlutterIconData.materialCommunityIcons(63884);
+      IconData(63884, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData not_equal_variant =
-      FlutterIconData.materialCommunityIcons(63885);
-  static const IconData note = FlutterIconData.materialCommunityIcons(62362);
+      IconData(63885, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData note = IconData(62362, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData note_multiple =
-      FlutterIconData.materialCommunityIcons(63159);
+      IconData(63159, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData note_multiple_outline =
-      FlutterIconData.materialCommunityIcons(63160);
+      IconData(63160, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData note_outline =
-      FlutterIconData.materialCommunityIcons(62363);
+      IconData(62363, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData note_plus =
-      FlutterIconData.materialCommunityIcons(62364);
+      IconData(62364, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData note_plus_outline =
-      FlutterIconData.materialCommunityIcons(62365);
+      IconData(62365, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData note_text =
-      FlutterIconData.materialCommunityIcons(62366);
+      IconData(62366, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData notebook =
-      FlutterIconData.materialCommunityIcons(63533);
+      IconData(63533, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData notebook_multiple =
-      FlutterIconData.materialCommunityIcons(65080);
+      IconData(65080, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData notebook_outline =
-      FlutterIconData.materialCommunityIcons(65244);
+      IconData(65244, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData notification_clear_all =
-      FlutterIconData.materialCommunityIcons(62367);
-  static const IconData npm = FlutterIconData.materialCommunityIcons(63222);
+      IconData(62367, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData npm = IconData(63222, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData npm_variant =
-      FlutterIconData.materialCommunityIcons(63886);
+      IconData(63886, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData npm_variant_outline =
-      FlutterIconData.materialCommunityIcons(63887);
-  static const IconData nuke = FlutterIconData.materialCommunityIcons(63139);
-  static const IconData null_ = FlutterIconData.materialCommunityIcons(63457);
-  static const IconData numeric = FlutterIconData.materialCommunityIcons(62368);
-  static const IconData numeric_0 = FlutterIconData.materialCommunityIcons(48);
+      IconData(63887, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nuke = IconData(63139, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData null_ = IconData(63457, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric = IconData(62368, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_0 = IconData(48, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_0_box =
-      FlutterIconData.materialCommunityIcons(62369);
+      IconData(62369, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_0_box_multiple =
-      FlutterIconData.materialCommunityIcons(65323);
+      IconData(65323, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_0_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62370);
+      IconData(62370, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_0_box_outline =
-      FlutterIconData.materialCommunityIcons(62371);
+      IconData(62371, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_0_circle =
-      FlutterIconData.materialCommunityIcons(64634);
+      IconData(64634, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_0_circle_outline =
-      FlutterIconData.materialCommunityIcons(64635);
-  static const IconData numeric_1 = FlutterIconData.materialCommunityIcons(49);
+      IconData(64635, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_1 = IconData(49, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_1_box =
-      FlutterIconData.materialCommunityIcons(62372);
+      IconData(62372, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_1_box_multiple =
-      FlutterIconData.materialCommunityIcons(65324);
+      IconData(65324, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_1_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62373);
+      IconData(62373, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_1_box_outline =
-      FlutterIconData.materialCommunityIcons(62374);
+      IconData(62374, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_1_circle =
-      FlutterIconData.materialCommunityIcons(64636);
+      IconData(64636, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_1_circle_outline =
-      FlutterIconData.materialCommunityIcons(64637);
+      IconData(64637, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_10 =
-      FlutterIconData.materialCommunityIcons(983050);
+      IconData(983050, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_10_box =
-      FlutterIconData.materialCommunityIcons(65434);
+      IconData(65434, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_10_box_multiple =
-      FlutterIconData.materialCommunityIcons(983051);
+      IconData(983051, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_10_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(983052);
+      IconData(983052, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_10_box_outline =
-      FlutterIconData.materialCommunityIcons(65435);
+      IconData(65435, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_10_circle =
-      FlutterIconData.materialCommunityIcons(983053);
+      IconData(983053, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_10_circle_outline =
-      FlutterIconData.materialCommunityIcons(983054);
-  static const IconData numeric_2 = FlutterIconData.materialCommunityIcons(50);
+      IconData(983054, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_2 = IconData(50, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_2_box =
-      FlutterIconData.materialCommunityIcons(62375);
+      IconData(62375, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_2_box_multiple =
-      FlutterIconData.materialCommunityIcons(65325);
+      IconData(65325, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_2_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62376);
+      IconData(62376, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_2_box_outline =
-      FlutterIconData.materialCommunityIcons(62377);
+      IconData(62377, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_2_circle =
-      FlutterIconData.materialCommunityIcons(64638);
+      IconData(64638, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_2_circle_outline =
-      FlutterIconData.materialCommunityIcons(64639);
-  static const IconData numeric_3 = FlutterIconData.materialCommunityIcons(51);
+      IconData(64639, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_3 = IconData(51, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_3_box =
-      FlutterIconData.materialCommunityIcons(62378);
+      IconData(62378, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_3_box_multiple =
-      FlutterIconData.materialCommunityIcons(65326);
+      IconData(65326, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_3_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62379);
+      IconData(62379, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_3_box_outline =
-      FlutterIconData.materialCommunityIcons(62380);
+      IconData(62380, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_3_circle =
-      FlutterIconData.materialCommunityIcons(64640);
+      IconData(64640, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_3_circle_outline =
-      FlutterIconData.materialCommunityIcons(64641);
-  static const IconData numeric_4 = FlutterIconData.materialCommunityIcons(52);
+      IconData(64641, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_4 = IconData(52, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_4_box =
-      FlutterIconData.materialCommunityIcons(62381);
+      IconData(62381, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_4_box_multiple =
-      FlutterIconData.materialCommunityIcons(65327);
+      IconData(65327, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_4_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62382);
+      IconData(62382, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_4_box_outline =
-      FlutterIconData.materialCommunityIcons(62383);
+      IconData(62383, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_4_circle =
-      FlutterIconData.materialCommunityIcons(64642);
+      IconData(64642, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_4_circle_outline =
-      FlutterIconData.materialCommunityIcons(64643);
-  static const IconData numeric_5 = FlutterIconData.materialCommunityIcons(53);
+      IconData(64643, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_5 = IconData(53, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_5_box =
-      FlutterIconData.materialCommunityIcons(62384);
+      IconData(62384, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_5_box_multiple =
-      FlutterIconData.materialCommunityIcons(65328);
+      IconData(65328, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_5_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62385);
+      IconData(62385, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_5_box_outline =
-      FlutterIconData.materialCommunityIcons(62386);
+      IconData(62386, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_5_circle =
-      FlutterIconData.materialCommunityIcons(64644);
+      IconData(64644, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_5_circle_outline =
-      FlutterIconData.materialCommunityIcons(64645);
-  static const IconData numeric_6 = FlutterIconData.materialCommunityIcons(54);
+      IconData(64645, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_6 = IconData(54, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_6_box =
-      FlutterIconData.materialCommunityIcons(62387);
+      IconData(62387, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_6_box_multiple =
-      FlutterIconData.materialCommunityIcons(65329);
+      IconData(65329, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_6_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62388);
+      IconData(62388, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_6_box_outline =
-      FlutterIconData.materialCommunityIcons(62389);
+      IconData(62389, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_6_circle =
-      FlutterIconData.materialCommunityIcons(64646);
+      IconData(64646, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_6_circle_outline =
-      FlutterIconData.materialCommunityIcons(64647);
-  static const IconData numeric_7 = FlutterIconData.materialCommunityIcons(55);
+      IconData(64647, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_7 = IconData(55, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_7_box =
-      FlutterIconData.materialCommunityIcons(62390);
+      IconData(62390, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_7_box_multiple =
-      FlutterIconData.materialCommunityIcons(65330);
+      IconData(65330, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_7_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62391);
+      IconData(62391, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_7_box_outline =
-      FlutterIconData.materialCommunityIcons(62392);
+      IconData(62392, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_7_circle =
-      FlutterIconData.materialCommunityIcons(64648);
+      IconData(64648, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_7_circle_outline =
-      FlutterIconData.materialCommunityIcons(64649);
-  static const IconData numeric_8 = FlutterIconData.materialCommunityIcons(56);
+      IconData(64649, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_8 = IconData(56, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_8_box =
-      FlutterIconData.materialCommunityIcons(62393);
+      IconData(62393, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_8_box_multiple =
-      FlutterIconData.materialCommunityIcons(65331);
+      IconData(65331, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_8_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62394);
+      IconData(62394, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_8_box_outline =
-      FlutterIconData.materialCommunityIcons(62395);
+      IconData(62395, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_8_circle =
-      FlutterIconData.materialCommunityIcons(64650);
+      IconData(64650, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_8_circle_outline =
-      FlutterIconData.materialCommunityIcons(64651);
-  static const IconData numeric_9 = FlutterIconData.materialCommunityIcons(57);
+      IconData(64651, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData numeric_9 = IconData(57, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_box =
-      FlutterIconData.materialCommunityIcons(62396);
+      IconData(62396, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_box_multiple =
-      FlutterIconData.materialCommunityIcons(65332);
+      IconData(65332, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62397);
+      IconData(62397, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_box_outline =
-      FlutterIconData.materialCommunityIcons(62398);
+      IconData(62398, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_circle =
-      FlutterIconData.materialCommunityIcons(64652);
+      IconData(64652, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_circle_outline =
-      FlutterIconData.materialCommunityIcons(64653);
+      IconData(64653, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_plus =
-      FlutterIconData.materialCommunityIcons(983055);
+      IconData(983055, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_plus_box =
-      FlutterIconData.materialCommunityIcons(62399);
+      IconData(62399, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_plus_box_multiple =
-      FlutterIconData.materialCommunityIcons(65333);
+      IconData(65333, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_plus_box_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62400);
+      IconData(62400, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_plus_box_outline =
-      FlutterIconData.materialCommunityIcons(62401);
+      IconData(62401, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_plus_circle =
-      FlutterIconData.materialCommunityIcons(64654);
+      IconData(64654, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData numeric_9_plus_circle_outline =
-      FlutterIconData.materialCommunityIcons(64655);
-  static const IconData nut = FlutterIconData.materialCommunityIcons(63223);
+      IconData(64655, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData nut = IconData(63223, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData nutrition =
-      FlutterIconData.materialCommunityIcons(62402);
-  static const IconData oar = FlutterIconData.materialCommunityIcons(63099);
-  static const IconData ocarina = FlutterIconData.materialCommunityIcons(64956);
-  static const IconData octagon = FlutterIconData.materialCommunityIcons(62403);
+      IconData(62402, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData oar = IconData(63099, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ocarina = IconData(64956, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData octagon = IconData(62403, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData octagon_outline =
-      FlutterIconData.materialCommunityIcons(62404);
+      IconData(62404, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData octagram =
-      FlutterIconData.materialCommunityIcons(63224);
+      IconData(63224, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData octagram_outline =
-      FlutterIconData.materialCommunityIcons(63348);
+      IconData(63348, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData odnoklassniki =
-      FlutterIconData.materialCommunityIcons(62405);
-  static const IconData office = FlutterIconData.materialCommunityIcons(62406);
+      IconData(62405, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData office = IconData(62406, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData office_building =
-      FlutterIconData.materialCommunityIcons(63888);
-  static const IconData oil = FlutterIconData.materialCommunityIcons(62407);
+      IconData(63888, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData oil = IconData(62407, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData oil_lamp =
-      FlutterIconData.materialCommunityIcons(65334);
+      IconData(65334, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData oil_temperature =
-      FlutterIconData.materialCommunityIcons(983065);
-  static const IconData omega = FlutterIconData.materialCommunityIcons(62409);
-  static const IconData one_up = FlutterIconData.materialCommunityIcons(64393);
+      IconData(983065, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData omega = IconData(62409, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData one_up = IconData(64393, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData onedrive =
-      FlutterIconData.materialCommunityIcons(62410);
-  static const IconData onenote = FlutterIconData.materialCommunityIcons(63302);
+      IconData(62410, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData onenote = IconData(63302, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData onepassword =
-      FlutterIconData.materialCommunityIcons(63616);
-  static const IconData opacity = FlutterIconData.materialCommunityIcons(62924);
+      IconData(63616, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData opacity = IconData(62924, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData open_in_app =
-      FlutterIconData.materialCommunityIcons(62411);
+      IconData(62411, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData open_in_new =
-      FlutterIconData.materialCommunityIcons(62412);
+      IconData(62412, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData open_source_initiative =
-      FlutterIconData.materialCommunityIcons(64394);
-  static const IconData openid = FlutterIconData.materialCommunityIcons(62413);
-  static const IconData opera = FlutterIconData.materialCommunityIcons(62414);
-  static const IconData orbit = FlutterIconData.materialCommunityIcons(61464);
-  static const IconData origin = FlutterIconData.materialCommunityIcons(64299);
+      IconData(64394, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData openid = IconData(62413, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData opera = IconData(62414, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData orbit = IconData(61464, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData origin = IconData(64299, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ornament =
-      FlutterIconData.materialCommunityIcons(62415);
+      IconData(62415, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ornament_variant =
-      FlutterIconData.materialCommunityIcons(62416);
-  static const IconData outlook = FlutterIconData.materialCommunityIcons(64766);
+      IconData(62416, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData outlook = IconData(64766, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData overscan =
-      FlutterIconData.materialCommunityIcons(983079);
-  static const IconData owl = FlutterIconData.materialCommunityIcons(62418);
-  static const IconData pac_man = FlutterIconData.materialCommunityIcons(64395);
-  static const IconData package = FlutterIconData.materialCommunityIcons(62419);
+      IconData(983079, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData owl = IconData(62418, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pac_man = IconData(64395, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData package = IconData(62419, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData package_down =
-      FlutterIconData.materialCommunityIcons(62420);
+      IconData(62420, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData package_up =
-      FlutterIconData.materialCommunityIcons(62421);
+      IconData(62421, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData package_variant =
-      FlutterIconData.materialCommunityIcons(62422);
+      IconData(62422, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData package_variant_closed =
-      FlutterIconData.materialCommunityIcons(62423);
+      IconData(62423, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_first =
-      FlutterIconData.materialCommunityIcons(62976);
+      IconData(62976, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_last =
-      FlutterIconData.materialCommunityIcons(62977);
+      IconData(62977, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_layout_body =
-      FlutterIconData.materialCommunityIcons(63225);
+      IconData(63225, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_layout_footer =
-      FlutterIconData.materialCommunityIcons(63226);
+      IconData(63226, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_layout_header =
-      FlutterIconData.materialCommunityIcons(63227);
+      IconData(63227, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_layout_header_footer =
-      FlutterIconData.materialCommunityIcons(65436);
+      IconData(65436, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_layout_sidebar_left =
-      FlutterIconData.materialCommunityIcons(63228);
+      IconData(63228, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_layout_sidebar_right =
-      FlutterIconData.materialCommunityIcons(63229);
+      IconData(63229, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_next =
-      FlutterIconData.materialCommunityIcons(64396);
+      IconData(64396, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_next_outline =
-      FlutterIconData.materialCommunityIcons(64397);
+      IconData(64397, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_previous =
-      FlutterIconData.materialCommunityIcons(64398);
+      IconData(64398, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData page_previous_outline =
-      FlutterIconData.materialCommunityIcons(64399);
-  static const IconData palette = FlutterIconData.materialCommunityIcons(62424);
+      IconData(64399, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData palette = IconData(62424, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData palette_advanced =
-      FlutterIconData.materialCommunityIcons(62425);
+      IconData(62425, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData palette_outline =
-      FlutterIconData.materialCommunityIcons(65132);
+      IconData(65132, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData palette_swatch =
-      FlutterIconData.materialCommunityIcons(63668);
-  static const IconData pan = FlutterIconData.materialCommunityIcons(64400);
+      IconData(63668, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pan = IconData(64400, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_bottom_left =
-      FlutterIconData.materialCommunityIcons(64401);
+      IconData(64401, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_bottom_right =
-      FlutterIconData.materialCommunityIcons(64402);
+      IconData(64402, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_down =
-      FlutterIconData.materialCommunityIcons(64403);
+      IconData(64403, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_horizontal =
-      FlutterIconData.materialCommunityIcons(64404);
+      IconData(64404, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_left =
-      FlutterIconData.materialCommunityIcons(64405);
+      IconData(64405, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_right =
-      FlutterIconData.materialCommunityIcons(64406);
+      IconData(64406, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_top_left =
-      FlutterIconData.materialCommunityIcons(64407);
+      IconData(64407, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_top_right =
-      FlutterIconData.materialCommunityIcons(64408);
-  static const IconData pan_up = FlutterIconData.materialCommunityIcons(64409);
+      IconData(64408, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pan_up = IconData(64409, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pan_vertical =
-      FlutterIconData.materialCommunityIcons(64410);
-  static const IconData panda = FlutterIconData.materialCommunityIcons(62426);
-  static const IconData pandora = FlutterIconData.materialCommunityIcons(62427);
+      IconData(64410, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData panda = IconData(62426, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pandora = IconData(62427, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData panorama =
-      FlutterIconData.materialCommunityIcons(62428);
+      IconData(62428, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData panorama_fisheye =
-      FlutterIconData.materialCommunityIcons(62429);
+      IconData(62429, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData panorama_horizontal =
-      FlutterIconData.materialCommunityIcons(62430);
+      IconData(62430, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData panorama_vertical =
-      FlutterIconData.materialCommunityIcons(62431);
+      IconData(62431, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData panorama_wide_angle =
-      FlutterIconData.materialCommunityIcons(62432);
+      IconData(62432, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData paper_cut_vertical =
-      FlutterIconData.materialCommunityIcons(62433);
+      IconData(62433, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData paperclip =
-      FlutterIconData.materialCommunityIcons(62434);
+      IconData(62434, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData parachute =
-      FlutterIconData.materialCommunityIcons(64656);
+      IconData(64656, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData parachute_outline =
-      FlutterIconData.materialCommunityIcons(64657);
-  static const IconData parking = FlutterIconData.materialCommunityIcons(62435);
+      IconData(64657, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData parking = IconData(62435, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData passport =
-      FlutterIconData.materialCommunityIcons(63458);
+      IconData(63458, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData passport_biometric =
-      FlutterIconData.materialCommunityIcons(64957);
+      IconData(64957, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData patio_heater =
-      FlutterIconData.materialCommunityIcons(65437);
-  static const IconData patreon = FlutterIconData.materialCommunityIcons(63617);
-  static const IconData pause = FlutterIconData.materialCommunityIcons(62436);
+      IconData(65437, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData patreon = IconData(63617, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pause = IconData(62436, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pause_circle =
-      FlutterIconData.materialCommunityIcons(62437);
+      IconData(62437, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pause_circle_outline =
-      FlutterIconData.materialCommunityIcons(62438);
+      IconData(62438, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pause_octagon =
-      FlutterIconData.materialCommunityIcons(62439);
+      IconData(62439, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pause_octagon_outline =
-      FlutterIconData.materialCommunityIcons(62440);
-  static const IconData paw = FlutterIconData.materialCommunityIcons(62441);
-  static const IconData paw_off = FlutterIconData.materialCommunityIcons(63063);
-  static const IconData paypal = FlutterIconData.materialCommunityIcons(63618);
-  static const IconData pdf_box = FlutterIconData.materialCommunityIcons(65081);
-  static const IconData peace = FlutterIconData.materialCommunityIcons(63619);
-  static const IconData peanut = FlutterIconData.materialCommunityIcons(983070);
+      IconData(62440, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData paw = IconData(62441, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData paw_off = IconData(63063, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData paypal = IconData(63618, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pdf_box = IconData(65081, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData peace = IconData(63619, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData peanut = IconData(983070, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData peanut_off =
-      FlutterIconData.materialCommunityIcons(983071);
+      IconData(983071, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData peanut_off_outline =
-      FlutterIconData.materialCommunityIcons(983073);
+      IconData(983073, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData peanut_outline =
-      FlutterIconData.materialCommunityIcons(983072);
-  static const IconData pen = FlutterIconData.materialCommunityIcons(62442);
+      IconData(983072, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pen = IconData(62442, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pen_lock =
-      FlutterIconData.materialCommunityIcons(64958);
+      IconData(64958, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pen_minus =
-      FlutterIconData.materialCommunityIcons(64959);
-  static const IconData pen_off = FlutterIconData.materialCommunityIcons(64960);
+      IconData(64959, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pen_off = IconData(64960, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pen_plus =
-      FlutterIconData.materialCommunityIcons(64961);
+      IconData(64961, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pen_remove =
-      FlutterIconData.materialCommunityIcons(64962);
-  static const IconData pencil = FlutterIconData.materialCommunityIcons(62443);
+      IconData(64962, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pencil = IconData(62443, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_box =
-      FlutterIconData.materialCommunityIcons(62444);
+      IconData(62444, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_box_outline =
-      FlutterIconData.materialCommunityIcons(62445);
+      IconData(62445, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_circle =
-      FlutterIconData.materialCommunityIcons(63230);
+      IconData(63230, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_circle_outline =
-      FlutterIconData.materialCommunityIcons(63349);
+      IconData(63349, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_lock =
-      FlutterIconData.materialCommunityIcons(62446);
+      IconData(62446, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_lock_outline =
-      FlutterIconData.materialCommunityIcons(64963);
+      IconData(64963, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_minus =
-      FlutterIconData.materialCommunityIcons(64964);
+      IconData(64964, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_minus_outline =
-      FlutterIconData.materialCommunityIcons(64965);
+      IconData(64965, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_off =
-      FlutterIconData.materialCommunityIcons(62447);
+      IconData(62447, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_off_outline =
-      FlutterIconData.materialCommunityIcons(64966);
+      IconData(64966, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_outline =
-      FlutterIconData.materialCommunityIcons(64658);
+      IconData(64658, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_plus =
-      FlutterIconData.materialCommunityIcons(64967);
+      IconData(64967, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_plus_outline =
-      FlutterIconData.materialCommunityIcons(64968);
+      IconData(64968, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_remove =
-      FlutterIconData.materialCommunityIcons(64969);
+      IconData(64969, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pencil_remove_outline =
-      FlutterIconData.materialCommunityIcons(64970);
-  static const IconData penguin = FlutterIconData.materialCommunityIcons(65245);
+      IconData(64970, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData penguin = IconData(65245, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pentagon =
-      FlutterIconData.materialCommunityIcons(63231);
+      IconData(63231, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pentagon_outline =
-      FlutterIconData.materialCommunityIcons(63232);
-  static const IconData percent = FlutterIconData.materialCommunityIcons(62448);
+      IconData(63232, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData percent = IconData(62448, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData periodic_table =
-      FlutterIconData.materialCommunityIcons(63669);
+      IconData(63669, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData periodic_table_co2 =
-      FlutterIconData.materialCommunityIcons(63459);
+      IconData(63459, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData periscope =
-      FlutterIconData.materialCommunityIcons(63303);
+      IconData(63303, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData perspective_less =
-      FlutterIconData.materialCommunityIcons(64767);
+      IconData(64767, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData perspective_more =
-      FlutterIconData.materialCommunityIcons(64768);
+      IconData(64768, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pharmacy =
-      FlutterIconData.materialCommunityIcons(62449);
-  static const IconData phone = FlutterIconData.materialCommunityIcons(62450);
+      IconData(62449, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData phone = IconData(62450, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_alert =
-      FlutterIconData.materialCommunityIcons(65335);
+      IconData(65335, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_bluetooth =
-      FlutterIconData.materialCommunityIcons(62451);
+      IconData(62451, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_classic =
-      FlutterIconData.materialCommunityIcons(62978);
+      IconData(62978, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_forward =
-      FlutterIconData.materialCommunityIcons(62452);
+      IconData(62452, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_hangup =
-      FlutterIconData.materialCommunityIcons(62453);
+      IconData(62453, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_in_talk =
-      FlutterIconData.materialCommunityIcons(62454);
+      IconData(62454, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_incoming =
-      FlutterIconData.materialCommunityIcons(62455);
+      IconData(62455, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_lock =
-      FlutterIconData.materialCommunityIcons(62456);
+      IconData(62456, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_log =
-      FlutterIconData.materialCommunityIcons(62457);
+      IconData(62457, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_minus =
-      FlutterIconData.materialCommunityIcons(63064);
+      IconData(63064, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_missed =
-      FlutterIconData.materialCommunityIcons(62458);
+      IconData(62458, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_off =
-      FlutterIconData.materialCommunityIcons(64971);
+      IconData(64971, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_outgoing =
-      FlutterIconData.materialCommunityIcons(62459);
+      IconData(62459, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_outline =
-      FlutterIconData.materialCommunityIcons(64972);
+      IconData(64972, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_paused =
-      FlutterIconData.materialCommunityIcons(62460);
+      IconData(62460, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_plus =
-      FlutterIconData.materialCommunityIcons(63065);
+      IconData(63065, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_return =
-      FlutterIconData.materialCommunityIcons(63534);
+      IconData(63534, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_rotate_landscape =
-      FlutterIconData.materialCommunityIcons(63620);
+      IconData(63620, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_rotate_portrait =
-      FlutterIconData.materialCommunityIcons(63621);
+      IconData(63621, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_settings =
-      FlutterIconData.materialCommunityIcons(62461);
+      IconData(62461, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData phone_voip =
-      FlutterIconData.materialCommunityIcons(62462);
-  static const IconData pi = FlutterIconData.materialCommunityIcons(62463);
-  static const IconData pi_box = FlutterIconData.materialCommunityIcons(62464);
-  static const IconData pi_hole = FlutterIconData.materialCommunityIcons(64973);
-  static const IconData piano = FlutterIconData.materialCommunityIcons(63100);
-  static const IconData pickaxe = FlutterIconData.materialCommunityIcons(63670);
+      IconData(62462, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pi = IconData(62463, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pi_box = IconData(62464, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pi_hole = IconData(64973, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData piano = IconData(63100, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pickaxe = IconData(63670, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData picture_in_picture_bottom_right =
-      FlutterIconData.materialCommunityIcons(65082);
+      IconData(65082, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData picture_in_picture_bottom_right_outline =
-      FlutterIconData.materialCommunityIcons(65083);
+      IconData(65083, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData picture_in_picture_top_right =
-      FlutterIconData.materialCommunityIcons(65084);
+      IconData(65084, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData picture_in_picture_top_right_outline =
-      FlutterIconData.materialCommunityIcons(65085);
-  static const IconData pier = FlutterIconData.materialCommunityIcons(63622);
+      IconData(65085, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pier = IconData(63622, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pier_crane =
-      FlutterIconData.materialCommunityIcons(63623);
-  static const IconData pig = FlutterIconData.materialCommunityIcons(62465);
+      IconData(63623, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pig = IconData(62465, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pig_variant =
-      FlutterIconData.materialCommunityIcons(983080);
+      IconData(983080, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData piggy_bank =
-      FlutterIconData.materialCommunityIcons(983081);
-  static const IconData pill = FlutterIconData.materialCommunityIcons(62466);
-  static const IconData pillar = FlutterIconData.materialCommunityIcons(63233);
-  static const IconData pin = FlutterIconData.materialCommunityIcons(62467);
-  static const IconData pin_off = FlutterIconData.materialCommunityIcons(62468);
+      IconData(983081, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pill = IconData(62466, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pillar = IconData(63233, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pin = IconData(62467, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pin_off = IconData(62468, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pin_off_outline =
-      FlutterIconData.materialCommunityIcons(63791);
+      IconData(63791, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pin_outline =
-      FlutterIconData.materialCommunityIcons(63792);
+      IconData(63792, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pine_tree =
-      FlutterIconData.materialCommunityIcons(62469);
+      IconData(62469, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pine_tree_box =
-      FlutterIconData.materialCommunityIcons(62470);
+      IconData(62470, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pinterest =
-      FlutterIconData.materialCommunityIcons(62471);
+      IconData(62471, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pinterest_box =
-      FlutterIconData.materialCommunityIcons(62472);
+      IconData(62472, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pinwheel =
-      FlutterIconData.materialCommunityIcons(64212);
+      IconData(64212, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pinwheel_outline =
-      FlutterIconData.materialCommunityIcons(64213);
-  static const IconData pipe = FlutterIconData.materialCommunityIcons(63460);
+      IconData(64213, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pipe = IconData(63460, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pipe_disconnected =
-      FlutterIconData.materialCommunityIcons(63461);
+      IconData(63461, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pipe_leak =
-      FlutterIconData.materialCommunityIcons(63624);
-  static const IconData pirate = FlutterIconData.materialCommunityIcons(64007);
-  static const IconData pistol = FlutterIconData.materialCommunityIcons(63234);
-  static const IconData piston = FlutterIconData.materialCommunityIcons(63625);
-  static const IconData pizza = FlutterIconData.materialCommunityIcons(62473);
-  static const IconData play = FlutterIconData.materialCommunityIcons(62474);
+      IconData(63624, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pirate = IconData(64007, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pistol = IconData(63234, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData piston = IconData(63625, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pizza = IconData(62473, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData play = IconData(62474, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_box_outline =
-      FlutterIconData.materialCommunityIcons(62475);
+      IconData(62475, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_circle =
-      FlutterIconData.materialCommunityIcons(62476);
+      IconData(62476, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_circle_outline =
-      FlutterIconData.materialCommunityIcons(62477);
+      IconData(62477, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_network =
-      FlutterIconData.materialCommunityIcons(63626);
+      IconData(63626, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_network_outline =
-      FlutterIconData.materialCommunityIcons(64659);
+      IconData(64659, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_outline =
-      FlutterIconData.materialCommunityIcons(65336);
+      IconData(65336, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_pause =
-      FlutterIconData.materialCommunityIcons(62478);
+      IconData(62478, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_protected_content =
-      FlutterIconData.materialCommunityIcons(62479);
+      IconData(62479, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData play_speed =
-      FlutterIconData.materialCommunityIcons(63742);
+      IconData(63742, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_check =
-      FlutterIconData.materialCommunityIcons(62919);
+      IconData(62919, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_edit =
-      FlutterIconData.materialCommunityIcons(63743);
+      IconData(63743, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_minus =
-      FlutterIconData.materialCommunityIcons(62480);
+      IconData(62480, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_music =
-      FlutterIconData.materialCommunityIcons(64660);
+      IconData(64660, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_music_outline =
-      FlutterIconData.materialCommunityIcons(64661);
+      IconData(64661, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_play =
-      FlutterIconData.materialCommunityIcons(62481);
+      IconData(62481, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_plus =
-      FlutterIconData.materialCommunityIcons(62482);
+      IconData(62482, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_remove =
-      FlutterIconData.materialCommunityIcons(62483);
+      IconData(62483, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playlist_star =
-      FlutterIconData.materialCommunityIcons(64974);
+      IconData(64974, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData playstation =
-      FlutterIconData.materialCommunityIcons(62484);
-  static const IconData plex = FlutterIconData.materialCommunityIcons(63161);
-  static const IconData plus = FlutterIconData.materialCommunityIcons(62485);
+      IconData(62484, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData plex = IconData(63161, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData plus = IconData(62485, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_box =
-      FlutterIconData.materialCommunityIcons(62486);
+      IconData(62486, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_box_outline =
-      FlutterIconData.materialCommunityIcons(63235);
+      IconData(63235, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_circle =
-      FlutterIconData.materialCommunityIcons(62487);
+      IconData(62487, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_circle_multiple_outline =
-      FlutterIconData.materialCommunityIcons(62488);
+      IconData(62488, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_circle_outline =
-      FlutterIconData.materialCommunityIcons(62489);
+      IconData(62489, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_minus =
-      FlutterIconData.materialCommunityIcons(63889);
+      IconData(63889, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_minus_box =
-      FlutterIconData.materialCommunityIcons(63890);
+      IconData(63890, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_network =
-      FlutterIconData.materialCommunityIcons(62490);
+      IconData(62490, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_network_outline =
-      FlutterIconData.materialCommunityIcons(64662);
+      IconData(64662, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_one =
-      FlutterIconData.materialCommunityIcons(62491);
+      IconData(62491, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData plus_outline =
-      FlutterIconData.materialCommunityIcons(63236);
-  static const IconData pocket = FlutterIconData.materialCommunityIcons(62492);
-  static const IconData podcast = FlutterIconData.materialCommunityIcons(63891);
-  static const IconData podium = FlutterIconData.materialCommunityIcons(64769);
+      IconData(63236, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pocket = IconData(62492, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData podcast = IconData(63891, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData podium = IconData(64769, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData podium_bronze =
-      FlutterIconData.materialCommunityIcons(64770);
+      IconData(64770, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData podium_gold =
-      FlutterIconData.materialCommunityIcons(64771);
+      IconData(64771, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData podium_silver =
-      FlutterIconData.materialCommunityIcons(64772);
+      IconData(64772, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData point_of_sale =
-      FlutterIconData.materialCommunityIcons(64878);
+      IconData(64878, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pokeball =
-      FlutterIconData.materialCommunityIcons(62493);
+      IconData(62493, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pokemon_go =
-      FlutterIconData.materialCommunityIcons(64008);
+      IconData(64008, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData poker_chip =
-      FlutterIconData.materialCommunityIcons(63535);
+      IconData(63535, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData polaroid =
-      FlutterIconData.materialCommunityIcons(62494);
-  static const IconData poll = FlutterIconData.materialCommunityIcons(62495);
+      IconData(62494, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData poll = IconData(62495, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData poll_box =
-      FlutterIconData.materialCommunityIcons(62496);
-  static const IconData polymer = FlutterIconData.materialCommunityIcons(62497);
-  static const IconData pool = FlutterIconData.materialCommunityIcons(62982);
-  static const IconData popcorn = FlutterIconData.materialCommunityIcons(62498);
-  static const IconData post = FlutterIconData.materialCommunityIcons(983082);
+      IconData(62496, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData polymer = IconData(62497, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pool = IconData(62982, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData popcorn = IconData(62498, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData post = IconData(983082, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData post_outline =
-      FlutterIconData.materialCommunityIcons(983083);
+      IconData(983083, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData postage_stamp =
-      FlutterIconData.materialCommunityIcons(64663);
-  static const IconData pot = FlutterIconData.materialCommunityIcons(63066);
-  static const IconData pot_mix = FlutterIconData.materialCommunityIcons(63067);
-  static const IconData pound = FlutterIconData.materialCommunityIcons(62499);
+      IconData(64663, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pot = IconData(63066, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pot_mix = IconData(63067, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pound = IconData(62499, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData pound_box =
-      FlutterIconData.materialCommunityIcons(62500);
-  static const IconData power = FlutterIconData.materialCommunityIcons(62501);
+      IconData(62500, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData power = IconData(62501, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_cycle =
-      FlutterIconData.materialCommunityIcons(63744);
+      IconData(63744, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_off =
-      FlutterIconData.materialCommunityIcons(63745);
+      IconData(63745, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_on =
-      FlutterIconData.materialCommunityIcons(63746);
+      IconData(63746, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_plug =
-      FlutterIconData.materialCommunityIcons(63140);
+      IconData(63140, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_plug_off =
-      FlutterIconData.materialCommunityIcons(63141);
+      IconData(63141, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_settings =
-      FlutterIconData.materialCommunityIcons(62502);
+      IconData(62502, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_sleep =
-      FlutterIconData.materialCommunityIcons(63747);
+      IconData(63747, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_socket =
-      FlutterIconData.materialCommunityIcons(62503);
+      IconData(62503, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_socket_au =
-      FlutterIconData.materialCommunityIcons(63748);
+      IconData(63748, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_socket_eu =
-      FlutterIconData.materialCommunityIcons(63462);
+      IconData(63462, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_socket_uk =
-      FlutterIconData.materialCommunityIcons(63463);
+      IconData(63463, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_socket_us =
-      FlutterIconData.materialCommunityIcons(63464);
+      IconData(63464, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData power_standby =
-      FlutterIconData.materialCommunityIcons(63749);
+      IconData(63749, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData powershell =
-      FlutterIconData.materialCommunityIcons(64009);
+      IconData(64009, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData prescription =
-      FlutterIconData.materialCommunityIcons(63237);
+      IconData(63237, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData presentation =
-      FlutterIconData.materialCommunityIcons(62504);
+      IconData(62504, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData presentation_play =
-      FlutterIconData.materialCommunityIcons(62505);
-  static const IconData printer = FlutterIconData.materialCommunityIcons(62506);
+      IconData(62505, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData printer = IconData(62506, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData printer_3d =
-      FlutterIconData.materialCommunityIcons(62507);
+      IconData(62507, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData printer_3d_nozzle =
-      FlutterIconData.materialCommunityIcons(65086);
+      IconData(65086, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData printer_3d_nozzle_outline =
-      FlutterIconData.materialCommunityIcons(65087);
+      IconData(65087, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData printer_alert =
-      FlutterIconData.materialCommunityIcons(62508);
+      IconData(62508, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData printer_off =
-      FlutterIconData.materialCommunityIcons(65088);
+      IconData(65088, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData printer_settings =
-      FlutterIconData.materialCommunityIcons(63238);
+      IconData(63238, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData printer_wireless =
-      FlutterIconData.materialCommunityIcons(64010);
+      IconData(64010, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData priority_high =
-      FlutterIconData.materialCommunityIcons(62979);
+      IconData(62979, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData priority_low =
-      FlutterIconData.materialCommunityIcons(62980);
+      IconData(62980, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData professional_hexagon =
-      FlutterIconData.materialCommunityIcons(62509);
+      IconData(62509, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData progress_alert =
-      FlutterIconData.materialCommunityIcons(64664);
+      IconData(64664, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData progress_check =
-      FlutterIconData.materialCommunityIcons(63892);
+      IconData(63892, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData progress_clock =
-      FlutterIconData.materialCommunityIcons(63893);
+      IconData(63893, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData progress_download =
-      FlutterIconData.materialCommunityIcons(63894);
+      IconData(63894, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData progress_upload =
-      FlutterIconData.materialCommunityIcons(63895);
+      IconData(63895, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData progress_wrench =
-      FlutterIconData.materialCommunityIcons(64665);
+      IconData(64665, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData projector =
-      FlutterIconData.materialCommunityIcons(62510);
+      IconData(62510, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData projector_screen =
-      FlutterIconData.materialCommunityIcons(62511);
+      IconData(62511, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData protocol =
-      FlutterIconData.materialCommunityIcons(65529);
-  static const IconData publish = FlutterIconData.materialCommunityIcons(63142);
-  static const IconData pulse = FlutterIconData.materialCommunityIcons(62512);
-  static const IconData pumpkin = FlutterIconData.materialCommunityIcons(64411);
-  static const IconData purse = FlutterIconData.materialCommunityIcons(65337);
+      IconData(65529, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData publish = IconData(63142, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pulse = IconData(62512, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData pumpkin = IconData(64411, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData purse = IconData(65337, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData purse_outline =
-      FlutterIconData.materialCommunityIcons(65338);
-  static const IconData puzzle = FlutterIconData.materialCommunityIcons(62513);
+      IconData(65338, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData puzzle = IconData(62513, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData puzzle_outline =
-      FlutterIconData.materialCommunityIcons(64101);
-  static const IconData qi = FlutterIconData.materialCommunityIcons(63896);
-  static const IconData qqchat = FlutterIconData.materialCommunityIcons(62981);
-  static const IconData qrcode = FlutterIconData.materialCommunityIcons(62514);
+      IconData(64101, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData qi = IconData(63896, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData qqchat = IconData(62981, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData qrcode = IconData(62514, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData qrcode_edit =
-      FlutterIconData.materialCommunityIcons(63671);
+      IconData(63671, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData qrcode_scan =
-      FlutterIconData.materialCommunityIcons(62515);
+      IconData(62515, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData quadcopter =
-      FlutterIconData.materialCommunityIcons(62516);
+      IconData(62516, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData quality_high =
-      FlutterIconData.materialCommunityIcons(62517);
+      IconData(62517, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData quality_low =
-      FlutterIconData.materialCommunityIcons(64011);
+      IconData(64011, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData quality_medium =
-      FlutterIconData.materialCommunityIcons(64012);
+      IconData(64012, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData quicktime =
-      FlutterIconData.materialCommunityIcons(62518);
-  static const IconData quora = FlutterIconData.materialCommunityIcons(64773);
-  static const IconData rabbit = FlutterIconData.materialCommunityIcons(63750);
+      IconData(62518, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData quora = IconData(64773, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rabbit = IconData(63750, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData racing_helmet =
-      FlutterIconData.materialCommunityIcons(64879);
+      IconData(64879, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData racquetball =
-      FlutterIconData.materialCommunityIcons(64880);
-  static const IconData radar = FlutterIconData.materialCommunityIcons(62519);
+      IconData(64880, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData radar = IconData(62519, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radiator =
-      FlutterIconData.materialCommunityIcons(62520);
+      IconData(62520, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radiator_disabled =
-      FlutterIconData.materialCommunityIcons(64214);
+      IconData(64214, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radiator_off =
-      FlutterIconData.materialCommunityIcons(64215);
-  static const IconData radio = FlutterIconData.materialCommunityIcons(62521);
+      IconData(64215, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData radio = IconData(62521, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radio_am =
-      FlutterIconData.materialCommunityIcons(64666);
+      IconData(64666, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radio_fm =
-      FlutterIconData.materialCommunityIcons(64667);
+      IconData(64667, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radio_handheld =
-      FlutterIconData.materialCommunityIcons(62522);
+      IconData(62522, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radio_tower =
-      FlutterIconData.materialCommunityIcons(62523);
+      IconData(62523, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radioactive =
-      FlutterIconData.materialCommunityIcons(62524);
+      IconData(62524, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radioactive_off =
-      FlutterIconData.materialCommunityIcons(65246);
+      IconData(65246, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radiobox_blank =
-      FlutterIconData.materialCommunityIcons(62525);
+      IconData(62525, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radiobox_marked =
-      FlutterIconData.materialCommunityIcons(62526);
-  static const IconData radius = FlutterIconData.materialCommunityIcons(64668);
+      IconData(62526, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData radius = IconData(64668, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData radius_outline =
-      FlutterIconData.materialCommunityIcons(64669);
+      IconData(64669, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData railroad_light =
-      FlutterIconData.materialCommunityIcons(65339);
+      IconData(65339, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData raspberry_pi =
-      FlutterIconData.materialCommunityIcons(62527);
-  static const IconData ray_end = FlutterIconData.materialCommunityIcons(62528);
+      IconData(62527, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ray_end = IconData(62528, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ray_end_arrow =
-      FlutterIconData.materialCommunityIcons(62529);
+      IconData(62529, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ray_start =
-      FlutterIconData.materialCommunityIcons(62530);
+      IconData(62530, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ray_start_arrow =
-      FlutterIconData.materialCommunityIcons(62531);
+      IconData(62531, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ray_start_end =
-      FlutterIconData.materialCommunityIcons(62532);
+      IconData(62532, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ray_vertex =
-      FlutterIconData.materialCommunityIcons(62533);
-  static const IconData react = FlutterIconData.materialCommunityIcons(63239);
-  static const IconData read = FlutterIconData.materialCommunityIcons(62535);
-  static const IconData receipt = FlutterIconData.materialCommunityIcons(62537);
-  static const IconData record = FlutterIconData.materialCommunityIcons(62538);
+      IconData(62533, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData react = IconData(63239, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData read = IconData(62535, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData receipt = IconData(62537, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData record = IconData(62538, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData record_circle =
-      FlutterIconData.materialCommunityIcons(65247);
+      IconData(65247, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData record_circle_outline =
-      FlutterIconData.materialCommunityIcons(65248);
+      IconData(65248, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData record_player =
-      FlutterIconData.materialCommunityIcons(63897);
+      IconData(63897, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData record_rec =
-      FlutterIconData.materialCommunityIcons(62539);
+      IconData(62539, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rectangle =
-      FlutterIconData.materialCommunityIcons(65089);
+      IconData(65089, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rectangle_outline =
-      FlutterIconData.materialCommunityIcons(65090);
-  static const IconData recycle = FlutterIconData.materialCommunityIcons(62540);
-  static const IconData reddit = FlutterIconData.materialCommunityIcons(62541);
-  static const IconData redo = FlutterIconData.materialCommunityIcons(62542);
+      IconData(65090, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData recycle = IconData(62540, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData reddit = IconData(62541, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData redo = IconData(62542, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData redo_variant =
-      FlutterIconData.materialCommunityIcons(62543);
+      IconData(62543, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reflect_horizontal =
-      FlutterIconData.materialCommunityIcons(64013);
+      IconData(64013, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reflect_vertical =
-      FlutterIconData.materialCommunityIcons(64014);
-  static const IconData refresh = FlutterIconData.materialCommunityIcons(62544);
-  static const IconData regex = FlutterIconData.materialCommunityIcons(62545);
+      IconData(64014, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData refresh = IconData(62544, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData regex = IconData(62545, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData registered_trademark =
-      FlutterIconData.materialCommunityIcons(64102);
+      IconData(64102, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData relative_scale =
-      FlutterIconData.materialCommunityIcons(62546);
-  static const IconData reload = FlutterIconData.materialCommunityIcons(62547);
+      IconData(62546, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData reload = IconData(62547, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reminder =
-      FlutterIconData.materialCommunityIcons(63627);
-  static const IconData remote = FlutterIconData.materialCommunityIcons(62548);
+      IconData(63627, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData remote = IconData(62548, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData remote_desktop =
-      FlutterIconData.materialCommunityIcons(63672);
+      IconData(63672, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData remote_off =
-      FlutterIconData.materialCommunityIcons(65249);
+      IconData(65249, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData remote_tv =
-      FlutterIconData.materialCommunityIcons(65250);
+      IconData(65250, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData remote_tv_off =
-      FlutterIconData.materialCommunityIcons(65251);
+      IconData(65251, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rename_box =
-      FlutterIconData.materialCommunityIcons(62549);
+      IconData(62549, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reorder_horizontal =
-      FlutterIconData.materialCommunityIcons(63111);
+      IconData(63111, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reorder_vertical =
-      FlutterIconData.materialCommunityIcons(63112);
-  static const IconData repeat = FlutterIconData.materialCommunityIcons(62550);
+      IconData(63112, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData repeat = IconData(62550, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData repeat_off =
-      FlutterIconData.materialCommunityIcons(62551);
+      IconData(62551, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData repeat_once =
-      FlutterIconData.materialCommunityIcons(62552);
-  static const IconData replay = FlutterIconData.materialCommunityIcons(62553);
-  static const IconData reply = FlutterIconData.materialCommunityIcons(62554);
+      IconData(62552, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData replay = IconData(62553, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData reply = IconData(62554, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reply_all =
-      FlutterIconData.materialCommunityIcons(62555);
+      IconData(62555, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reply_all_outline =
-      FlutterIconData.materialCommunityIcons(65340);
+      IconData(65340, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reply_outline =
-      FlutterIconData.materialCommunityIcons(65341);
+      IconData(65341, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData reproduction =
-      FlutterIconData.materialCommunityIcons(62556);
+      IconData(62556, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData resistor =
-      FlutterIconData.materialCommunityIcons(64287);
+      IconData(64287, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData resistor_nodes =
-      FlutterIconData.materialCommunityIcons(64288);
-  static const IconData resize = FlutterIconData.materialCommunityIcons(64103);
+      IconData(64288, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData resize = IconData(64103, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData resize_bottom_right =
-      FlutterIconData.materialCommunityIcons(62557);
+      IconData(62557, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData responsive =
-      FlutterIconData.materialCommunityIcons(62558);
-  static const IconData restart = FlutterIconData.materialCommunityIcons(63240);
+      IconData(62558, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData restart = IconData(63240, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData restart_off =
-      FlutterIconData.materialCommunityIcons(64881);
-  static const IconData restore = FlutterIconData.materialCommunityIcons(63898);
-  static const IconData rewind = FlutterIconData.materialCommunityIcons(62559);
+      IconData(64881, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData restore = IconData(63898, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rewind = IconData(62559, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rewind_10 =
-      FlutterIconData.materialCommunityIcons(64774);
+      IconData(64774, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rewind_30 =
-      FlutterIconData.materialCommunityIcons(64882);
+      IconData(64882, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rewind_outline =
-      FlutterIconData.materialCommunityIcons(63241);
-  static const IconData rhombus = FlutterIconData.materialCommunityIcons(63242);
+      IconData(63241, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rhombus = IconData(63242, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rhombus_medium =
-      FlutterIconData.materialCommunityIcons(64015);
+      IconData(64015, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rhombus_outline =
-      FlutterIconData.materialCommunityIcons(63243);
+      IconData(63243, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rhombus_split =
-      FlutterIconData.materialCommunityIcons(64016);
-  static const IconData ribbon = FlutterIconData.materialCommunityIcons(62560);
-  static const IconData rice = FlutterIconData.materialCommunityIcons(63465);
-  static const IconData ring = FlutterIconData.materialCommunityIcons(63466);
-  static const IconData rivet = FlutterIconData.materialCommunityIcons(65091);
-  static const IconData road = FlutterIconData.materialCommunityIcons(62561);
+      IconData(64016, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ribbon = IconData(62560, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rice = IconData(63465, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ring = IconData(63466, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rivet = IconData(65091, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData road = IconData(62561, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData road_variant =
-      FlutterIconData.materialCommunityIcons(62562);
-  static const IconData robot = FlutterIconData.materialCommunityIcons(63144);
+      IconData(62562, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData robot = IconData(63144, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData robot_industrial =
-      FlutterIconData.materialCommunityIcons(64289);
+      IconData(64289, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData robot_vacuum =
-      FlutterIconData.materialCommunityIcons(63244);
+      IconData(63244, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData robot_vacuum_variant =
-      FlutterIconData.materialCommunityIcons(63751);
-  static const IconData rocket = FlutterIconData.materialCommunityIcons(62563);
+      IconData(63751, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rocket = IconData(62563, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData roller_skate =
-      FlutterIconData.materialCommunityIcons(64775);
+      IconData(64775, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rollerblade =
-      FlutterIconData.materialCommunityIcons(64776);
+      IconData(64776, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rollupjs =
-      FlutterIconData.materialCommunityIcons(64412);
+      IconData(64412, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData room_service =
-      FlutterIconData.materialCommunityIcons(63628);
+      IconData(63628, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData room_service_outline =
-      FlutterIconData.materialCommunityIcons(64883);
+      IconData(64883, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rotate_3d =
-      FlutterIconData.materialCommunityIcons(65252);
+      IconData(65252, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rotate_3d_variant =
-      FlutterIconData.materialCommunityIcons(62564);
+      IconData(62564, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rotate_left =
-      FlutterIconData.materialCommunityIcons(62565);
+      IconData(62565, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rotate_left_variant =
-      FlutterIconData.materialCommunityIcons(62566);
+      IconData(62566, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rotate_orbit =
-      FlutterIconData.materialCommunityIcons(64884);
+      IconData(64884, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rotate_right =
-      FlutterIconData.materialCommunityIcons(62567);
+      IconData(62567, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rotate_right_variant =
-      FlutterIconData.materialCommunityIcons(62568);
+      IconData(62568, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData rounded_corner =
-      FlutterIconData.materialCommunityIcons(62983);
+      IconData(62983, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData router_wireless =
-      FlutterIconData.materialCommunityIcons(62569);
+      IconData(62569, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData router_wireless_settings =
-      FlutterIconData.materialCommunityIcons(64104);
-  static const IconData routes = FlutterIconData.materialCommunityIcons(62570);
-  static const IconData rowing = FlutterIconData.materialCommunityIcons(62984);
-  static const IconData rss = FlutterIconData.materialCommunityIcons(62571);
-  static const IconData rss_box = FlutterIconData.materialCommunityIcons(62572);
-  static const IconData rss_off = FlutterIconData.materialCommunityIcons(65342);
-  static const IconData ruby = FlutterIconData.materialCommunityIcons(64777);
-  static const IconData rugby = FlutterIconData.materialCommunityIcons(64885);
-  static const IconData ruler = FlutterIconData.materialCommunityIcons(62573);
+      IconData(64104, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData routes = IconData(62570, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rowing = IconData(62984, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rss = IconData(62571, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rss_box = IconData(62572, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rss_off = IconData(65342, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ruby = IconData(64777, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData rugby = IconData(64885, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ruler = IconData(62573, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ruler_square =
-      FlutterIconData.materialCommunityIcons(64670);
+      IconData(64670, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ruler_square_compass =
-      FlutterIconData.materialCommunityIcons(65243);
-  static const IconData run = FlutterIconData.materialCommunityIcons(63245);
+      IconData(65243, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData run = IconData(63245, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData run_fast =
-      FlutterIconData.materialCommunityIcons(62574);
-  static const IconData sack = FlutterIconData.materialCommunityIcons(64778);
+      IconData(62574, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sack = IconData(64778, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sack_percent =
-      FlutterIconData.materialCommunityIcons(64779);
-  static const IconData safe = FlutterIconData.materialCommunityIcons(64105);
+      IconData(64779, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData safe = IconData(64105, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData safety_goggles =
-      FlutterIconData.materialCommunityIcons(64780);
-  static const IconData sailing = FlutterIconData.materialCommunityIcons(65253);
-  static const IconData sale = FlutterIconData.materialCommunityIcons(62575);
+      IconData(64780, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sailing = IconData(65253, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sale = IconData(62575, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData salesforce =
-      FlutterIconData.materialCommunityIcons(63629);
-  static const IconData sass = FlutterIconData.materialCommunityIcons(63467);
+      IconData(63629, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sass = IconData(63467, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData satellite =
-      FlutterIconData.materialCommunityIcons(62576);
+      IconData(62576, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData satellite_uplink =
-      FlutterIconData.materialCommunityIcons(63752);
+      IconData(63752, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData satellite_variant =
-      FlutterIconData.materialCommunityIcons(62577);
-  static const IconData sausage = FlutterIconData.materialCommunityIcons(63673);
+      IconData(62577, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sausage = IconData(63673, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData saw_blade =
-      FlutterIconData.materialCommunityIcons(65092);
+      IconData(65092, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData saxophone =
-      FlutterIconData.materialCommunityIcons(62985);
-  static const IconData scale = FlutterIconData.materialCommunityIcons(62578);
+      IconData(62985, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData scale = IconData(62578, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData scale_balance =
-      FlutterIconData.materialCommunityIcons(62929);
+      IconData(62929, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData scale_bathroom =
-      FlutterIconData.materialCommunityIcons(62579);
-  static const IconData scanner = FlutterIconData.materialCommunityIcons(63146);
+      IconData(62579, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData scanner = IconData(63146, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData scanner_off =
-      FlutterIconData.materialCommunityIcons(63753);
+      IconData(63753, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData scatter_plot =
-      FlutterIconData.materialCommunityIcons(65254);
+      IconData(65254, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData scatter_plot_outline =
-      FlutterIconData.materialCommunityIcons(65255);
-  static const IconData school = FlutterIconData.materialCommunityIcons(62580);
+      IconData(65255, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData school = IconData(62580, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData scissors_cutting =
-      FlutterIconData.materialCommunityIcons(64106);
+      IconData(64106, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData screen_rotation =
-      FlutterIconData.materialCommunityIcons(62581);
+      IconData(62581, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData screen_rotation_lock =
-      FlutterIconData.materialCommunityIcons(62582);
+      IconData(62582, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData screw_flat_top =
-      FlutterIconData.materialCommunityIcons(64975);
+      IconData(64975, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData screw_lag =
-      FlutterIconData.materialCommunityIcons(65108);
+      IconData(65108, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData screw_machine_flat_top =
-      FlutterIconData.materialCommunityIcons(65109);
+      IconData(65109, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData screw_machine_round_top =
-      FlutterIconData.materialCommunityIcons(65110);
+      IconData(65110, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData screw_round_top =
-      FlutterIconData.materialCommunityIcons(65111);
+      IconData(65111, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData screwdriver =
-      FlutterIconData.materialCommunityIcons(62583);
-  static const IconData script = FlutterIconData.materialCommunityIcons(64413);
+      IconData(62583, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData script = IconData(64413, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData script_outline =
-      FlutterIconData.materialCommunityIcons(62584);
+      IconData(62584, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData script_text =
-      FlutterIconData.materialCommunityIcons(64414);
+      IconData(64414, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData script_text_outline =
-      FlutterIconData.materialCommunityIcons(64415);
-  static const IconData sd = FlutterIconData.materialCommunityIcons(62585);
-  static const IconData seal = FlutterIconData.materialCommunityIcons(62586);
+      IconData(64415, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sd = IconData(62585, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData seal = IconData(62586, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seal_variant =
-      FlutterIconData.materialCommunityIcons(65530);
+      IconData(65530, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData search_web =
-      FlutterIconData.materialCommunityIcons(63246);
-  static const IconData seat = FlutterIconData.materialCommunityIcons(64671);
+      IconData(63246, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData seat = IconData(64671, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_flat =
-      FlutterIconData.materialCommunityIcons(62587);
+      IconData(62587, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_flat_angled =
-      FlutterIconData.materialCommunityIcons(62588);
+      IconData(62588, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_individual_suite =
-      FlutterIconData.materialCommunityIcons(62589);
+      IconData(62589, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_legroom_extra =
-      FlutterIconData.materialCommunityIcons(62590);
+      IconData(62590, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_legroom_normal =
-      FlutterIconData.materialCommunityIcons(62591);
+      IconData(62591, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_legroom_reduced =
-      FlutterIconData.materialCommunityIcons(62592);
+      IconData(62592, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_outline =
-      FlutterIconData.materialCommunityIcons(64672);
+      IconData(64672, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_recline_extra =
-      FlutterIconData.materialCommunityIcons(62593);
+      IconData(62593, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seat_recline_normal =
-      FlutterIconData.materialCommunityIcons(62594);
+      IconData(62594, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seatbelt =
-      FlutterIconData.materialCommunityIcons(64673);
+      IconData(64673, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData security =
-      FlutterIconData.materialCommunityIcons(62595);
+      IconData(62595, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData security_network =
-      FlutterIconData.materialCommunityIcons(62596);
-  static const IconData seed = FlutterIconData.materialCommunityIcons(65093);
+      IconData(62596, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData seed = IconData(65093, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData seed_outline =
-      FlutterIconData.materialCommunityIcons(65094);
-  static const IconData segment = FlutterIconData.materialCommunityIcons(65256);
-  static const IconData select = FlutterIconData.materialCommunityIcons(62597);
+      IconData(65094, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData segment = IconData(65256, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData select = IconData(62597, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData select_all =
-      FlutterIconData.materialCommunityIcons(62598);
+      IconData(62598, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData select_color =
-      FlutterIconData.materialCommunityIcons(64781);
+      IconData(64781, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData select_compare =
-      FlutterIconData.materialCommunityIcons(64216);
+      IconData(64216, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData select_drag =
-      FlutterIconData.materialCommunityIcons(64107);
+      IconData(64107, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData select_group =
-      FlutterIconData.materialCommunityIcons(65439);
+      IconData(65439, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData select_inverse =
-      FlutterIconData.materialCommunityIcons(62599);
+      IconData(62599, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData select_off =
-      FlutterIconData.materialCommunityIcons(62600);
+      IconData(62600, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData select_place =
-      FlutterIconData.materialCommunityIcons(65531);
+      IconData(65531, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData selection =
-      FlutterIconData.materialCommunityIcons(62601);
+      IconData(62601, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData selection_drag =
-      FlutterIconData.materialCommunityIcons(64108);
+      IconData(64108, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData selection_ellipse =
-      FlutterIconData.materialCommunityIcons(64782);
+      IconData(64782, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData selection_ellipse_arrow_inside =
-      FlutterIconData.materialCommunityIcons(65343);
+      IconData(65343, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData selection_off =
-      FlutterIconData.materialCommunityIcons(63350);
-  static const IconData send = FlutterIconData.materialCommunityIcons(62602);
+      IconData(63350, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData send = IconData(62602, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData send_circle =
-      FlutterIconData.materialCommunityIcons(65112);
+      IconData(65112, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData send_circle_outline =
-      FlutterIconData.materialCommunityIcons(65113);
+      IconData(65113, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData send_lock =
-      FlutterIconData.materialCommunityIcons(63468);
+      IconData(63468, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData serial_port =
-      FlutterIconData.materialCommunityIcons(63068);
-  static const IconData server = FlutterIconData.materialCommunityIcons(62603);
+      IconData(63068, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData server = IconData(62603, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData server_minus =
-      FlutterIconData.materialCommunityIcons(62604);
+      IconData(62604, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData server_network =
-      FlutterIconData.materialCommunityIcons(62605);
+      IconData(62605, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData server_network_off =
-      FlutterIconData.materialCommunityIcons(62606);
+      IconData(62606, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData server_off =
-      FlutterIconData.materialCommunityIcons(62607);
+      IconData(62607, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData server_plus =
-      FlutterIconData.materialCommunityIcons(62608);
+      IconData(62608, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData server_remove =
-      FlutterIconData.materialCommunityIcons(62609);
+      IconData(62609, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData server_security =
-      FlutterIconData.materialCommunityIcons(62610);
-  static const IconData set_all = FlutterIconData.materialCommunityIcons(63351);
+      IconData(62610, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData set_all = IconData(63351, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData set_center =
-      FlutterIconData.materialCommunityIcons(63352);
+      IconData(63352, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData set_center_right =
-      FlutterIconData.materialCommunityIcons(63353);
+      IconData(63353, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData set_left =
-      FlutterIconData.materialCommunityIcons(63354);
+      IconData(63354, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData set_left_center =
-      FlutterIconData.materialCommunityIcons(63355);
+      IconData(63355, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData set_left_right =
-      FlutterIconData.materialCommunityIcons(63356);
+      IconData(63356, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData set_none =
-      FlutterIconData.materialCommunityIcons(63357);
+      IconData(63357, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData set_right =
-      FlutterIconData.materialCommunityIcons(63358);
+      IconData(63358, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData set_top_box =
-      FlutterIconData.materialCommunityIcons(63902);
+      IconData(63902, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData settings =
-      FlutterIconData.materialCommunityIcons(62611);
+      IconData(62611, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData settings_box =
-      FlutterIconData.materialCommunityIcons(62612);
+      IconData(62612, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData settings_helper =
-      FlutterIconData.materialCommunityIcons(64109);
+      IconData(64109, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData settings_outline =
-      FlutterIconData.materialCommunityIcons(63674);
-  static const IconData shape = FlutterIconData.materialCommunityIcons(63536);
+      IconData(63674, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData shape = IconData(63536, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shape_circle_plus =
-      FlutterIconData.materialCommunityIcons(63069);
+      IconData(63069, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shape_outline =
-      FlutterIconData.materialCommunityIcons(63537);
+      IconData(63537, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shape_plus =
-      FlutterIconData.materialCommunityIcons(62613);
+      IconData(62613, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shape_polygon_plus =
-      FlutterIconData.materialCommunityIcons(63070);
+      IconData(63070, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shape_rectangle_plus =
-      FlutterIconData.materialCommunityIcons(63071);
+      IconData(63071, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shape_square_plus =
-      FlutterIconData.materialCommunityIcons(63072);
-  static const IconData share = FlutterIconData.materialCommunityIcons(62614);
+      IconData(63072, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData share = IconData(62614, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData share_off =
-      FlutterIconData.materialCommunityIcons(65344);
+      IconData(65344, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData share_off_outline =
-      FlutterIconData.materialCommunityIcons(65345);
+      IconData(65345, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData share_outline =
-      FlutterIconData.materialCommunityIcons(63793);
+      IconData(63793, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData share_variant =
-      FlutterIconData.materialCommunityIcons(62615);
-  static const IconData sheep = FlutterIconData.materialCommunityIcons(64674);
-  static const IconData shield = FlutterIconData.materialCommunityIcons(62616);
+      IconData(62615, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sheep = IconData(64674, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData shield = IconData(62616, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_account =
-      FlutterIconData.materialCommunityIcons(63630);
+      IconData(63630, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_account_outline =
-      FlutterIconData.materialCommunityIcons(64017);
+      IconData(64017, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_airplane =
-      FlutterIconData.materialCommunityIcons(63162);
+      IconData(63162, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_airplane_outline =
-      FlutterIconData.materialCommunityIcons(64675);
+      IconData(64675, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_alert =
-      FlutterIconData.materialCommunityIcons(65257);
+      IconData(65257, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_alert_outline =
-      FlutterIconData.materialCommunityIcons(65258);
+      IconData(65258, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_car =
-      FlutterIconData.materialCommunityIcons(65440);
+      IconData(65440, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_check =
-      FlutterIconData.materialCommunityIcons(62821);
+      IconData(62821, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_check_outline =
-      FlutterIconData.materialCommunityIcons(64676);
+      IconData(64676, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_cross =
-      FlutterIconData.materialCommunityIcons(64677);
+      IconData(64677, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_cross_outline =
-      FlutterIconData.materialCommunityIcons(64678);
+      IconData(64678, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_half_full =
-      FlutterIconData.materialCommunityIcons(63359);
+      IconData(63359, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_home =
-      FlutterIconData.materialCommunityIcons(63113);
+      IconData(63113, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_home_outline =
-      FlutterIconData.materialCommunityIcons(64679);
+      IconData(64679, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_key =
-      FlutterIconData.materialCommunityIcons(64416);
+      IconData(64416, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_key_outline =
-      FlutterIconData.materialCommunityIcons(64417);
+      IconData(64417, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_link_variant =
-      FlutterIconData.materialCommunityIcons(64783);
+      IconData(64783, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_link_variant_outline =
-      FlutterIconData.materialCommunityIcons(64784);
+      IconData(64784, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_lock =
-      FlutterIconData.materialCommunityIcons(63900);
+      IconData(63900, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_lock_outline =
-      FlutterIconData.materialCommunityIcons(64680);
+      IconData(64680, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_off =
-      FlutterIconData.materialCommunityIcons(63901);
+      IconData(63901, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_off_outline =
-      FlutterIconData.materialCommunityIcons(63899);
+      IconData(63899, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_outline =
-      FlutterIconData.materialCommunityIcons(62617);
+      IconData(62617, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_plus =
-      FlutterIconData.materialCommunityIcons(64217);
+      IconData(64217, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_plus_outline =
-      FlutterIconData.materialCommunityIcons(64218);
+      IconData(64218, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_remove =
-      FlutterIconData.materialCommunityIcons(64219);
+      IconData(64219, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_remove_outline =
-      FlutterIconData.materialCommunityIcons(64220);
+      IconData(64220, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shield_search =
-      FlutterIconData.materialCommunityIcons(64886);
+      IconData(64886, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ship_wheel =
-      FlutterIconData.materialCommunityIcons(63538);
+      IconData(63538, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shoe_formal =
-      FlutterIconData.materialCommunityIcons(64290);
+      IconData(64290, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shoe_heel =
-      FlutterIconData.materialCommunityIcons(64291);
+      IconData(64291, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shoe_print =
-      FlutterIconData.materialCommunityIcons(65114);
-  static const IconData shopify = FlutterIconData.materialCommunityIcons(64221);
+      IconData(65114, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData shopify = IconData(64221, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shopping =
-      FlutterIconData.materialCommunityIcons(62618);
+      IconData(62618, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shopping_music =
-      FlutterIconData.materialCommunityIcons(62619);
+      IconData(62619, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shopping_search =
-      FlutterIconData.materialCommunityIcons(65441);
-  static const IconData shovel = FlutterIconData.materialCommunityIcons(63247);
+      IconData(65441, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData shovel = IconData(63247, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shovel_off =
-      FlutterIconData.materialCommunityIcons(63248);
-  static const IconData shower = FlutterIconData.materialCommunityIcons(63903);
+      IconData(63248, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData shower = IconData(63903, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shower_head =
-      FlutterIconData.materialCommunityIcons(63904);
+      IconData(63904, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shredder =
-      FlutterIconData.materialCommunityIcons(62620);
-  static const IconData shuffle = FlutterIconData.materialCommunityIcons(62621);
+      IconData(62620, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData shuffle = IconData(62621, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shuffle_disabled =
-      FlutterIconData.materialCommunityIcons(62622);
+      IconData(62622, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData shuffle_variant =
-      FlutterIconData.materialCommunityIcons(62623);
-  static const IconData sigma = FlutterIconData.materialCommunityIcons(62624);
+      IconData(62623, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sigma = IconData(62624, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sigma_lower =
-      FlutterIconData.materialCommunityIcons(63019);
+      IconData(63019, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sign_caution =
-      FlutterIconData.materialCommunityIcons(62625);
+      IconData(62625, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sign_direction =
-      FlutterIconData.materialCommunityIcons(63360);
+      IconData(63360, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sign_direction_minus =
-      FlutterIconData.materialCommunityIcons(983074);
+      IconData(983074, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sign_direction_plus =
-      FlutterIconData.materialCommunityIcons(65533);
+      IconData(65533, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sign_direction_remove =
-      FlutterIconData.materialCommunityIcons(65534);
+      IconData(65534, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sign_text =
-      FlutterIconData.materialCommunityIcons(63361);
-  static const IconData signal = FlutterIconData.materialCommunityIcons(62626);
+      IconData(63361, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData signal = IconData(62626, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_2g =
-      FlutterIconData.materialCommunityIcons(63249);
+      IconData(63249, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_3g =
-      FlutterIconData.materialCommunityIcons(63250);
+      IconData(63250, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_4g =
-      FlutterIconData.materialCommunityIcons(63251);
+      IconData(63251, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_5g =
-      FlutterIconData.materialCommunityIcons(64110);
+      IconData(64110, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_cellular_1 =
-      FlutterIconData.materialCommunityIcons(63675);
+      IconData(63675, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_cellular_2 =
-      FlutterIconData.materialCommunityIcons(63676);
+      IconData(63676, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_cellular_3 =
-      FlutterIconData.materialCommunityIcons(63677);
+      IconData(63677, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_cellular_outline =
-      FlutterIconData.materialCommunityIcons(63678);
+      IconData(63678, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_distance_variant =
-      FlutterIconData.materialCommunityIcons(65095);
+      IconData(65095, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_hspa =
-      FlutterIconData.materialCommunityIcons(63252);
+      IconData(63252, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_hspa_plus =
-      FlutterIconData.materialCommunityIcons(63253);
+      IconData(63253, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_off =
-      FlutterIconData.materialCommunityIcons(63362);
+      IconData(63362, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signal_variant =
-      FlutterIconData.materialCommunityIcons(62986);
+      IconData(62986, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signature =
-      FlutterIconData.materialCommunityIcons(65115);
+      IconData(65115, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signature_freehand =
-      FlutterIconData.materialCommunityIcons(65116);
+      IconData(65116, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signature_image =
-      FlutterIconData.materialCommunityIcons(65117);
+      IconData(65117, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData signature_text =
-      FlutterIconData.materialCommunityIcons(65118);
-  static const IconData silo = FlutterIconData.materialCommunityIcons(64292);
+      IconData(65118, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData silo = IconData(64292, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData silverware =
-      FlutterIconData.materialCommunityIcons(62627);
+      IconData(62627, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData silverware_clean =
-      FlutterIconData.materialCommunityIcons(65535);
+      IconData(65535, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData silverware_fork =
-      FlutterIconData.materialCommunityIcons(62628);
+      IconData(62628, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData silverware_fork_knife =
-      FlutterIconData.materialCommunityIcons(64111);
+      IconData(64111, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData silverware_spoon =
-      FlutterIconData.materialCommunityIcons(62629);
+      IconData(62629, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData silverware_variant =
-      FlutterIconData.materialCommunityIcons(62630);
-  static const IconData sim = FlutterIconData.materialCommunityIcons(62631);
+      IconData(62630, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sim = IconData(62631, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sim_alert =
-      FlutterIconData.materialCommunityIcons(62632);
-  static const IconData sim_off = FlutterIconData.materialCommunityIcons(62633);
+      IconData(62632, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sim_off = IconData(62633, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sina_weibo =
-      FlutterIconData.materialCommunityIcons(64222);
-  static const IconData sitemap = FlutterIconData.materialCommunityIcons(62634);
-  static const IconData skate = FlutterIconData.materialCommunityIcons(64785);
+      IconData(64222, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sitemap = IconData(62634, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData skate = IconData(64785, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skew_less =
-      FlutterIconData.materialCommunityIcons(64786);
+      IconData(64786, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skew_more =
-      FlutterIconData.materialCommunityIcons(64787);
+      IconData(64787, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_backward =
-      FlutterIconData.materialCommunityIcons(62635);
+      IconData(62635, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_backward_outline =
-      FlutterIconData.materialCommunityIcons(65346);
+      IconData(65346, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_forward =
-      FlutterIconData.materialCommunityIcons(62636);
+      IconData(62636, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_forward_outline =
-      FlutterIconData.materialCommunityIcons(65347);
+      IconData(65347, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_next =
-      FlutterIconData.materialCommunityIcons(62637);
+      IconData(62637, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_next_circle =
-      FlutterIconData.materialCommunityIcons(63073);
+      IconData(63073, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_next_circle_outline =
-      FlutterIconData.materialCommunityIcons(63074);
+      IconData(63074, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_next_outline =
-      FlutterIconData.materialCommunityIcons(65348);
+      IconData(65348, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_previous =
-      FlutterIconData.materialCommunityIcons(62638);
+      IconData(62638, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_previous_circle =
-      FlutterIconData.materialCommunityIcons(63075);
+      IconData(63075, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_previous_circle_outline =
-      FlutterIconData.materialCommunityIcons(63076);
+      IconData(63076, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skip_previous_outline =
-      FlutterIconData.materialCommunityIcons(65349);
-  static const IconData skull = FlutterIconData.materialCommunityIcons(63115);
+      IconData(65349, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData skull = IconData(63115, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skull_crossbones =
-      FlutterIconData.materialCommunityIcons(64418);
+      IconData(64418, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skull_crossbones_outline =
-      FlutterIconData.materialCommunityIcons(64419);
+      IconData(64419, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skull_outline =
-      FlutterIconData.materialCommunityIcons(64420);
-  static const IconData skype = FlutterIconData.materialCommunityIcons(62639);
+      IconData(64420, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData skype = IconData(62639, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData skype_business =
-      FlutterIconData.materialCommunityIcons(62640);
-  static const IconData slack = FlutterIconData.materialCommunityIcons(62641);
+      IconData(62640, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData slack = IconData(62641, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData slackware =
-      FlutterIconData.materialCommunityIcons(63754);
+      IconData(63754, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData slash_forward =
-      FlutterIconData.materialCommunityIcons(983040);
+      IconData(983040, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData slash_forward_box =
-      FlutterIconData.materialCommunityIcons(983041);
-  static const IconData sleep = FlutterIconData.materialCommunityIcons(62642);
+      IconData(983041, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sleep = IconData(62642, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sleep_off =
-      FlutterIconData.materialCommunityIcons(62643);
+      IconData(62643, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData slope_downhill =
-      FlutterIconData.materialCommunityIcons(65119);
+      IconData(65119, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData slope_uphill =
-      FlutterIconData.materialCommunityIcons(65120);
-  static const IconData smog = FlutterIconData.materialCommunityIcons(64112);
+      IconData(65120, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData smog = IconData(64112, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData smoke_detector =
-      FlutterIconData.materialCommunityIcons(62354);
-  static const IconData smoking = FlutterIconData.materialCommunityIcons(62644);
+      IconData(62354, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData smoking = IconData(62644, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData smoking_off =
-      FlutterIconData.materialCommunityIcons(62645);
+      IconData(62645, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData snapchat =
-      FlutterIconData.materialCommunityIcons(62646);
+      IconData(62646, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData snowflake =
-      FlutterIconData.materialCommunityIcons(63254);
+      IconData(63254, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData snowflake_alert =
-      FlutterIconData.materialCommunityIcons(65350);
+      IconData(65350, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData snowflake_variant =
-      FlutterIconData.materialCommunityIcons(65351);
-  static const IconData snowman = FlutterIconData.materialCommunityIcons(62647);
-  static const IconData soccer = FlutterIconData.materialCommunityIcons(62648);
+      IconData(65351, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData snowman = IconData(62647, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData soccer = IconData(62648, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData soccer_field =
-      FlutterIconData.materialCommunityIcons(63539);
-  static const IconData sofa = FlutterIconData.materialCommunityIcons(62649);
+      IconData(63539, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sofa = IconData(62649, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData solar_panel =
-      FlutterIconData.materialCommunityIcons(64887);
+      IconData(64887, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData solar_panel_large =
-      FlutterIconData.materialCommunityIcons(64888);
+      IconData(64888, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData solar_power =
-      FlutterIconData.materialCommunityIcons(64113);
-  static const IconData solid = FlutterIconData.materialCommunityIcons(63116);
-  static const IconData sort = FlutterIconData.materialCommunityIcons(62650);
+      IconData(64113, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData solid = IconData(63116, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sort = IconData(62650, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sort_alphabetical =
-      FlutterIconData.materialCommunityIcons(62651);
+      IconData(62651, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sort_ascending =
-      FlutterIconData.materialCommunityIcons(62652);
+      IconData(62652, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sort_descending =
-      FlutterIconData.materialCommunityIcons(62653);
+      IconData(62653, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sort_numeric =
-      FlutterIconData.materialCommunityIcons(62654);
+      IconData(62654, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sort_variant =
-      FlutterIconData.materialCommunityIcons(62655);
+      IconData(62655, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sort_variant_lock =
-      FlutterIconData.materialCommunityIcons(64681);
+      IconData(64681, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sort_variant_lock_open =
-      FlutterIconData.materialCommunityIcons(64682);
+      IconData(64682, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData soundcloud =
-      FlutterIconData.materialCommunityIcons(62656);
+      IconData(62656, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_branch =
-      FlutterIconData.materialCommunityIcons(63020);
+      IconData(63020, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_commit =
-      FlutterIconData.materialCommunityIcons(63255);
+      IconData(63255, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_commit_end =
-      FlutterIconData.materialCommunityIcons(63256);
+      IconData(63256, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_commit_end_local =
-      FlutterIconData.materialCommunityIcons(63257);
+      IconData(63257, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_commit_local =
-      FlutterIconData.materialCommunityIcons(63258);
+      IconData(63258, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_commit_next_local =
-      FlutterIconData.materialCommunityIcons(63259);
+      IconData(63259, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_commit_start =
-      FlutterIconData.materialCommunityIcons(63260);
+      IconData(63260, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_commit_start_next_local =
-      FlutterIconData.materialCommunityIcons(63261);
+      IconData(63261, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_fork =
-      FlutterIconData.materialCommunityIcons(62657);
+      IconData(62657, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_merge =
-      FlutterIconData.materialCommunityIcons(63021);
+      IconData(63021, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_pull =
-      FlutterIconData.materialCommunityIcons(62658);
+      IconData(62658, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_repository =
-      FlutterIconData.materialCommunityIcons(64683);
+      IconData(64683, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData source_repository_multiple =
-      FlutterIconData.materialCommunityIcons(64684);
+      IconData(64684, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData soy_sauce =
-      FlutterIconData.materialCommunityIcons(63469);
-  static const IconData spa = FlutterIconData.materialCommunityIcons(64685);
+      IconData(63469, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData spa = IconData(64685, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData spa_outline =
-      FlutterIconData.materialCommunityIcons(64686);
+      IconData(64686, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData space_invaders =
-      FlutterIconData.materialCommunityIcons(64421);
-  static const IconData spade = FlutterIconData.materialCommunityIcons(65096);
-  static const IconData speaker = FlutterIconData.materialCommunityIcons(62659);
+      IconData(64421, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData spade = IconData(65096, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData speaker = IconData(62659, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData speaker_bluetooth =
-      FlutterIconData.materialCommunityIcons(63905);
+      IconData(63905, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData speaker_multiple =
-      FlutterIconData.materialCommunityIcons(64788);
+      IconData(64788, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData speaker_off =
-      FlutterIconData.materialCommunityIcons(62660);
+      IconData(62660, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData speaker_wireless =
-      FlutterIconData.materialCommunityIcons(63262);
+      IconData(63262, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData speedometer =
-      FlutterIconData.materialCommunityIcons(62661);
+      IconData(62661, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData speedometer_medium =
-      FlutterIconData.materialCommunityIcons(65442);
+      IconData(65442, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData speedometer_slow =
-      FlutterIconData.materialCommunityIcons(65443);
+      IconData(65443, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData spellcheck =
-      FlutterIconData.materialCommunityIcons(62662);
+      IconData(62662, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData spider_web =
-      FlutterIconData.materialCommunityIcons(64422);
-  static const IconData spotify = FlutterIconData.materialCommunityIcons(62663);
+      IconData(64422, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData spotify = IconData(62663, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData spotlight =
-      FlutterIconData.materialCommunityIcons(62664);
+      IconData(62664, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData spotlight_beam =
-      FlutterIconData.materialCommunityIcons(62665);
-  static const IconData spray = FlutterIconData.materialCommunityIcons(63077);
+      IconData(62665, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData spray = IconData(63077, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData spray_bottle =
-      FlutterIconData.materialCommunityIcons(64223);
-  static const IconData sprout = FlutterIconData.materialCommunityIcons(65097);
+      IconData(64223, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sprout = IconData(65097, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sprout_outline =
-      FlutterIconData.materialCommunityIcons(65098);
-  static const IconData square = FlutterIconData.materialCommunityIcons(63331);
+      IconData(65098, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData square = IconData(63331, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_edit_outline =
-      FlutterIconData.materialCommunityIcons(63755);
+      IconData(63755, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_inc =
-      FlutterIconData.materialCommunityIcons(62666);
+      IconData(62666, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_inc_cash =
-      FlutterIconData.materialCommunityIcons(62667);
+      IconData(62667, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_medium =
-      FlutterIconData.materialCommunityIcons(64018);
+      IconData(64018, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_medium_outline =
-      FlutterIconData.materialCommunityIcons(64019);
+      IconData(64019, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_outline =
-      FlutterIconData.materialCommunityIcons(63330);
+      IconData(63330, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_root =
-      FlutterIconData.materialCommunityIcons(63363);
+      IconData(63363, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_root_box =
-      FlutterIconData.materialCommunityIcons(63906);
+      IconData(63906, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData square_small =
-      FlutterIconData.materialCommunityIcons(64020);
+      IconData(64020, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData squeegee =
-      FlutterIconData.materialCommunityIcons(64224);
-  static const IconData ssh = FlutterIconData.materialCommunityIcons(63679);
+      IconData(64224, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ssh = IconData(63679, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stack_exchange =
-      FlutterIconData.materialCommunityIcons(62987);
+      IconData(62987, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stack_overflow =
-      FlutterIconData.materialCommunityIcons(62668);
+      IconData(62668, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stadium =
-      FlutterIconData.materialCommunityIcons(983066);
+      IconData(983066, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stadium_variant =
-      FlutterIconData.materialCommunityIcons(63263);
-  static const IconData stairs = FlutterIconData.materialCommunityIcons(62669);
-  static const IconData stamper = FlutterIconData.materialCommunityIcons(64789);
+      IconData(63263, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData stairs = IconData(62669, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData stamper = IconData(64789, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData standard_definition =
-      FlutterIconData.materialCommunityIcons(63470);
-  static const IconData star = FlutterIconData.materialCommunityIcons(62670);
+      IconData(63470, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData star = IconData(62670, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_box =
-      FlutterIconData.materialCommunityIcons(64114);
+      IconData(64114, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_box_outline =
-      FlutterIconData.materialCommunityIcons(64115);
+      IconData(64115, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_circle =
-      FlutterIconData.materialCommunityIcons(62671);
+      IconData(62671, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_circle_outline =
-      FlutterIconData.materialCommunityIcons(63907);
+      IconData(63907, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_face =
-      FlutterIconData.materialCommunityIcons(63908);
+      IconData(63908, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_four_points =
-      FlutterIconData.materialCommunityIcons(64225);
+      IconData(64225, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_four_points_outline =
-      FlutterIconData.materialCommunityIcons(64226);
+      IconData(64226, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_half =
-      FlutterIconData.materialCommunityIcons(62672);
+      IconData(62672, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_off =
-      FlutterIconData.materialCommunityIcons(62673);
+      IconData(62673, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_outline =
-      FlutterIconData.materialCommunityIcons(62674);
+      IconData(62674, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_three_points =
-      FlutterIconData.materialCommunityIcons(64227);
+      IconData(64227, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData star_three_points_outline =
-      FlutterIconData.materialCommunityIcons(64228);
-  static const IconData steam = FlutterIconData.materialCommunityIcons(62675);
+      IconData(64228, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData steam = IconData(62675, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData steam_box =
-      FlutterIconData.materialCommunityIcons(63756);
+      IconData(63756, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData steering =
-      FlutterIconData.materialCommunityIcons(62676);
+      IconData(62676, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData steering_off =
-      FlutterIconData.materialCommunityIcons(63757);
+      IconData(63757, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData step_backward =
-      FlutterIconData.materialCommunityIcons(62677);
+      IconData(62677, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData step_backward_2 =
-      FlutterIconData.materialCommunityIcons(62678);
+      IconData(62678, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData step_forward =
-      FlutterIconData.materialCommunityIcons(62679);
+      IconData(62679, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData step_forward_2 =
-      FlutterIconData.materialCommunityIcons(62680);
+      IconData(62680, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stethoscope =
-      FlutterIconData.materialCommunityIcons(62681);
-  static const IconData sticker = FlutterIconData.materialCommunityIcons(62928);
+      IconData(62681, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sticker = IconData(62928, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sticker_emoji =
-      FlutterIconData.materialCommunityIcons(63364);
+      IconData(63364, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stocking =
-      FlutterIconData.materialCommunityIcons(62682);
-  static const IconData stop = FlutterIconData.materialCommunityIcons(62683);
+      IconData(62682, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData stop = IconData(62683, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stop_circle =
-      FlutterIconData.materialCommunityIcons(63078);
+      IconData(63078, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stop_circle_outline =
-      FlutterIconData.materialCommunityIcons(63079);
-  static const IconData store = FlutterIconData.materialCommunityIcons(62684);
+      IconData(63079, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData store = IconData(62684, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData store_24_hour =
-      FlutterIconData.materialCommunityIcons(62685);
-  static const IconData stove = FlutterIconData.materialCommunityIcons(62686);
-  static const IconData strava = FlutterIconData.materialCommunityIcons(64293);
+      IconData(62685, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData stove = IconData(62686, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData strava = IconData(64293, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stretch_to_page =
-      FlutterIconData.materialCommunityIcons(65352);
+      IconData(65352, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData stretch_to_page_outline =
-      FlutterIconData.materialCommunityIcons(65353);
+      IconData(65353, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData subdirectory_arrow_left =
-      FlutterIconData.materialCommunityIcons(62988);
+      IconData(62988, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData subdirectory_arrow_right =
-      FlutterIconData.materialCommunityIcons(62989);
+      IconData(62989, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData subtitles =
-      FlutterIconData.materialCommunityIcons(64021);
+      IconData(64021, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData subtitles_outline =
-      FlutterIconData.materialCommunityIcons(64022);
-  static const IconData subway = FlutterIconData.materialCommunityIcons(63147);
+      IconData(64022, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData subway = IconData(63147, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData subway_alert_variant =
-      FlutterIconData.materialCommunityIcons(64889);
+      IconData(64889, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData subway_variant =
-      FlutterIconData.materialCommunityIcons(62687);
-  static const IconData summit = FlutterIconData.materialCommunityIcons(63365);
+      IconData(62687, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData summit = IconData(63365, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sunglasses =
-      FlutterIconData.materialCommunityIcons(62688);
+      IconData(62688, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData surround_sound =
-      FlutterIconData.materialCommunityIcons(62917);
+      IconData(62917, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData surround_sound_2_0 =
-      FlutterIconData.materialCommunityIcons(63471);
+      IconData(63471, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData surround_sound_3_1 =
-      FlutterIconData.materialCommunityIcons(63472);
+      IconData(63472, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData surround_sound_5_1 =
-      FlutterIconData.materialCommunityIcons(63473);
+      IconData(63473, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData surround_sound_7_1 =
-      FlutterIconData.materialCommunityIcons(63474);
-  static const IconData svg = FlutterIconData.materialCommunityIcons(63264);
+      IconData(63474, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData svg = IconData(63264, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_horizontal =
-      FlutterIconData.materialCommunityIcons(62689);
+      IconData(62689, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_horizontal_bold =
-      FlutterIconData.materialCommunityIcons(64425);
+      IconData(64425, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_horizontal_circle =
-      FlutterIconData.materialCommunityIcons(983042);
+      IconData(983042, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_horizontal_circle_outline =
-      FlutterIconData.materialCommunityIcons(983043);
+      IconData(983043, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_horizontal_variant =
-      FlutterIconData.materialCommunityIcons(63680);
+      IconData(63680, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_vertical =
-      FlutterIconData.materialCommunityIcons(62690);
+      IconData(62690, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_vertical_bold =
-      FlutterIconData.materialCommunityIcons(64426);
+      IconData(64426, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_vertical_circle =
-      FlutterIconData.materialCommunityIcons(983044);
+      IconData(983044, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_vertical_circle_outline =
-      FlutterIconData.materialCommunityIcons(983045);
+      IconData(983045, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData swap_vertical_variant =
-      FlutterIconData.materialCommunityIcons(63681);
-  static const IconData swim = FlutterIconData.materialCommunityIcons(62691);
-  static const IconData switch_ = FlutterIconData.materialCommunityIcons(62692);
-  static const IconData sword = FlutterIconData.materialCommunityIcons(62693);
+      IconData(63681, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData swim = IconData(62691, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData switch_ = IconData(62692, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sword = IconData(62693, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sword_cross =
-      FlutterIconData.materialCommunityIcons(63366);
-  static const IconData symfony = FlutterIconData.materialCommunityIcons(64229);
-  static const IconData sync = FlutterIconData.materialCommunityIcons(62694);
+      IconData(63366, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData symfony = IconData(64229, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData sync = IconData(62694, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sync_alert =
-      FlutterIconData.materialCommunityIcons(62695);
+      IconData(62695, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData sync_off =
-      FlutterIconData.materialCommunityIcons(62696);
-  static const IconData tab = FlutterIconData.materialCommunityIcons(62697);
+      IconData(62696, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tab = IconData(62697, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tab_minus =
-      FlutterIconData.materialCommunityIcons(64294);
+      IconData(64294, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tab_plus =
-      FlutterIconData.materialCommunityIcons(63323);
+      IconData(63323, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tab_remove =
-      FlutterIconData.materialCommunityIcons(64295);
+      IconData(64295, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tab_unselected =
-      FlutterIconData.materialCommunityIcons(62698);
-  static const IconData table = FlutterIconData.materialCommunityIcons(62699);
+      IconData(62698, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData table = IconData(62699, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_border =
-      FlutterIconData.materialCommunityIcons(64023);
+      IconData(64023, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_column =
-      FlutterIconData.materialCommunityIcons(63540);
+      IconData(63540, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_column_plus_after =
-      FlutterIconData.materialCommunityIcons(62700);
+      IconData(62700, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_column_plus_before =
-      FlutterIconData.materialCommunityIcons(62701);
+      IconData(62701, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_column_remove =
-      FlutterIconData.materialCommunityIcons(62702);
+      IconData(62702, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_column_width =
-      FlutterIconData.materialCommunityIcons(62703);
+      IconData(62703, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_edit =
-      FlutterIconData.materialCommunityIcons(62704);
+      IconData(62704, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_large =
-      FlutterIconData.materialCommunityIcons(62705);
+      IconData(62705, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_large_plus =
-      FlutterIconData.materialCommunityIcons(65444);
+      IconData(65444, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_large_remove =
-      FlutterIconData.materialCommunityIcons(65445);
+      IconData(65445, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_merge_cells =
-      FlutterIconData.materialCommunityIcons(63909);
+      IconData(63909, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_of_contents =
-      FlutterIconData.materialCommunityIcons(63541);
+      IconData(63541, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_plus =
-      FlutterIconData.materialCommunityIcons(64116);
+      IconData(64116, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_remove =
-      FlutterIconData.materialCommunityIcons(64117);
+      IconData(64117, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_row =
-      FlutterIconData.materialCommunityIcons(63542);
+      IconData(63542, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_row_height =
-      FlutterIconData.materialCommunityIcons(62706);
+      IconData(62706, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_row_plus_after =
-      FlutterIconData.materialCommunityIcons(62707);
+      IconData(62707, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_row_plus_before =
-      FlutterIconData.materialCommunityIcons(62708);
+      IconData(62708, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_row_remove =
-      FlutterIconData.materialCommunityIcons(62709);
+      IconData(62709, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_search =
-      FlutterIconData.materialCommunityIcons(63758);
+      IconData(63758, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_settings =
-      FlutterIconData.materialCommunityIcons(63543);
+      IconData(63543, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData table_tennis =
-      FlutterIconData.materialCommunityIcons(65099);
-  static const IconData tablet = FlutterIconData.materialCommunityIcons(62710);
+      IconData(65099, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tablet = IconData(62710, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tablet_android =
-      FlutterIconData.materialCommunityIcons(62711);
+      IconData(62711, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tablet_cellphone =
-      FlutterIconData.materialCommunityIcons(63910);
+      IconData(63910, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tablet_dashboard =
-      FlutterIconData.materialCommunityIcons(65259);
+      IconData(65259, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tablet_ipad =
-      FlutterIconData.materialCommunityIcons(62712);
-  static const IconData taco = FlutterIconData.materialCommunityIcons(63329);
-  static const IconData tag = FlutterIconData.materialCommunityIcons(62713);
+      IconData(62712, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData taco = IconData(63329, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tag = IconData(62713, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_faces =
-      FlutterIconData.materialCommunityIcons(62714);
+      IconData(62714, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_heart =
-      FlutterIconData.materialCommunityIcons(63114);
+      IconData(63114, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_heart_outline =
-      FlutterIconData.materialCommunityIcons(64427);
+      IconData(64427, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_minus =
-      FlutterIconData.materialCommunityIcons(63759);
+      IconData(63759, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_multiple =
-      FlutterIconData.materialCommunityIcons(62715);
+      IconData(62715, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_outline =
-      FlutterIconData.materialCommunityIcons(62716);
+      IconData(62716, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_plus =
-      FlutterIconData.materialCommunityIcons(63265);
+      IconData(63265, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_remove =
-      FlutterIconData.materialCommunityIcons(63266);
+      IconData(63266, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tag_text_outline =
-      FlutterIconData.materialCommunityIcons(62717);
-  static const IconData tank = FlutterIconData.materialCommunityIcons(64790);
+      IconData(62717, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tank = IconData(64790, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tanker_truck =
-      FlutterIconData.materialCommunityIcons(983046);
+      IconData(983046, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tape_measure =
-      FlutterIconData.materialCommunityIcons(64296);
-  static const IconData target = FlutterIconData.materialCommunityIcons(62718);
+      IconData(64296, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData target = IconData(62718, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData target_account =
-      FlutterIconData.materialCommunityIcons(64428);
+      IconData(64428, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData target_variant =
-      FlutterIconData.materialCommunityIcons(64118);
-  static const IconData taxi = FlutterIconData.materialCommunityIcons(62719);
-  static const IconData tea = FlutterIconData.materialCommunityIcons(64890);
+      IconData(64118, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData taxi = IconData(62719, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tea = IconData(64890, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tea_outline =
-      FlutterIconData.materialCommunityIcons(64891);
-  static const IconData teach = FlutterIconData.materialCommunityIcons(63631);
+      IconData(64891, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData teach = IconData(63631, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData teamviewer =
-      FlutterIconData.materialCommunityIcons(62720);
+      IconData(62720, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData telegram =
-      FlutterIconData.materialCommunityIcons(62721);
+      IconData(62721, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData telescope =
-      FlutterIconData.materialCommunityIcons(64297);
+      IconData(64297, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television =
-      FlutterIconData.materialCommunityIcons(62722);
+      IconData(62722, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television_box =
-      FlutterIconData.materialCommunityIcons(63544);
+      IconData(63544, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television_classic =
-      FlutterIconData.materialCommunityIcons(63475);
+      IconData(63475, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television_classic_off =
-      FlutterIconData.materialCommunityIcons(63545);
+      IconData(63545, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television_guide =
-      FlutterIconData.materialCommunityIcons(62723);
+      IconData(62723, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television_off =
-      FlutterIconData.materialCommunityIcons(63546);
+      IconData(63546, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television_pause =
-      FlutterIconData.materialCommunityIcons(65446);
+      IconData(65446, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television_play =
-      FlutterIconData.materialCommunityIcons(65260);
+      IconData(65260, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData television_stop =
-      FlutterIconData.materialCommunityIcons(65447);
+      IconData(65447, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData temperature_celsius =
-      FlutterIconData.materialCommunityIcons(62724);
+      IconData(62724, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData temperature_fahrenheit =
-      FlutterIconData.materialCommunityIcons(62725);
+      IconData(62725, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData temperature_kelvin =
-      FlutterIconData.materialCommunityIcons(62726);
-  static const IconData tennis = FlutterIconData.materialCommunityIcons(64892);
+      IconData(62726, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tennis = IconData(64892, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tennis_ball =
-      FlutterIconData.materialCommunityIcons(62727);
-  static const IconData tent = FlutterIconData.materialCommunityIcons(62728);
-  static const IconData terrain = FlutterIconData.materialCommunityIcons(62729);
+      IconData(62727, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tent = IconData(62728, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData terrain = IconData(62729, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData test_tube =
-      FlutterIconData.materialCommunityIcons(63080);
+      IconData(63080, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData test_tube_empty =
-      FlutterIconData.materialCommunityIcons(63760);
+      IconData(63760, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData test_tube_off =
-      FlutterIconData.materialCommunityIcons(63761);
-  static const IconData text = FlutterIconData.materialCommunityIcons(63911);
+      IconData(63761, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData text = IconData(63911, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData text_shadow =
-      FlutterIconData.materialCommunityIcons(63081);
+      IconData(63081, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData text_short =
-      FlutterIconData.materialCommunityIcons(63912);
+      IconData(63912, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData text_subject =
-      FlutterIconData.materialCommunityIcons(63913);
+      IconData(63913, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData text_to_speech =
-      FlutterIconData.materialCommunityIcons(62730);
+      IconData(62730, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData text_to_speech_off =
-      FlutterIconData.materialCommunityIcons(62731);
-  static const IconData textbox = FlutterIconData.materialCommunityIcons(62990);
+      IconData(62731, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData textbox = IconData(62990, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData textbox_password =
-      FlutterIconData.materialCommunityIcons(63476);
-  static const IconData texture = FlutterIconData.materialCommunityIcons(62732);
+      IconData(63476, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData texture = IconData(62732, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData texture_box =
-      FlutterIconData.materialCommunityIcons(983047);
-  static const IconData theater = FlutterIconData.materialCommunityIcons(62733);
+      IconData(983047, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData theater = IconData(62733, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData theme_light_dark =
-      FlutterIconData.materialCommunityIcons(62734);
+      IconData(62734, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermometer =
-      FlutterIconData.materialCommunityIcons(62735);
+      IconData(62735, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermometer_alert =
-      FlutterIconData.materialCommunityIcons(65121);
+      IconData(65121, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermometer_chevron_down =
-      FlutterIconData.materialCommunityIcons(65122);
+      IconData(65122, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermometer_chevron_up =
-      FlutterIconData.materialCommunityIcons(65123);
+      IconData(65123, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermometer_lines =
-      FlutterIconData.materialCommunityIcons(62736);
+      IconData(62736, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermometer_minus =
-      FlutterIconData.materialCommunityIcons(65124);
+      IconData(65124, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermometer_plus =
-      FlutterIconData.materialCommunityIcons(65125);
+      IconData(65125, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermostat =
-      FlutterIconData.materialCommunityIcons(62355);
+      IconData(62355, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thermostat_box =
-      FlutterIconData.materialCommunityIcons(63632);
+      IconData(63632, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thought_bubble =
-      FlutterIconData.materialCommunityIcons(63477);
+      IconData(63477, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thought_bubble_outline =
-      FlutterIconData.materialCommunityIcons(63478);
+      IconData(63478, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thumb_down =
-      FlutterIconData.materialCommunityIcons(62737);
+      IconData(62737, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thumb_down_outline =
-      FlutterIconData.materialCommunityIcons(62738);
+      IconData(62738, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thumb_up =
-      FlutterIconData.materialCommunityIcons(62739);
+      IconData(62739, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thumb_up_outline =
-      FlutterIconData.materialCommunityIcons(62740);
+      IconData(62740, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData thumbs_up_down =
-      FlutterIconData.materialCommunityIcons(62741);
-  static const IconData ticket = FlutterIconData.materialCommunityIcons(62742);
+      IconData(62741, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ticket = IconData(62742, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ticket_account =
-      FlutterIconData.materialCommunityIcons(62743);
+      IconData(62743, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ticket_confirmation =
-      FlutterIconData.materialCommunityIcons(62744);
+      IconData(62744, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ticket_outline =
-      FlutterIconData.materialCommunityIcons(63762);
+      IconData(63762, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ticket_percent =
-      FlutterIconData.materialCommunityIcons(63267);
-  static const IconData tie = FlutterIconData.materialCommunityIcons(62745);
-  static const IconData tilde = FlutterIconData.materialCommunityIcons(63268);
+      IconData(63267, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tie = IconData(62745, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tilde = IconData(63268, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timelapse =
-      FlutterIconData.materialCommunityIcons(62746);
+      IconData(62746, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline =
-      FlutterIconData.materialCommunityIcons(64429);
+      IconData(64429, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_alert =
-      FlutterIconData.materialCommunityIcons(65458);
+      IconData(65458, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_alert_outline =
-      FlutterIconData.materialCommunityIcons(65461);
+      IconData(65461, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_help =
-      FlutterIconData.materialCommunityIcons(65462);
+      IconData(65462, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_help_outline =
-      FlutterIconData.materialCommunityIcons(65463);
+      IconData(65463, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_outline =
-      FlutterIconData.materialCommunityIcons(64430);
+      IconData(64430, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_plus =
-      FlutterIconData.materialCommunityIcons(65459);
+      IconData(65459, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_plus_outline =
-      FlutterIconData.materialCommunityIcons(65460);
+      IconData(65460, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_text =
-      FlutterIconData.materialCommunityIcons(64431);
+      IconData(64431, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timeline_text_outline =
-      FlutterIconData.materialCommunityIcons(64432);
-  static const IconData timer = FlutterIconData.materialCommunityIcons(62747);
+      IconData(64432, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData timer = IconData(62747, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timer_10 =
-      FlutterIconData.materialCommunityIcons(62748);
-  static const IconData timer_3 = FlutterIconData.materialCommunityIcons(62749);
+      IconData(62748, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData timer_3 = IconData(62749, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timer_off =
-      FlutterIconData.materialCommunityIcons(62750);
+      IconData(62750, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timer_sand =
-      FlutterIconData.materialCommunityIcons(62751);
+      IconData(62751, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timer_sand_empty =
-      FlutterIconData.materialCommunityIcons(63148);
+      IconData(63148, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timer_sand_full =
-      FlutterIconData.materialCommunityIcons(63371);
+      IconData(63371, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData timetable =
-      FlutterIconData.materialCommunityIcons(62752);
+      IconData(62752, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData toaster_oven =
-      FlutterIconData.materialCommunityIcons(64687);
+      IconData(64687, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData toggle_switch =
-      FlutterIconData.materialCommunityIcons(62753);
+      IconData(62753, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData toggle_switch_off =
-      FlutterIconData.materialCommunityIcons(62754);
+      IconData(62754, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData toggle_switch_off_outline =
-      FlutterIconData.materialCommunityIcons(64024);
+      IconData(64024, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData toggle_switch_outline =
-      FlutterIconData.materialCommunityIcons(64025);
-  static const IconData toilet = FlutterIconData.materialCommunityIcons(63914);
-  static const IconData toolbox = FlutterIconData.materialCommunityIcons(63915);
+      IconData(64025, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData toilet = IconData(63914, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData toolbox = IconData(63915, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData toolbox_outline =
-      FlutterIconData.materialCommunityIcons(63916);
-  static const IconData tooltip = FlutterIconData.materialCommunityIcons(62755);
+      IconData(63916, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tooltip = IconData(62755, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_account =
-      FlutterIconData.materialCommunityIcons(61452);
+      IconData(61452, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_edit =
-      FlutterIconData.materialCommunityIcons(62756);
+      IconData(62756, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_image =
-      FlutterIconData.materialCommunityIcons(62757);
+      IconData(62757, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_image_outline =
-      FlutterIconData.materialCommunityIcons(64433);
+      IconData(64433, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_outline =
-      FlutterIconData.materialCommunityIcons(62758);
+      IconData(62758, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_plus =
-      FlutterIconData.materialCommunityIcons(64434);
+      IconData(64434, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_plus_outline =
-      FlutterIconData.materialCommunityIcons(62759);
+      IconData(62759, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_text =
-      FlutterIconData.materialCommunityIcons(62760);
+      IconData(62760, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooltip_text_outline =
-      FlutterIconData.materialCommunityIcons(64435);
-  static const IconData tooth = FlutterIconData.materialCommunityIcons(63682);
+      IconData(64435, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tooth = IconData(63682, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tooth_outline =
-      FlutterIconData.materialCommunityIcons(62761);
-  static const IconData tor = FlutterIconData.materialCommunityIcons(62762);
+      IconData(62761, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tor = IconData(62762, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tortoise =
-      FlutterIconData.materialCommunityIcons(64791);
+      IconData(64791, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tournament =
-      FlutterIconData.materialCommunityIcons(63917);
+      IconData(63917, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tower_beach =
-      FlutterIconData.materialCommunityIcons(63104);
+      IconData(63104, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tower_fire =
-      FlutterIconData.materialCommunityIcons(63105);
-  static const IconData towing = FlutterIconData.materialCommunityIcons(63547);
+      IconData(63105, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData towing = IconData(63547, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData track_light =
-      FlutterIconData.materialCommunityIcons(63763);
+      IconData(63763, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trackpad =
-      FlutterIconData.materialCommunityIcons(63479);
+      IconData(63479, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trackpad_lock =
-      FlutterIconData.materialCommunityIcons(63794);
-  static const IconData tractor = FlutterIconData.materialCommunityIcons(63633);
+      IconData(63794, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tractor = IconData(63633, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trademark =
-      FlutterIconData.materialCommunityIcons(64119);
+      IconData(64119, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData traffic_light =
-      FlutterIconData.materialCommunityIcons(62763);
-  static const IconData train = FlutterIconData.materialCommunityIcons(62764);
+      IconData(62763, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData train = IconData(62764, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData train_car =
-      FlutterIconData.materialCommunityIcons(64436);
+      IconData(64436, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData train_variant =
-      FlutterIconData.materialCommunityIcons(63683);
-  static const IconData tram = FlutterIconData.materialCommunityIcons(62765);
+      IconData(63683, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tram = IconData(62765, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tram_side =
-      FlutterIconData.materialCommunityIcons(983048);
+      IconData(983048, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transcribe =
-      FlutterIconData.materialCommunityIcons(62766);
+      IconData(62766, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transcribe_close =
-      FlutterIconData.materialCommunityIcons(62767);
+      IconData(62767, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transfer_down =
-      FlutterIconData.materialCommunityIcons(64893);
+      IconData(64893, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transfer_left =
-      FlutterIconData.materialCommunityIcons(64894);
+      IconData(64894, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transfer_right =
-      FlutterIconData.materialCommunityIcons(62768);
+      IconData(62768, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transfer_up =
-      FlutterIconData.materialCommunityIcons(64895);
+      IconData(64895, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transit_connection =
-      FlutterIconData.materialCommunityIcons(64792);
+      IconData(64792, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transit_connection_variant =
-      FlutterIconData.materialCommunityIcons(64793);
+      IconData(64793, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transit_detour =
-      FlutterIconData.materialCommunityIcons(65448);
+      IconData(65448, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transit_transfer =
-      FlutterIconData.materialCommunityIcons(63149);
+      IconData(63149, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transition =
-      FlutterIconData.materialCommunityIcons(63764);
+      IconData(63764, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transition_masked =
-      FlutterIconData.materialCommunityIcons(63765);
+      IconData(63765, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData translate =
-      FlutterIconData.materialCommunityIcons(62922);
+      IconData(62922, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData translate_off =
-      FlutterIconData.materialCommunityIcons(65126);
+      IconData(65126, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData transmission_tower =
-      FlutterIconData.materialCommunityIcons(64794);
+      IconData(64794, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trash_can =
-      FlutterIconData.materialCommunityIcons(64120);
+      IconData(64120, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trash_can_outline =
-      FlutterIconData.materialCommunityIcons(64121);
+      IconData(64121, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData treasure_chest =
-      FlutterIconData.materialCommunityIcons(63269);
-  static const IconData tree = FlutterIconData.materialCommunityIcons(62769);
+      IconData(63269, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tree = IconData(62769, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tree_outline =
-      FlutterIconData.materialCommunityIcons(65100);
-  static const IconData trello = FlutterIconData.materialCommunityIcons(62770);
+      IconData(65100, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData trello = IconData(62770, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trending_down =
-      FlutterIconData.materialCommunityIcons(62771);
+      IconData(62771, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trending_neutral =
-      FlutterIconData.materialCommunityIcons(62772);
+      IconData(62772, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trending_up =
-      FlutterIconData.materialCommunityIcons(62773);
+      IconData(62773, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData triangle =
-      FlutterIconData.materialCommunityIcons(62774);
+      IconData(62774, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData triangle_outline =
-      FlutterIconData.materialCommunityIcons(62775);
+      IconData(62775, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData triforce =
-      FlutterIconData.materialCommunityIcons(64437);
-  static const IconData trophy = FlutterIconData.materialCommunityIcons(62776);
+      IconData(64437, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData trophy = IconData(62776, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trophy_award =
-      FlutterIconData.materialCommunityIcons(62777);
+      IconData(62777, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trophy_broken =
-      FlutterIconData.materialCommunityIcons(64896);
+      IconData(64896, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trophy_outline =
-      FlutterIconData.materialCommunityIcons(62778);
+      IconData(62778, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trophy_variant =
-      FlutterIconData.materialCommunityIcons(62779);
+      IconData(62779, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData trophy_variant_outline =
-      FlutterIconData.materialCommunityIcons(62780);
-  static const IconData truck = FlutterIconData.materialCommunityIcons(62781);
+      IconData(62780, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData truck = IconData(62781, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData truck_check =
-      FlutterIconData.materialCommunityIcons(64688);
+      IconData(64688, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData truck_delivery =
-      FlutterIconData.materialCommunityIcons(62782);
+      IconData(62782, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData truck_fast =
-      FlutterIconData.materialCommunityIcons(63367);
+      IconData(63367, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData truck_trailer =
-      FlutterIconData.materialCommunityIcons(63270);
+      IconData(63270, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tshirt_crew =
-      FlutterIconData.materialCommunityIcons(64122);
+      IconData(64122, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tshirt_crew_outline =
-      FlutterIconData.materialCommunityIcons(62783);
+      IconData(62783, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tshirt_v =
-      FlutterIconData.materialCommunityIcons(64123);
+      IconData(64123, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tshirt_v_outline =
-      FlutterIconData.materialCommunityIcons(62784);
+      IconData(62784, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tumble_dryer =
-      FlutterIconData.materialCommunityIcons(63766);
-  static const IconData tumblr = FlutterIconData.materialCommunityIcons(62785);
+      IconData(63766, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tumblr = IconData(62785, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tumblr_box =
-      FlutterIconData.materialCommunityIcons(63767);
+      IconData(63767, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tumblr_reblog =
-      FlutterIconData.materialCommunityIcons(62786);
-  static const IconData tune = FlutterIconData.materialCommunityIcons(63022);
+      IconData(62786, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData tune = IconData(63022, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData tune_vertical =
-      FlutterIconData.materialCommunityIcons(63082);
+      IconData(63082, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData turnstile =
-      FlutterIconData.materialCommunityIcons(64689);
+      IconData(64689, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData turnstile_outline =
-      FlutterIconData.materialCommunityIcons(64690);
-  static const IconData turtle = FlutterIconData.materialCommunityIcons(64691);
-  static const IconData twitch = FlutterIconData.materialCommunityIcons(62787);
-  static const IconData twitter = FlutterIconData.materialCommunityIcons(62788);
+      IconData(64690, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData turtle = IconData(64691, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData twitch = IconData(62787, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData twitter = IconData(62788, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData twitter_box =
-      FlutterIconData.materialCommunityIcons(62789);
+      IconData(62789, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData twitter_circle =
-      FlutterIconData.materialCommunityIcons(62790);
+      IconData(62790, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData twitter_retweet =
-      FlutterIconData.materialCommunityIcons(62791);
+      IconData(62791, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData two_factor_authentication =
-      FlutterIconData.materialCommunityIcons(63918);
+      IconData(63918, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData typewriter =
-      FlutterIconData.materialCommunityIcons(65354);
-  static const IconData uber = FlutterIconData.materialCommunityIcons(63304);
-  static const IconData ubisoft = FlutterIconData.materialCommunityIcons(64438);
-  static const IconData ubuntu = FlutterIconData.materialCommunityIcons(62792);
+      IconData(65354, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData uber = IconData(63304, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ubisoft = IconData(64438, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ubuntu = IconData(62792, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData ultra_high_definition =
-      FlutterIconData.materialCommunityIcons(63480);
-  static const IconData umbraco = FlutterIconData.materialCommunityIcons(62793);
+      IconData(63480, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData umbraco = IconData(62793, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData umbrella =
-      FlutterIconData.materialCommunityIcons(62794);
+      IconData(62794, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData umbrella_closed =
-      FlutterIconData.materialCommunityIcons(63919);
+      IconData(63919, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData umbrella_outline =
-      FlutterIconData.materialCommunityIcons(62795);
-  static const IconData undo = FlutterIconData.materialCommunityIcons(62796);
+      IconData(62795, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData undo = IconData(62796, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData undo_variant =
-      FlutterIconData.materialCommunityIcons(62797);
+      IconData(62797, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData unfold_less_horizontal =
-      FlutterIconData.materialCommunityIcons(62798);
+      IconData(62798, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData unfold_less_vertical =
-      FlutterIconData.materialCommunityIcons(63327);
+      IconData(63327, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData unfold_more_horizontal =
-      FlutterIconData.materialCommunityIcons(62799);
+      IconData(62799, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData unfold_more_vertical =
-      FlutterIconData.materialCommunityIcons(63328);
-  static const IconData ungroup = FlutterIconData.materialCommunityIcons(62800);
-  static const IconData unicode = FlutterIconData.materialCommunityIcons(65261);
-  static const IconData unity = FlutterIconData.materialCommunityIcons(63150);
-  static const IconData unreal = FlutterIconData.materialCommunityIcons(63920);
-  static const IconData untappd = FlutterIconData.materialCommunityIcons(62801);
-  static const IconData update = FlutterIconData.materialCommunityIcons(63151);
-  static const IconData upload = FlutterIconData.materialCommunityIcons(62802);
+      IconData(63328, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData ungroup = IconData(62800, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData unicode = IconData(65261, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData unity = IconData(63150, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData unreal = IconData(63920, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData untappd = IconData(62801, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData update = IconData(63151, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData upload = IconData(62802, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData upload_multiple =
-      FlutterIconData.materialCommunityIcons(63548);
+      IconData(63548, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData upload_network =
-      FlutterIconData.materialCommunityIcons(63221);
+      IconData(63221, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData upload_network_outline =
-      FlutterIconData.materialCommunityIcons(64692);
+      IconData(64692, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData upload_outline =
-      FlutterIconData.materialCommunityIcons(65127);
-  static const IconData usb = FlutterIconData.materialCommunityIcons(62803);
+      IconData(65127, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData usb = IconData(62803, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData van_passenger =
-      FlutterIconData.materialCommunityIcons(63481);
+      IconData(63481, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData van_utility =
-      FlutterIconData.materialCommunityIcons(63482);
-  static const IconData vanish = FlutterIconData.materialCommunityIcons(63483);
+      IconData(63482, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vanish = IconData(63483, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData variable =
-      FlutterIconData.materialCommunityIcons(64230);
+      IconData(64230, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_arrange_above =
-      FlutterIconData.materialCommunityIcons(62804);
+      IconData(62804, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_arrange_below =
-      FlutterIconData.materialCommunityIcons(62805);
+      IconData(62805, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_bezier =
-      FlutterIconData.materialCommunityIcons(64231);
+      IconData(64231, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_circle =
-      FlutterIconData.materialCommunityIcons(62806);
+      IconData(62806, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_circle_variant =
-      FlutterIconData.materialCommunityIcons(62807);
+      IconData(62807, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_combine =
-      FlutterIconData.materialCommunityIcons(62808);
+      IconData(62808, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_curve =
-      FlutterIconData.materialCommunityIcons(62809);
+      IconData(62809, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_difference =
-      FlutterIconData.materialCommunityIcons(62810);
+      IconData(62810, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_difference_ab =
-      FlutterIconData.materialCommunityIcons(62811);
+      IconData(62811, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_difference_ba =
-      FlutterIconData.materialCommunityIcons(62812);
+      IconData(62812, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_ellipse =
-      FlutterIconData.materialCommunityIcons(63634);
+      IconData(63634, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_intersection =
-      FlutterIconData.materialCommunityIcons(62813);
+      IconData(62813, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_line =
-      FlutterIconData.materialCommunityIcons(62814);
+      IconData(62814, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_link =
-      FlutterIconData.materialCommunityIcons(983049);
+      IconData(983049, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_point =
-      FlutterIconData.materialCommunityIcons(62815);
+      IconData(62815, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_polygon =
-      FlutterIconData.materialCommunityIcons(62816);
+      IconData(62816, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_polyline =
-      FlutterIconData.materialCommunityIcons(62817);
+      IconData(62817, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_radius =
-      FlutterIconData.materialCommunityIcons(63305);
+      IconData(63305, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_rectangle =
-      FlutterIconData.materialCommunityIcons(62918);
+      IconData(62918, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_selection =
-      FlutterIconData.materialCommunityIcons(62818);
+      IconData(62818, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_square =
-      FlutterIconData.materialCommunityIcons(61441);
+      IconData(61441, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_triangle =
-      FlutterIconData.materialCommunityIcons(62819);
+      IconData(62819, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vector_union =
-      FlutterIconData.materialCommunityIcons(62820);
-  static const IconData venmo = FlutterIconData.materialCommunityIcons(62840);
-  static const IconData vhs = FlutterIconData.materialCommunityIcons(64026);
-  static const IconData vibrate = FlutterIconData.materialCommunityIcons(62822);
+      IconData(62820, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData venmo = IconData(62840, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vhs = IconData(64026, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vibrate = IconData(62822, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vibrate_off =
-      FlutterIconData.materialCommunityIcons(64693);
-  static const IconData video = FlutterIconData.materialCommunityIcons(62823);
+      IconData(64693, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData video = IconData(62823, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_3d =
-      FlutterIconData.materialCommunityIcons(63484);
+      IconData(63484, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_3d_variant =
-      FlutterIconData.materialCommunityIcons(65262);
+      IconData(65262, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_4k_box =
-      FlutterIconData.materialCommunityIcons(63549);
+      IconData(63549, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_account =
-      FlutterIconData.materialCommunityIcons(63768);
+      IconData(63768, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_image =
-      FlutterIconData.materialCommunityIcons(63769);
+      IconData(63769, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_input_antenna =
-      FlutterIconData.materialCommunityIcons(63550);
+      IconData(63550, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_input_component =
-      FlutterIconData.materialCommunityIcons(63551);
+      IconData(63551, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_input_hdmi =
-      FlutterIconData.materialCommunityIcons(63552);
+      IconData(63552, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_input_scart =
-      FlutterIconData.materialCommunityIcons(65449);
+      IconData(65449, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_input_svideo =
-      FlutterIconData.materialCommunityIcons(63553);
+      IconData(63553, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_minus =
-      FlutterIconData.materialCommunityIcons(63921);
+      IconData(63921, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_off =
-      FlutterIconData.materialCommunityIcons(62824);
+      IconData(62824, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_off_outline =
-      FlutterIconData.materialCommunityIcons(64439);
+      IconData(64439, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_outline =
-      FlutterIconData.materialCommunityIcons(64440);
+      IconData(64440, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_plus =
-      FlutterIconData.materialCommunityIcons(63922);
+      IconData(63922, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_stabilization =
-      FlutterIconData.materialCommunityIcons(63770);
+      IconData(63770, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_switch =
-      FlutterIconData.materialCommunityIcons(62825);
+      IconData(62825, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_vintage =
-      FlutterIconData.materialCommunityIcons(64027);
+      IconData(64027, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_wireless =
-      FlutterIconData.materialCommunityIcons(65263);
+      IconData(65263, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData video_wireless_outline =
-      FlutterIconData.materialCommunityIcons(65264);
+      IconData(65264, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_agenda =
-      FlutterIconData.materialCommunityIcons(62826);
+      IconData(62826, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_array =
-      FlutterIconData.materialCommunityIcons(62827);
+      IconData(62827, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_carousel =
-      FlutterIconData.materialCommunityIcons(62828);
+      IconData(62828, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_column =
-      FlutterIconData.materialCommunityIcons(62829);
+      IconData(62829, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_comfy =
-      FlutterIconData.materialCommunityIcons(65101);
+      IconData(65101, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_compact =
-      FlutterIconData.materialCommunityIcons(65102);
+      IconData(65102, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_compact_outline =
-      FlutterIconData.materialCommunityIcons(65103);
+      IconData(65103, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_dashboard =
-      FlutterIconData.materialCommunityIcons(62830);
+      IconData(62830, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_dashboard_outline =
-      FlutterIconData.materialCommunityIcons(64028);
+      IconData(64028, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_dashboard_variant =
-      FlutterIconData.materialCommunityIcons(63554);
+      IconData(63554, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_day =
-      FlutterIconData.materialCommunityIcons(62831);
+      IconData(62831, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_grid =
-      FlutterIconData.materialCommunityIcons(62832);
+      IconData(62832, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_grid_plus =
-      FlutterIconData.materialCommunityIcons(65450);
+      IconData(65450, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_headline =
-      FlutterIconData.materialCommunityIcons(62833);
+      IconData(62833, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_list =
-      FlutterIconData.materialCommunityIcons(62834);
+      IconData(62834, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_module =
-      FlutterIconData.materialCommunityIcons(62835);
+      IconData(62835, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_parallel =
-      FlutterIconData.materialCommunityIcons(63271);
+      IconData(63271, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_quilt =
-      FlutterIconData.materialCommunityIcons(62836);
+      IconData(62836, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_sequential =
-      FlutterIconData.materialCommunityIcons(63272);
+      IconData(63272, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_split_horizontal =
-      FlutterIconData.materialCommunityIcons(64423);
+      IconData(64423, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_split_vertical =
-      FlutterIconData.materialCommunityIcons(64424);
+      IconData(64424, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_stream =
-      FlutterIconData.materialCommunityIcons(62837);
+      IconData(62837, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData view_week =
-      FlutterIconData.materialCommunityIcons(62838);
-  static const IconData vimeo = FlutterIconData.materialCommunityIcons(62839);
-  static const IconData violin = FlutterIconData.materialCommunityIcons(62991);
+      IconData(62838, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vimeo = IconData(62839, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData violin = IconData(62991, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData virtual_reality =
-      FlutterIconData.materialCommunityIcons(63635);
+      IconData(63635, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData visual_studio =
-      FlutterIconData.materialCommunityIcons(62992);
+      IconData(62992, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData visual_studio_code =
-      FlutterIconData.materialCommunityIcons(64029);
-  static const IconData vk = FlutterIconData.materialCommunityIcons(62841);
-  static const IconData vk_box = FlutterIconData.materialCommunityIcons(62842);
+      IconData(64029, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vk = IconData(62841, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vk_box = IconData(62842, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vk_circle =
-      FlutterIconData.materialCommunityIcons(62843);
-  static const IconData vlc = FlutterIconData.materialCommunityIcons(62844);
-  static const IconData voice = FlutterIconData.materialCommunityIcons(62923);
+      IconData(62843, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vlc = IconData(62844, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData voice = IconData(62923, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData voice_off =
-      FlutterIconData.materialCommunityIcons(65265);
+      IconData(65265, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData voicemail =
-      FlutterIconData.materialCommunityIcons(62845);
+      IconData(62845, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volleyball =
-      FlutterIconData.materialCommunityIcons(63923);
+      IconData(63923, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volume_high =
-      FlutterIconData.materialCommunityIcons(62846);
+      IconData(62846, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volume_low =
-      FlutterIconData.materialCommunityIcons(62847);
+      IconData(62847, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volume_medium =
-      FlutterIconData.materialCommunityIcons(62848);
+      IconData(62848, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volume_minus =
-      FlutterIconData.materialCommunityIcons(63325);
+      IconData(63325, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volume_mute =
-      FlutterIconData.materialCommunityIcons(63326);
+      IconData(63326, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volume_off =
-      FlutterIconData.materialCommunityIcons(62849);
+      IconData(62849, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volume_plus =
-      FlutterIconData.materialCommunityIcons(63324);
+      IconData(63324, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData volume_variant_off =
-      FlutterIconData.materialCommunityIcons(65128);
-  static const IconData vote = FlutterIconData.materialCommunityIcons(64030);
+      IconData(65128, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vote = IconData(64030, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData vote_outline =
-      FlutterIconData.materialCommunityIcons(64031);
-  static const IconData vpn = FlutterIconData.materialCommunityIcons(62850);
-  static const IconData vuejs = FlutterIconData.materialCommunityIcons(63555);
-  static const IconData vuetify = FlutterIconData.materialCommunityIcons(65104);
-  static const IconData walk = FlutterIconData.materialCommunityIcons(62851);
-  static const IconData wall = FlutterIconData.materialCommunityIcons(63485);
+      IconData(64031, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vpn = IconData(62850, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vuejs = IconData(63555, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData vuetify = IconData(65104, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData walk = IconData(62851, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wall = IconData(63485, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wall_sconce =
-      FlutterIconData.materialCommunityIcons(63771);
+      IconData(63771, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wall_sconce_flat =
-      FlutterIconData.materialCommunityIcons(63772);
+      IconData(63772, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wall_sconce_variant =
-      FlutterIconData.materialCommunityIcons(63773);
-  static const IconData wallet = FlutterIconData.materialCommunityIcons(62852);
+      IconData(63773, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wallet = IconData(62852, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wallet_giftcard =
-      FlutterIconData.materialCommunityIcons(62853);
+      IconData(62853, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wallet_membership =
-      FlutterIconData.materialCommunityIcons(62854);
+      IconData(62854, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wallet_outline =
-      FlutterIconData.materialCommunityIcons(64441);
+      IconData(64441, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wallet_plus =
-      FlutterIconData.materialCommunityIcons(65451);
+      IconData(65451, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wallet_plus_outline =
-      FlutterIconData.materialCommunityIcons(65452);
+      IconData(65452, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wallet_travel =
-      FlutterIconData.materialCommunityIcons(62855);
+      IconData(62855, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wallpaper =
-      FlutterIconData.materialCommunityIcons(65129);
-  static const IconData wan = FlutterIconData.materialCommunityIcons(62856);
+      IconData(65129, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wan = IconData(62856, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wardrobe =
-      FlutterIconData.materialCommunityIcons(65453);
+      IconData(65453, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wardrobe_outline =
-      FlutterIconData.materialCommunityIcons(65454);
+      IconData(65454, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData warehouse =
-      FlutterIconData.materialCommunityIcons(65467);
+      IconData(65467, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData washing_machine =
-      FlutterIconData.materialCommunityIcons(63273);
-  static const IconData watch = FlutterIconData.materialCommunityIcons(62857);
+      IconData(63273, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData watch = IconData(62857, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData watch_export =
-      FlutterIconData.materialCommunityIcons(62858);
+      IconData(62858, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData watch_export_variant =
-      FlutterIconData.materialCommunityIcons(63636);
+      IconData(63636, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData watch_import =
-      FlutterIconData.materialCommunityIcons(62859);
+      IconData(62859, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData watch_import_variant =
-      FlutterIconData.materialCommunityIcons(63637);
+      IconData(63637, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData watch_variant =
-      FlutterIconData.materialCommunityIcons(63638);
+      IconData(63638, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData watch_vibrate =
-      FlutterIconData.materialCommunityIcons(63152);
+      IconData(63152, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData watch_vibrate_off =
-      FlutterIconData.materialCommunityIcons(64694);
-  static const IconData water = FlutterIconData.materialCommunityIcons(62860);
+      IconData(64694, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData water = IconData(62860, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData water_boiler =
-      FlutterIconData.materialCommunityIcons(65455);
+      IconData(65455, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData water_off =
-      FlutterIconData.materialCommunityIcons(62861);
+      IconData(62861, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData water_outline =
-      FlutterIconData.materialCommunityIcons(65130);
+      IconData(65130, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData water_percent =
-      FlutterIconData.materialCommunityIcons(62862);
+      IconData(62862, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData water_pump =
-      FlutterIconData.materialCommunityIcons(62863);
+      IconData(62863, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData water_pump_off =
-      FlutterIconData.materialCommunityIcons(65456);
+      IconData(65456, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData watermark =
-      FlutterIconData.materialCommunityIcons(62994);
-  static const IconData wave = FlutterIconData.materialCommunityIcons(65355);
-  static const IconData waves = FlutterIconData.materialCommunityIcons(63372);
-  static const IconData waze = FlutterIconData.materialCommunityIcons(64442);
+      IconData(62994, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wave = IconData(65355, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData waves = IconData(63372, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData waze = IconData(64442, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_cloudy =
-      FlutterIconData.materialCommunityIcons(62864);
+      IconData(62864, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_cloudy_alert =
-      FlutterIconData.materialCommunityIcons(65356);
+      IconData(65356, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_cloudy_arrow_right =
-      FlutterIconData.materialCommunityIcons(65105);
+      IconData(65105, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_fog =
-      FlutterIconData.materialCommunityIcons(62865);
+      IconData(62865, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_hail =
-      FlutterIconData.materialCommunityIcons(62866);
+      IconData(62866, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_hazy =
-      FlutterIconData.materialCommunityIcons(65357);
+      IconData(65357, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_hurricane =
-      FlutterIconData.materialCommunityIcons(63639);
+      IconData(63639, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_lightning =
-      FlutterIconData.materialCommunityIcons(62867);
+      IconData(62867, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_lightning_rainy =
-      FlutterIconData.materialCommunityIcons(63101);
+      IconData(63101, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_night =
-      FlutterIconData.materialCommunityIcons(62868);
+      IconData(62868, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_night_partly_cloudy =
-      FlutterIconData.materialCommunityIcons(65358);
+      IconData(65358, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_partly_cloudy =
-      FlutterIconData.materialCommunityIcons(62869);
+      IconData(62869, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_partly_lightning =
-      FlutterIconData.materialCommunityIcons(65359);
+      IconData(65359, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_partly_rainy =
-      FlutterIconData.materialCommunityIcons(65360);
+      IconData(65360, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_partly_snowy =
-      FlutterIconData.materialCommunityIcons(65361);
+      IconData(65361, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_partly_snowy_rainy =
-      FlutterIconData.materialCommunityIcons(65362);
+      IconData(65362, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_pouring =
-      FlutterIconData.materialCommunityIcons(62870);
+      IconData(62870, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_rainy =
-      FlutterIconData.materialCommunityIcons(62871);
+      IconData(62871, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_snowy =
-      FlutterIconData.materialCommunityIcons(62872);
+      IconData(62872, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_snowy_heavy =
-      FlutterIconData.materialCommunityIcons(65363);
+      IconData(65363, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_snowy_rainy =
-      FlutterIconData.materialCommunityIcons(63102);
+      IconData(63102, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_sunny =
-      FlutterIconData.materialCommunityIcons(62873);
+      IconData(62873, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_sunny_alert =
-      FlutterIconData.materialCommunityIcons(65364);
+      IconData(65364, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_sunset =
-      FlutterIconData.materialCommunityIcons(62874);
+      IconData(62874, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_sunset_down =
-      FlutterIconData.materialCommunityIcons(62875);
+      IconData(62875, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_sunset_up =
-      FlutterIconData.materialCommunityIcons(62876);
+      IconData(62876, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_tornado =
-      FlutterIconData.materialCommunityIcons(65365);
+      IconData(65365, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_windy =
-      FlutterIconData.materialCommunityIcons(62877);
+      IconData(62877, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weather_windy_variant =
-      FlutterIconData.materialCommunityIcons(62878);
-  static const IconData web = FlutterIconData.materialCommunityIcons(62879);
-  static const IconData web_box = FlutterIconData.materialCommunityIcons(65457);
-  static const IconData webcam = FlutterIconData.materialCommunityIcons(62880);
-  static const IconData webhook = FlutterIconData.materialCommunityIcons(63023);
-  static const IconData webpack = FlutterIconData.materialCommunityIcons(63274);
-  static const IconData wechat = FlutterIconData.materialCommunityIcons(62993);
-  static const IconData weight = FlutterIconData.materialCommunityIcons(62881);
+      IconData(62878, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData web = IconData(62879, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData web_box = IconData(65457, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData webcam = IconData(62880, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData webhook = IconData(63023, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData webpack = IconData(63274, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wechat = IconData(62993, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData weight = IconData(62881, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weight_gram =
-      FlutterIconData.materialCommunityIcons(64795);
+      IconData(64795, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weight_kilogram =
-      FlutterIconData.materialCommunityIcons(62882);
+      IconData(62882, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData weight_pound =
-      FlutterIconData.materialCommunityIcons(63924);
+      IconData(63924, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData whatsapp =
-      FlutterIconData.materialCommunityIcons(62883);
+      IconData(62883, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wheelchair_accessibility =
-      FlutterIconData.materialCommunityIcons(62884);
-  static const IconData whistle = FlutterIconData.materialCommunityIcons(63925);
+      IconData(62884, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData whistle = IconData(63925, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData white_balance_auto =
-      FlutterIconData.materialCommunityIcons(62885);
+      IconData(62885, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData white_balance_incandescent =
-      FlutterIconData.materialCommunityIcons(62886);
+      IconData(62886, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData white_balance_iridescent =
-      FlutterIconData.materialCommunityIcons(62887);
+      IconData(62887, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData white_balance_sunny =
-      FlutterIconData.materialCommunityIcons(62888);
-  static const IconData widgets = FlutterIconData.materialCommunityIcons(63275);
-  static const IconData wifi = FlutterIconData.materialCommunityIcons(62889);
+      IconData(62888, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData widgets = IconData(63275, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wifi = IconData(62889, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_off =
-      FlutterIconData.materialCommunityIcons(62890);
+      IconData(62890, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_star =
-      FlutterIconData.materialCommunityIcons(65131);
+      IconData(65131, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_1 =
-      FlutterIconData.materialCommunityIcons(63774);
+      IconData(63774, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_1_alert =
-      FlutterIconData.materialCommunityIcons(63775);
+      IconData(63775, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_1_lock =
-      FlutterIconData.materialCommunityIcons(63776);
+      IconData(63776, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_2 =
-      FlutterIconData.materialCommunityIcons(63777);
+      IconData(63777, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_2_alert =
-      FlutterIconData.materialCommunityIcons(63778);
+      IconData(63778, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_2_lock =
-      FlutterIconData.materialCommunityIcons(63779);
+      IconData(63779, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_3 =
-      FlutterIconData.materialCommunityIcons(63780);
+      IconData(63780, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_3_alert =
-      FlutterIconData.materialCommunityIcons(63781);
+      IconData(63781, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_3_lock =
-      FlutterIconData.materialCommunityIcons(63782);
+      IconData(63782, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_4 =
-      FlutterIconData.materialCommunityIcons(63783);
+      IconData(63783, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_4_alert =
-      FlutterIconData.materialCommunityIcons(63784);
+      IconData(63784, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_4_lock =
-      FlutterIconData.materialCommunityIcons(63785);
+      IconData(63785, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_alert_outline =
-      FlutterIconData.materialCommunityIcons(63786);
+      IconData(63786, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_lock_outline =
-      FlutterIconData.materialCommunityIcons(63787);
+      IconData(63787, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_off =
-      FlutterIconData.materialCommunityIcons(63788);
+      IconData(63788, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_off_outline =
-      FlutterIconData.materialCommunityIcons(63789);
+      IconData(63789, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wifi_strength_outline =
-      FlutterIconData.materialCommunityIcons(63790);
-  static const IconData wii = FlutterIconData.materialCommunityIcons(62891);
-  static const IconData wiiu = FlutterIconData.materialCommunityIcons(63276);
+      IconData(63790, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wii = IconData(62891, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wiiu = IconData(63276, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wikipedia =
-      FlutterIconData.materialCommunityIcons(62892);
+      IconData(62892, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wind_turbine =
-      FlutterIconData.materialCommunityIcons(64897);
+      IconData(64897, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData window_close =
-      FlutterIconData.materialCommunityIcons(62893);
+      IconData(62893, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData window_closed =
-      FlutterIconData.materialCommunityIcons(62894);
+      IconData(62894, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData window_maximize =
-      FlutterIconData.materialCommunityIcons(62895);
+      IconData(62895, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData window_minimize =
-      FlutterIconData.materialCommunityIcons(62896);
+      IconData(62896, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData window_open =
-      FlutterIconData.materialCommunityIcons(62897);
+      IconData(62897, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData window_restore =
-      FlutterIconData.materialCommunityIcons(62898);
-  static const IconData windows = FlutterIconData.materialCommunityIcons(62899);
+      IconData(62898, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData windows = IconData(62899, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData windows_classic =
-      FlutterIconData.materialCommunityIcons(64032);
-  static const IconData wiper = FlutterIconData.materialCommunityIcons(64232);
+      IconData(64032, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wiper = IconData(64232, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wiper_wash =
-      FlutterIconData.materialCommunityIcons(64898);
+      IconData(64898, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wordpress =
-      FlutterIconData.materialCommunityIcons(62900);
-  static const IconData worker = FlutterIconData.materialCommunityIcons(62901);
-  static const IconData wrap = FlutterIconData.materialCommunityIcons(62902);
+      IconData(62900, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData worker = IconData(62901, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wrap = IconData(62902, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wrap_disabled =
-      FlutterIconData.materialCommunityIcons(64443);
-  static const IconData wrench = FlutterIconData.materialCommunityIcons(62903);
+      IconData(64443, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData wrench = IconData(62903, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wrench_outline =
-      FlutterIconData.materialCommunityIcons(64444);
+      IconData(64444, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData wunderlist =
-      FlutterIconData.materialCommunityIcons(62904);
-  static const IconData xamarin = FlutterIconData.materialCommunityIcons(63556);
+      IconData(62904, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData xamarin = IconData(63556, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xamarin_outline =
-      FlutterIconData.materialCommunityIcons(63557);
-  static const IconData xaml = FlutterIconData.materialCommunityIcons(63091);
-  static const IconData xbox = FlutterIconData.materialCommunityIcons(62905);
+      IconData(63557, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData xaml = IconData(63091, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData xbox = IconData(62905, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller =
-      FlutterIconData.materialCommunityIcons(62906);
+      IconData(62906, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_battery_alert =
-      FlutterIconData.materialCommunityIcons(63306);
+      IconData(63306, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_battery_charging =
-      FlutterIconData.materialCommunityIcons(64033);
+      IconData(64033, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_battery_empty =
-      FlutterIconData.materialCommunityIcons(63307);
+      IconData(63307, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_battery_full =
-      FlutterIconData.materialCommunityIcons(63308);
+      IconData(63308, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_battery_low =
-      FlutterIconData.materialCommunityIcons(63309);
+      IconData(63309, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_battery_medium =
-      FlutterIconData.materialCommunityIcons(63310);
+      IconData(63310, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_battery_unknown =
-      FlutterIconData.materialCommunityIcons(63311);
+      IconData(63311, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_menu =
-      FlutterIconData.materialCommunityIcons(65106);
+      IconData(65106, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_off =
-      FlutterIconData.materialCommunityIcons(62907);
+      IconData(62907, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xbox_controller_view =
-      FlutterIconData.materialCommunityIcons(65107);
-  static const IconData xda = FlutterIconData.materialCommunityIcons(62908);
-  static const IconData xing = FlutterIconData.materialCommunityIcons(62909);
+      IconData(65107, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData xda = IconData(62908, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData xing = IconData(62909, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xing_box =
-      FlutterIconData.materialCommunityIcons(62910);
+      IconData(62910, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData xing_circle =
-      FlutterIconData.materialCommunityIcons(62911);
-  static const IconData xml = FlutterIconData.materialCommunityIcons(62912);
-  static const IconData xmpp = FlutterIconData.materialCommunityIcons(63486);
-  static const IconData yahoo = FlutterIconData.materialCommunityIcons(64298);
-  static const IconData yammer = FlutterIconData.materialCommunityIcons(63368);
-  static const IconData yeast = FlutterIconData.materialCommunityIcons(62913);
-  static const IconData yelp = FlutterIconData.materialCommunityIcons(62914);
+      IconData(62911, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData xml = IconData(62912, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData xmpp = IconData(63486, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData yahoo = IconData(64298, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData yammer = IconData(63368, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData yeast = IconData(62913, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData yelp = IconData(62914, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData yin_yang =
-      FlutterIconData.materialCommunityIcons(63103);
-  static const IconData youtube = FlutterIconData.materialCommunityIcons(62915);
+      IconData(63103, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData youtube = IconData(62915, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData youtube_creator_studio =
-      FlutterIconData.materialCommunityIcons(63558);
+      IconData(63558, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData youtube_gaming =
-      FlutterIconData.materialCommunityIcons(63559);
+      IconData(63559, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData youtube_subscription =
-      FlutterIconData.materialCommunityIcons(64796);
+      IconData(64796, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData youtube_tv =
-      FlutterIconData.materialCommunityIcons(62536);
-  static const IconData z_wave = FlutterIconData.materialCommunityIcons(64233);
-  static const IconData zend = FlutterIconData.materialCommunityIcons(64234);
-  static const IconData zigbee = FlutterIconData.materialCommunityIcons(64797);
-  static const IconData zip_box = FlutterIconData.materialCommunityIcons(62916);
+      IconData(62536, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData z_wave = IconData(64233, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData zend = IconData(64234, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData zigbee = IconData(64797, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData zip_box = IconData(62916, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zip_box_outline =
-      FlutterIconData.materialCommunityIcons(983067);
+      IconData(983067, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zip_disk =
-      FlutterIconData.materialCommunityIcons(64034);
+      IconData(64034, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_aquarius =
-      FlutterIconData.materialCommunityIcons(64124);
+      IconData(64124, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_aries =
-      FlutterIconData.materialCommunityIcons(64125);
+      IconData(64125, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_cancer =
-      FlutterIconData.materialCommunityIcons(64126);
+      IconData(64126, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_capricorn =
-      FlutterIconData.materialCommunityIcons(64127);
+      IconData(64127, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_gemini =
-      FlutterIconData.materialCommunityIcons(64128);
+      IconData(64128, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_leo =
-      FlutterIconData.materialCommunityIcons(64129);
+      IconData(64129, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_libra =
-      FlutterIconData.materialCommunityIcons(64130);
+      IconData(64130, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_pisces =
-      FlutterIconData.materialCommunityIcons(64131);
+      IconData(64131, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_sagittarius =
-      FlutterIconData.materialCommunityIcons(64132);
+      IconData(64132, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_scorpio =
-      FlutterIconData.materialCommunityIcons(64133);
+      IconData(64133, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_taurus =
-      FlutterIconData.materialCommunityIcons(64134);
+      IconData(64134, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
   static const IconData zodiac_virgo =
-      FlutterIconData.materialCommunityIcons(64135);
-  static const IconData blank = FlutterIconData.materialCommunityIcons(63116);
+      IconData(64135, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
+  static const IconData blank = IconData(63116, fontFamily: "MaterialCommunityIcons", fontPackage: "flutter_icons");
 }
